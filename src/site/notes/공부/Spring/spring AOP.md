@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/spring AOP/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/Spring/spring AOP/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 실무에서 정말 많이 사용됨
