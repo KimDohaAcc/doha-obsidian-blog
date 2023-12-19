@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/다익스트라(Dijkstra)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/알고리즘/다익스트라(Dijkstra)/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 음의 가중치가 없는 그래프의 한 정점에서 모든 정점까지의 **최단 거리**를 각각 구하는 알고리즘(최단 경로 문제, Shortest Path Problem).
