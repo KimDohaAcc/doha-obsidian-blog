@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/리스트/LinkedList/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/자료구조/리스트/LinkedList/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 LinkedList는 [[ArrayList\|ArrayList]]와는 달리 [[List\|List]] 인터페이스를 구현한 AbstrackList를 상속하지 않고, **AbstrackSequentialList**를 상속하고 있음
