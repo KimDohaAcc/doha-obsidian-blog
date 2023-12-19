@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/너비 우선 탐색(BFS)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/알고리즘/너비 우선 탐색(BFS)/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 인접한 노드를 먼저 탐색하는 방법
