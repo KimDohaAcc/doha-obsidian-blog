@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/입출력/Stream/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/입출력/Stream/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 연속적인 데이터의 흐름을 물에 비유해서 붙여진 이름
