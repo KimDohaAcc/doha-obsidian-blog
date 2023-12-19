@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/Lombok 세팅/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/Spring/Lombok 세팅/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 setting - annotaion Processors - Enable annotaion processing 체크
