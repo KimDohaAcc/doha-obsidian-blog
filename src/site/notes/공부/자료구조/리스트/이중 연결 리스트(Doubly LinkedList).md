@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/리스트/이중 연결 리스트(Doubly LinkedList)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/자료구조/리스트/이중 연결 리스트(Doubly LinkedList)/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 이중 연결 리스트는 이전 노드의 주소, 다음 노드의 주소, 데이터 값으로 구성되어 있어 양방향 탐색이 가능하다.
