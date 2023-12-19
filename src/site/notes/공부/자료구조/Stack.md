@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/Stack/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/자료구조/Stack/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### First In Last Out
