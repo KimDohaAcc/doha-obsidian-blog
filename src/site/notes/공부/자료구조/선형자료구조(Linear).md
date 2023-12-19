@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/선형자료구조(Linear)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/자료구조/선형자료구조(Linear)/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 하나의 자료 뒤에 하나의 자료만 존재하는 것
