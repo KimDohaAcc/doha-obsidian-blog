@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/슬라이딩 윈도우(Sliding Window)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/알고리즘/슬라이딩 윈도우(Sliding Window)/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 윈도우, 즉 일정한 범위를 유지하면서 이를 이동시키는 알고리즘
