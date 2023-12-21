@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/Path-Compression/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/알고리즘/Path-Compression/","dgPassFrontmatter":true}
 ---
 
 [[공부/알고리즘/서로소 집합\|서로소 집합]] 최적화 방법 중 하나
