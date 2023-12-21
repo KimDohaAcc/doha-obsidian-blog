@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/DP(Dynamic Programming)/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/알고리즘/DP(Dynamic Programming)/","dgPassFrontmatter":true}
 ---
 
 다이나믹 프로그래밍은 동적(Dynamic) 계획법이라고도 불린다
