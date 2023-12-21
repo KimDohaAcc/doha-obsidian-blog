@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/쓴 글/에세이 또는 시/K/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/쓴 글/에세이 또는 시/K/","dgPassFrontmatter":true}
 ---
 
 2019년 12월 2일 월 오후 2:40
