@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring IoC(Inversion of Control)/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring IoC(Inversion of Control)/","dgPassFrontmatter":true}
 ---
 
 전통적인 프로그래밍에서는 개발자가 작성한 프로그램이 외부 라이브러리의 코드를 호출해서 이용함
