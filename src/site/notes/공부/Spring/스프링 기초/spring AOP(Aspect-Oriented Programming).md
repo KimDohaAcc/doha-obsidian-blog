@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/spring AOP(Aspect-Oriented Programming)/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/spring AOP(Aspect-Oriented Programming)/","dgPassFrontmatter":true}
 ---
 
 Aspect-Oriented Programming : 관점 지향 프로그래밍
