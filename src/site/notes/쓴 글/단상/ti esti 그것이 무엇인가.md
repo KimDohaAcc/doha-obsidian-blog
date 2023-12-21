@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/쓴 글/단상/ti esti 그것이 무엇인가/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/쓴 글/단상/ti esti 그것이 무엇인가/","dgPassFrontmatter":true}
 ---
 
 고대 그리스 철학을 배우는 수업 첫날 항상 듣던 말이다.  
