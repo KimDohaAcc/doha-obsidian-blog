@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/사용 참고/Maven Project 빌드/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/Spring/사용 참고/Maven Project 빌드/","dgPassFrontmatter":true}
 ---
 
 Project 생성 후 → Maven Project로 변경
