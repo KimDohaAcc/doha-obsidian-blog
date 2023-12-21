@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring Framework/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring Framework/","dgPassFrontmatter":true}
 ---
 
 POJO(Plain Old Java Object) 방식의 [[공부/SW/Framework\|Framework]]
