@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring IoC Container/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring IoC Container/","dgPassFrontmatter":true}
 ---
 
 
