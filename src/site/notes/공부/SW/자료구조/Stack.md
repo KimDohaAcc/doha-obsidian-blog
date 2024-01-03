@@ -6,6 +6,7 @@
 후입선출
 [[공부/SW/자료구조/선형자료구조(Linear)\|선형자료구조(Linear)]](자료 간의 관계가 1대1의 관계)
 
+![Pasted image 20240103172421.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240103172421.png)
 #### 메소드
 push
 pop
