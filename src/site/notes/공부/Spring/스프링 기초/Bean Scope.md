@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Bean Scope/","dgPassFrontmatter":true}
 ---
 
+#Bean
+
 **Bean 정의를 작성하는 것은 Bean 객체를 생성하는 것과는 다르다!**
 
 Bean 범위를 정의해서 객체의 범위를 제어할 수 있다 
