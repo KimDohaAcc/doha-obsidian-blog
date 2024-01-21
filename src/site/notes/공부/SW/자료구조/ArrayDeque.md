@@ -15,10 +15,12 @@ Stack은 모든 메소드에 synchromized가 있어 단일 스레드 환경에�
 
 #### LinkedList와 비교
 
-LinkedList는 List의 구현체이다
+ArrayDeque와 LinkedList 는 모두 Deque 인터페이스의 구현체이다
+ArrayDeque는 대기열 작업에 더 효율적이고, LinkedList는 목록 중간에 있는 작업에 대해 더 나은 성능을 제공한다
 LinkedList는 null을 추가할 수 있지만, ArrayDeque는 불가능하다
 LinkedList는 반복 중에 현재 요소를 제거하는 것에 효율적이고, ArrayDeque는 양쪽 끝에서 추가, 제거가 효율적이다
 Array는 LinkedList보다 cache-locality 친화적이다
+LinkedList는 이전 및 다음 포인터의 저장으로 인해 추가 메모리 오버헤드가 있다
 ArrayDeque는 다음 노드에 추가적인 reference를 유지할 필요가 없기 때문에 LinkedList보다 메모리 효율적이다
 ### 언제 어떤 걸 써야 할까?
 1. Queue가 필요한 경우 Deque를 사용해라
