@@ -18,3 +18,49 @@
 해당 클래스의 인스턴스들이 엔티티임을 명시함
 
 **[[공부/JPA/Annotation/@EntityListeners\|@EntityListeners]]**
+
+````java
+@Getter
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@EntityListeners(AuditingEntityListener.class)
+@Entity
+@DynamicInsert
+public class Waffle {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    private String content;
+
+    private Long likesCount;
+    private Long commentCount;
+
+    @CreatedDate
+    @Column(updatable = false)
+    private LocalDateTime createdAt;
+    @LastModifiedDate
+    private LocalDateTime updatedAt;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "member_id")
+    private Member member;
+
+    @Builder
+    protected Waffle(String content, Member member) {
+        this.content = content;
+        this.member = member;
+    }
+
+    public void updateWaffleContent(String content) {
+        this.content = content;
+    }
+
+    public void like() {
+        if (likesCount + 1L == Long.MAX_VALUE) {
+            throw new IllegalStateException();
+        }
+        likesCount++;
+    }
+}
+```
