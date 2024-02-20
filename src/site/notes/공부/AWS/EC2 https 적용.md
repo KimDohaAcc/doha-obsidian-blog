@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/공부/AWS/EC2 https 적용/","dgPassFrontmatter":true}
 ---
 
-EC2 인스턴스  개설
+EC2 인스턴스  개설 
 도메인 구매(gabia에서 사도 되고 AWS에서 구매해도 됨)
 #### Route 53
 인증서를 발급하기 앞서 Route53에 내가 도메인 소유자임을 인증
