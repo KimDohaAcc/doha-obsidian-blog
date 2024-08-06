@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/공부/SW/자료형/바이어스(Bias)/","dgPassFrontmatter":true}
 ---
+
 
 IEEE 754 표준에서는 지수를 표현할 때 '바이어스 표현법'을 사용한다
 단정밀도(32비트) 부동소수점에서 바이어스 값은 127이다
