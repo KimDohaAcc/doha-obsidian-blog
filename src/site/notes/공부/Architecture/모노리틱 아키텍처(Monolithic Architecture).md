@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/공부/Architecture/모노리틱 아키텍처(Monolithic Architecture)/","dgPassFrontmatter":true}
 ---
+
 기존의 전통적인 웹 시스템 개발 스타일
 하나의 애플리케이션 내에 **모든 로직이 들어가 있는** 구조이다
 
