@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/공부/JPA/BaseTimeEntity.java/","dgPassFrontmatter":true}
 ---
 
+
 ````java
 @Getter 
 @MappedSuperclass 
@@ -20,7 +21,7 @@ private LocalDateTime modifiedDate;
 #### @MappedSuperclass
 JPA Entity 클래스들이 해당 추상 클래스를 상속할 경우 createDate, modifiedDate를 컬럼으로 인식
 
-#### [[공부/JPA/Annotation/@EntityListeners\|@EntityListeners]](AuditingEntityListener.class
+#### [[공부/JPA/Annotation/@EntityListeners\|@EntityListeners]](AuditingEntityListener.class)
 해당 클래스에 Auditing 기능을 포함
 
 #### @CreatedDate
