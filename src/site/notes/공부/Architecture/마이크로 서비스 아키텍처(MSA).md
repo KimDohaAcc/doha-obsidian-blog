@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/공부/Architecture/마이크로 서비스 아키텍처(MSA)/","dgPassFrontmatter":true}
 ---
+
 근래의 웹 기반 분산 시스템의 디자인에 많이 반영되고 있는 아키텍처 스타일
 대용량 웹 서비스가 많아짐에 따라 정의된 아키텍처이며, 그 근간은 [[공부/Architecture/SOA(Service Oriented Architecture)\|SOA(Service Oriented Architecture)]]에 두고 있다.
 
