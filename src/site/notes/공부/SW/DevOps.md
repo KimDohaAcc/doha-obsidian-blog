@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/공부/SW/DevOps/","dgPassFrontmatter":true}
 ---
+
 ==개발(Development)과 운영(Operation)==을 하나의 조직에 합쳐 놓는 구조
 
 개발팀과 운영팀이 다른 팀으로 분리되어 있어서 발생하는 의사소통의 문제점을 해결할 수 있다
