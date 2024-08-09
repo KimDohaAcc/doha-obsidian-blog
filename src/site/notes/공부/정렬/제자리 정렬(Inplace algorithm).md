@@ -9,5 +9,5 @@
 #### 종류
 [[공부/정렬/삽입 정렬(Insertion Sort)\|삽입 정렬(Insertion Sort)]]
 [[공부/정렬/선택 정렬(Selection Sort)\|선택 정렬(Selection Sort)]]
-[[공부/정렬/버블 정렬\|버블 정렬]]
-[[공부/정렬/퀵 정렬\|퀵 정렬]]
+[[공부/정렬/버블 정렬(Bubble Sort)\|버블 정렬(Bubble Sort)]]
+[[공부/정렬/퀵 정렬(Quick Sort)\|퀵 정렬(Quick Sort)]]
