@@ -3,6 +3,7 @@
 ---
 
 ![image.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/image.gif)
+
 [[공부/알고리즘/분할 정복(Divide and Conquer)\|분할 정복(Divide and Conquer)]]방식을 사용해 ==배열을 반==으로 나눈 후, 각 부분을 ==재귀적으로 정렬==하고 마지막에 ==병합==하는 방식의 정렬 알고리즘
 
 완전 이진 트리를 사용한다
@@ -24,6 +25,42 @@ LinkedList는 순차적 접근은 효율적이지만, 임의 접근은 비효율
 - 힙 정렬: 역시 임의 접근이 필요해 LinkedList에 적합하지 않음
 - 삽입 정렬: LinkedList에 적용 가능하지만, 대규모 데이터에 대해 병합 정렬보다 비효율적
 
-#### [[공부/정렬/퀵 정렬\|퀵 정렬]]과의 차이
+#### [[공부/정렬/퀵 정렬(Quick Sort)\|퀵 정렬(Quick Sort)]]과의 차이
 퀵 정렬 : 우선 피벗을 통해 정렬(partition) 후 영역을 쪼갠다(QuickSort)
 병합 정렬 : 영역을 쪼갤 수 있을 만큼 쪼갠(MergeSort) 후 정렬(merge)한다
+
+## 코드
+```javascript
+function mergeSort(arr) {
+  if (arr.length <= 1) return arr;
+
+  const mid = Math.floor(arr.length / 2);
+  const left = arr.slice(0, mid);
+  const right = arr.slice(mid);
+  
+  return merge(mergeSort(left), mergeSort(right));
+}
+
+function merge(left, right) {
+  const result = [];
+  
+  while(left.length && right.length) {
+    if(left[0] < right[0]) {
+      result.push(left.shift());
+    } else {
+      result.push(right.shift());
+    }
+  }
+  while(left.length) {
+    result.push(left.shift());
+  }
+  while(right.length) {
+    result.push(right.shift());
+  }
+
+  return result;
+}
+
+const arr = [3, 5, 2, 8, 9, 1, 9, 39, 28];
+console.log(mergeSort(arr)); // [1, 2, 3, 5, 8, 9, 9, 28, 39]
+```
