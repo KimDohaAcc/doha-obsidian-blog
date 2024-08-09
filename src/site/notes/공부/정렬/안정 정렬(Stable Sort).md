@@ -13,4 +13,4 @@
 그래서 같은 값임에도 두 카드의 순서가 바뀔 수 있다
 
 
-안정 정렬의 대표적인 예로 [[공부/정렬/삽입 정렬(Insertion Sort)\|삽입 정렬(Insertion Sort)]], [[공부/정렬/병합 정렬(Merge sort)\|병합 정렬(Merge sort)]], [[공부/정렬/버블 정렬\|버블 정렬]]이 있다
+안정 정렬의 대표적인 예로 [[공부/정렬/삽입 정렬(Insertion Sort)\|삽입 정렬(Insertion Sort)]], [[공부/정렬/병합 정렬(Merge sort)\|병합 정렬(Merge sort)]], [[공부/정렬/버블 정렬(Bubble Sort)\|버블 정렬(Bubble Sort)]]이 있다
