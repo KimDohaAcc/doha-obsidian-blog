@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/공부/SW/자료구조/트리/트리(Tree)/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20240302170708.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240302170708.png)
+
+![Pasted image 20240302170708.png](/img/user/첨부파일/Pasted image 20240302170708.png)
+
+![Pasted image 20240809151423.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240809151423.png)
 
 [[공부/SW/자료구조/리스트/Node\|Node]]가 나뭇가지처럼 연결된 **비선형 계층적 자료구조**
 
