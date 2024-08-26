@@ -324,21 +324,32 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  eleventyConfig.addTransform("dataview-js-links", function (str) {
-    const parsed = parse(str);
-    for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
-      const notePath = dataViewJsLink.getAttribute("data-href");
-      const title = dataViewJsLink.innerHTML;
-      const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
-      for (const key in attributes) {
-        dataViewJsLink.setAttribute(key, attributes[key]);
+eleventyConfig.addTransform("dataview-js-links", function (content, outputPath) {
+  if (outputPath && outputPath.endsWith(".html")) {
+    try {
+      const parsed = parse(content);
+      const links = parsed.querySelectorAll("a[data-href].internal-link");
+      
+      for (const dataViewJsLink of links) {
+        const notePath = dataViewJsLink.getAttribute("data-href");
+        const title = dataViewJsLink.textContent;
+        const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
+        
+        for (const [key, value] of Object.entries(attributes)) {
+          dataViewJsLink.setAttribute(key, value);
+        }
+        dataViewJsLink.innerHTML = innerHTML;
       }
-      dataViewJsLink.innerHTML = innerHTML;
+
+      return parsed.toString();
+    } catch (error) {
+      console.error("Error in dataview-js-links transform:", error);
+      return content; // 오류 발생 시 원본 내용 반환
     }
-
-    return str && parsed.innerHTML;
-  });
-
+  }
+  return content;
+});
+  
   eleventyConfig.addTransform("callout-block", function (str) {
     const parsed = parse(str);
 
