@@ -159,8 +159,8 @@ public static int binarySearch(int[] lis, int start, int end, int target) {
 dp 배열은 이렇게 구성될 것이다
 
 이 다음 할 일은 간단하다
-length에는 가장 긴 수열의 길이가 저장되어 있다
-반복문을 통해 수열을 맨 뒤에서부터 탐색하며 length(=4)를 찾아낸다
+length에는 가장 긴 수열의 길이(=5)가 저장되어 있다
+반복문을 통해 수열을 맨 뒤에서부터 탐색하며 length - 1(=4)를 찾아낸다
 
 길이가 4가 된 지점은 `nums[dp[4가 저장된 idx]] = 9`이다
 `9`를 찾았다면 길이 변수에 저장된 값을 -1한다
