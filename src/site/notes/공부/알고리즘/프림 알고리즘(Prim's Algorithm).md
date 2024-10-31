@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/공부/알고리즘/프림 알고리즘(Prim's Algorithm)/","dgPassFrontmatter":true}
 ---
 
-[[공부/SW/자료구조/트리/최소 스패닝 트리(MST)\|최소 스패닝 트리(MST)]]를 구하는 알고리즘으로, 하나의 시작 정점을 기준으로 가장 작은 간선과 연결된 정점을 선택하여 [[공부/SW/자료구조/트리/신장트리\|신장트리]]가 될 때까지 모든 노드를 연결시킨다.
+
+[[공부/자료구조/트리/최소 스패닝 트리(MST)\|최소 스패닝 트리(MST)]]를 구하는 알고리즘으로, 하나의 시작 정점을 기준으로 가장 작은 간선과 연결된 정점을 선택하여 [[공부/자료구조/트리/신장트리\|신장트리]]가 될 때까지 모든 노드를 연결시킨다.
 
 이미 만들어진 트리에 인접한 간선만을 고려한다는 점을 제외하면 [[공부/알고리즘/크루스칼 알고리즘(Kruskal Algorithm)\|크루스칼 알고리즘(Kruskal Algorithm)]]과 완전히 똑같다. 그리디 알고리즘을 바탕에 두는 것도 같다. 즉, 탐색 정점에 대해 연결된 인접 정점들 중 비용이 가장 적은 간선으로 연결된 정점을 선택한다.
 
@@ -10,30 +11,30 @@
 
 ### 동작 과정
 1. 임의의 정점을 선택한다.
-2. 선택한 정점으로부터 아직 방문하지 않은 정점까지의 간선을 추가한다. [[공부/SW/자료구조/Priority Queue\|Priority Queue]]로 구현하면 간편하다.
+2. 선택한 정점으로부터 아직 방문하지 않은 정점까지의 간선을 추가한다. [[공부/자료구조/Priority Queue\|Priority Queue]]로 구현하면 간편하다.
 3. 비용의 오름차순으로 정렬된 정점과 이어진 미방문 정점을 탐색한다.
 
-![Pasted image 20240324234859.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240324234859.png)
+![Pasted image 20240324234859.png](/img/user/첨부파일/Pasted image 20240324234859.png)
 
 위 그래프의 최소 신장 트리를 프림 알고리즘으로 구해보자. 시작 정점은 A라 한다.
 
-![Pasted image 20240324234920.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240324234920.png)
+![Pasted image 20240324234920.png](/img/user/첨부파일/Pasted image 20240324234920.png)
 
 A와 인접한 노드 B, C 중 C가 가장 가중치가 낮은 간선으로 연결되어 있으니 C를 집합에 넣고 비용에 AC 가중치를 더한다.
 
-![Pasted image 20240324234934.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240324234934.png)
+![Pasted image 20240324234934.png](/img/user/첨부파일/Pasted image 20240324234934.png)
 
 AC와 인접한 노드들 중 가장 낮은 가중치로 연결된 정점은 B다. 집합에 B를 넣고 CB 가중치를 더한다.
 
-![Pasted image 20240324234946.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240324234946.png)
+![Pasted image 20240324234946.png](/img/user/첨부파일/Pasted image 20240324234946.png)
 
 A, C, B와 인접한 노드들 중 가장 낮은 가중치로 연결된 정점은 D다. 집합에 D를 넣고 CD 가중치를 더한다.
 
-![Pasted image 20240324234955.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240324234955.png)
+![Pasted image 20240324234955.png](/img/user/첨부파일/Pasted image 20240324234955.png)
 
 A, C, B, D와 인접한 노드들 중 가장 낮은 가중치로 연결된 정점은 E다. 집합에 E를 넣고 DE 가중치를 더한다.
 
-![Pasted image 20240324235004.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240324235004.png)
+![Pasted image 20240324235004.png](/img/user/첨부파일/Pasted image 20240324235004.png)
 
 A, C, B, D, E와 인접한 노드들 중 가장 낮은 가중치로 연결된 정점 F를 집합에 넣고 DF 가중치를 더한다. 트리의 집합에 속한 원소의 개수가 N이 되었으므로 탐색을 중단한다. 탐색 결과 최소 신장 트리 구축의 비용은 13으로 확인되었다.
 ### 구현
