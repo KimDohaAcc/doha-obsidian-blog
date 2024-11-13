@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/메시지 큐/Kafka(event broker)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/메시지 큐/Kafka(event broker)/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20240123154610.jpg](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240123154610.jpg)
+
+![Pasted image 20240123154610.jpg](/img/user/첨부파일/Pasted image 20240123154610.jpg)
 
 카프카는 메시지 큐의 역할을 할 수 있는 event broker이다. 이벤트 브로커는 이벤트 프로듀서(Event Producer)로부터 이벤트를 수집하고, 이를 이벤트 컨슈머(Event Consumer)에게 전달하는 미들웨어 역할을 한다.
 
