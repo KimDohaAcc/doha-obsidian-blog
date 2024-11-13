@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/메시지 큐/메시지 큐(MQ)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/메시지 큐/메시지 큐(MQ)/","dgPassFrontmatter":true}
 ---
 
-분산화된 환경에서 발신자와 수신자 간 메시지를 전송하고 수신하는 기술이며, [[공부/SW/메시지 큐/MOM(message oriented middleware)\|MOM(message oriented middleware)]]를 통해서 구현된다
+
+분산화된 환경에서 발신자와 수신자 간 메시지를 전송하고 수신하는 기술이며, [[공부/메시지 큐/MOM(message oriented middleware)\|MOM(message oriented middleware)]]를 통해서 구현된다
 
 #### 종류를 고를 때 고려할 것
 비동기/느슨한 설계/무손실
@@ -24,6 +25,6 @@ Pub/Sub : 발신자가 topic에 메세지를 전송하면 토픽을 구독하고
 
 
 #### 대표적인 종류
-[[공부/SW/메시지 큐/Kafka(event broker)\|Kafka(event broker)]]
+[[공부/메시지 큐/Kafka(event broker)\|Kafka(event broker)]]
 RabbitMQ(message broker)
 ActiveMQ(meessage broker)
