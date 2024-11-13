@@ -18,7 +18,7 @@
 
 RabbitMQ와 ActiveMQ는 브로커가 컨슈머로 메시지를 Push 하는 방식인데 반해, 카프카는 컨슈머가 능동적으로 브로커로부터 메시지를 가져오는 Pull 방식이다
 
-이러한 이유 때문에 [[공부/SW/웹소켓/STOMP(Simple Text Oriented Messaging Protocol)\|STOMP(Simple Text Oriented Messaging Protocol)]] 단일로 메세지를 전송하는 것보다 카프카를 메세지큐로 사용하는 것이 안정적이고 확장성이 좋은 방법이다
+이러한 이유 때문에 [[공부/웹소켓/STOMP(Simple Text Oriented Messaging Protocol)\|STOMP(Simple Text Oriented Messaging Protocol)]] 단일로 메세지를 전송하는 것보다 카프카를 메세지큐로 사용하는 것이 안정적이고 확장성이 좋은 방법이다
 ### 용어
 - **카프카 클러스터 (kafka cluster)**: 하나 이상의 카프카 브로커들의 집합
 - **브로커 (broker)**: 개별 카프카 서버. 브로커는 프로듀서로부터 메시지를 전달받아 토픽에 저장하고,컨슈머에 전달하는 역할을 한다. 브로커는 여러개의 토픽을 가질 수 있다.
