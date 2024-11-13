@@ -11,5 +11,5 @@ OOP에서는 객체를 추상화시켜 속성(state)과 기능(behavior)으로 �
 ## 특징
 [[공부/객체 지향 프로그래밍/추상화(Abstraction)\|추상화(Abstraction)]]
 [[공부/객체 지향 프로그래밍/상속(Inheritance)\|상속(Inheritance)]]
-[[공부/객체 지향 프로그래밍/다형성\|다형성]]
+[[공부/객체 지향 프로그래밍/다형성(Polymorphism)\|다형성(Polymorphism)]]
 [[공부/객체 지향 프로그래밍/캡슐화(Encapsulation)\|캡슐화(Encapsulation)]]
