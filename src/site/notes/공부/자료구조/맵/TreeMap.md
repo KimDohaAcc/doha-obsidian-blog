@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/자료구조/맵/TreeMap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/맵/TreeMap/","dgPassFrontmatter":true}
 ---
 
-[[공부/SW/자료구조/트리/이진 트리\|이진 트리]]를 기반으로 한 Map 컬렉션
+
+[[공부/자료구조/트리/이진 트리(Binary Tree)\|이진 트리]]를 기반으로 한 Map 컬렉션
 
 객체를 저장하면 자동으로 정렬되며, **키는 저장과 동시에 자동으로 오름차순 정렬**된다
 
@@ -14,7 +15,7 @@ TreeMap은 SortedMap 인터페이스를 구현하고 있어, 데이터를 저장
 
 하지만 정렬된 상태롤 Map을 유지해야 하거나, 정렬된 데이터를 조회해야 한다면 효율적이다
 
-TreeMap은 내부에 [[공부/SW/자료구조/트리/레드-블랙 트리(Red-Black Tree)\|레드-블랙 트리(Red-Black Tree)]] 자료구조를 이용하고 있다
+TreeMap은 내부에 [[공부/자료구조/트리/레드-블랙 트리(Red-Black Tree)\|레드-블랙 트리(Red-Black Tree)]] 자료구조를 이용하고 있다
 
 #### 활용
 
