@@ -3,7 +3,7 @@
 ---
 
 
-분산화된 환경에서 발신자와 수신자 간 메시지를 전송하고 수신하는 기술이며, [[공부/메시지 큐/MOM(message oriented middleware)\|MOM(message oriented middleware)]]를 통해서 구현된다
+분산화된 환경에서 발신자와 수신자 간 메시지를 전송하고 수신하는 기술이며, [[공부/메시지 큐/MOM(message oriented middleware)\|MOM(message oriented middleware)]] 구현 방식 중  하나이다
 
 #### 종류를 고를 때 고려할 것
 비동기/느슨한 설계/무손실
