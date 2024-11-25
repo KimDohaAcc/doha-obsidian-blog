@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/자료구조/트리/레드-블랙 트리(Red-Black Tree)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/레드-블랙 트리(Red-Black Tree)/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20240302182951.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240302182951.png)
 
-[[공부/SW/자료구조/트리/이진 트리\|이진 트리]]의 문제점을 보완한 [[공부/SW/자료구조/트리/트리(Tree)\|트리(Tree)]]
+![Pasted image 20240302182951.png](/img/user/첨부파일/Pasted image 20240302182951.png)
+
+[[공부/자료구조/트리/이진 트리(Binary Tree)\|이진 트리]]의 문제점을 보완한 [[공부/자료구조/트리/트리(Tree)\|트리(Tree)]]
 
 일반적인 이진 탐색 트리는 ==트리의 높이만큼== 시간이 걸린다
 값이 전체 트리에 고루 분산되어 있다면 문제가 없으나, 데이터가 들어올 때 값이 한 쪽으로 편향되게 들어올 경우, **한쪽으로 크게 치우친 트리가 되어** 기존 O(logN)의 **탐색 속도가 최악의 경우 O(N)** 으로 아주 비효율적이게 된다
