@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/공부/알고리즘/탐색/너비 우선 탐색(BFS)/","dgPassFrontmatter":true}
 ---
 
+
 인접한 노드를 먼저 탐색하는 방법
 
 두 노드 사이의 최단 경로를 탐색할 때 활용하기 좋다.
 
-[[공부/SW/자료구조/Queue\|Queue]]를 활용하여 탐색할 노드의 순서를 저장하고, 큐에 저장된 순서대로 탐색한다.
+[[공부/자료구조/Queue\|Queue]]를 활용하여 탐색할 노드의 순서를 저장하고, 큐에 저장된 순서대로 탐색한다.
 
 [[공부/알고리즘/탐색/맹목적 탐색\|맹목적 탐색]] 방법의 하나로, 시작 정점을 방문한 후 시작 정점에 **인접**한 모든 정점들을 우선 방문하는 방법이다.
 
@@ -28,12 +29,12 @@ Queue에 저장된 노드가 없을 때까지
 
 #### BFS 알고리즘 탐색 과정
 
-![Pasted image 20230913175238.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020230913175238.png)
+![Pasted image 20230913175238.png](/img/user/첨부파일/Pasted image 20230913175238.png)
 
 #### 그래프 BFS
-![Pasted image 20231024164529.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020231024164529.png)
+![Pasted image 20231024164529.png](/img/user/첨부파일/Pasted image 20231024164529.png)
 방문 체크를 한다! 해당 노드로 진입할 수 있는 경로가 1개 이상일 수 있기 때문에.
 #### 트리 BFS
-![Pasted image 20231024164547.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020231024164547.png)
+![Pasted image 20231024164547.png](/img/user/첨부파일/Pasted image 20231024164547.png)
 방문 체크를 하지 않는다
 왜? 루트 노드에서 시작하여 모든 간선이 **부모 -> 자식**으로 가고, 자식으로 진입할 수 있는 또 다른 부모(경로)가 없기 때문이다.
