@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/웹소켓/Websocket/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/웹소켓/Websocket/","dgPassFrontmatter":true}
 ---
 
 
-웹소켓은 [[공부/SW/웹/HTTP\|HTTP]]와 구분되는 **통신 프로토콜**이다. HTTP와 웹소켓은 모두 OSI 참조 모델의 7계층에 위치해있고, TCP에 의존한다.
+웹소켓은 [[공부/웹/HTTP(HyperText Transfer Protocol)\|HTTP(HyperText Transfer Protocol)]]와 구분되는 **통신 프로토콜**이다. HTTP와 웹소켓은 모두 OSI 참조 모델의 7계층에 위치해있고, TCP에 의존한다.
 
 HTTP 통신은 요청(Request)와 응답(Response)가 존재하는 ==반이중통신(Half-Duplex Communication)== 구조를 가지고 있다. 
 
@@ -12,7 +12,7 @@ HTTP 통신은 요청(Request)와 응답(Response)가 존재하는 ==반이중�
 따라서 웹소켓은 **전이중통신과 실시간 네트워킹**이 보장되어야 하는 환경에서 유용하게 사용될 수 있다.
 
 #### 연결 수립
-최초 요청 연결 시 클라이언트에서 HTTP를 통해 웹서버에 요청한다. 이를 [[공부/SW/네트워크/Handshaking\|Handshaking]]라고 한다.
+최초 요청 연결 시 클라이언트에서 HTTP를 통해 웹서버에 요청한다. 이를 [[공부/네트워크/Handshaking\|Handshaking]]라고 한다.
 
 핸드셰이크를 위해 클라이언트는 서버에 요청을 보내고 서버가 응답하여 핸드셰이크가 성공하면, 둘 간의 통신 프로토콜은 Websocket으로 전환된다
 
