@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/자료구조/리스트/LinkedList/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/리스트/LinkedList/","dgPassFrontmatter":true}
 ---
 
-LinkedList는 [[ArrayList\|ArrayList]]와는 달리 [[공부/SW/자료구조/리스트/List\|List]] 인터페이스를 구현한 AbstrackList를 상속하지 않고, **AbstrackSequentialList**를 상속하고 있음
 
-[[공부/SW/자료구조/리스트/Node\|Node]] 로 구성되어 있다
+LinkedList는 ArrayList와는 달리 List 인터페이스를 구현한 AbstrackList를 상속하지 않고, **AbstrackSequentialList**를 상속하고 있음
+
+[[공부/자료구조/리스트/Node\|Node]] 로 구성되어 있다
 
 #### 종류
-[[공부/SW/자료구조/리스트/단순 연결 리스트(Singly LinkedList)\|단순 연결 리스트(Singly LinkedList)]]
-[[공부/SW/자료구조/리스트/이중 연결 리스트(Doubly LinkedList)\|이중 연결 리스트(Doubly LinkedList)]]
+[[공부/자료구조/리스트/단순 연결 리스트(Singly LinkedList)\|단순 연결 리스트(Singly LinkedList)]]
+[[공부/자료구조/리스트/이중 연결 리스트(Doubly LinkedList)\|이중 연결 리스트(Doubly LinkedList)]]
 
 ArrayList는 데이터들이 순서대로 있는 배열의 형식을 취하고 있다면,
 LinkedList는 자료의 주소값으로 서로 연결되어 있는 구조이다
 
-![Pasted image 20230913173026.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020230913173026.png)
+![Pasted image 20230913173026.png](/img/user/첨부파일/Pasted image 20230913173026.png)
 
 ##### 장점
 ArrayList는 사이즈가 고정되어 있기 때문에 자료 삽입 시 사이즈를 늘려주는 연산이 추가되어야 하고, 자료 삭제 시 빈 인덱스를 채우는 연산이 추가되어야 하는 반면
