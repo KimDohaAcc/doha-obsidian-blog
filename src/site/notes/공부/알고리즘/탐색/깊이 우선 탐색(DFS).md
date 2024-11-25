@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/공부/알고리즘/탐색/깊이 우선 탐색(DFS)/","dgPassFrontmatter":true}
 ---
 
-[[공부/SW/자료구조/리스트/Node\|Node]]에서 다음 분기(branch)로 넘어가기 전에 해당 분기를 완벽하게 탐색하는 방법
+
+[[공부/자료구조/리스트/Node\|Node]]에서 다음 분기(branch)로 넘어가기 전에 해당 분기를 완벽하게 탐색하는 방법
 
 **모든 노드를 방문**하고자 하는 경우에 이 방법을 선택한다
 자기 자신을 호출하는 [[공부/알고리즘/재귀(Recursion)\|재귀(Recursion)]]의 형태를 가지고 있다
@@ -34,4 +35,4 @@
 
 #### DFS 알고리즘 탐색 과정
 
-![Pasted image 20230914151647.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020230914151647.png)
+![Pasted image 20230914151647.png](/img/user/첨부파일/Pasted image 20230914151647.png)
