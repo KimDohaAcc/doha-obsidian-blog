@@ -28,4 +28,4 @@ HTTP 통신은 요청(Request)와 응답(Response)가 존재하는 ==반이중�
 session 단위의 메시지만 전달이 가능하기 때문에 채팅방을 여러 개 생성할 수가 없다!
 이를 해결하기 위해 [[공부/웹소켓/STOMP(Simple Text Oriented Messaging Protocol)\|STOMP(Simple Text Oriented Messaging Protocol)]]를 이용해서 pub/sub 구조로 여러 개의 방을 만들어 STOMP의 Broker를 통해 메세지를 전달할 수 있다
 
-하지만 STOMP는 기본적으로 서버 메모리를 Broker로 사용하기 때문에, ==서버가 2개 이상일 경우 채팅 전달에 있어서 클러스터링을 해줘야 하는 단점==이 존재하기에 이를 보완하려 [[공부/SW/메시지 큐/Kafka(event broker)\|Kafka(event broker)]]나 RabbitMQ 같은 메시지 큐 오픈 소스를 사용한다
+하지만 STOMP는 기본적으로 서버 메모리를 Broker로 사용하기 때문에, ==서버가 2개 이상일 경우 채팅 전달에 있어서 클러스터링을 해줘야 하는 단점==이 존재하기에 이를 보완하려 [[공부/메시지 큐/Kafka(event broker)\|Kafka(event broker)]]나 RabbitMQ 같은 메시지 큐 오픈 소스를 사용한다
