@@ -13,7 +13,7 @@
 데이터를 정확히 반으로 나눠 정렬하므로 일정한 시간 복잡도가 유지된다
 
 #### LinkedList 정렬
-병합 정렬은 ==순차적인 비교==로 정렬을 진행하므로, [[공부/SW/자료구조/리스트/LinkedList\|LinkedList]] 정렬이 필요할 때 사용하면 **효율적**이다
+병합 정렬은 ==순차적인 비교==로 정렬을 진행하므로, [[공부/자료구조/리스트/LinkedList\|LinkedList]] 정렬이 필요할 때 사용하면 **효율적**이다
 LinkedList는 순차적 접근은 효율적이지만, 임의 접근은 비효율적이기 때문이다.
 
 ###### 강점
@@ -30,37 +30,47 @@ LinkedList는 순차적 접근은 효율적이지만, 임의 접근은 비효율
 병합 정렬 : 영역을 쪼갤 수 있을 만큼 쪼갠(MergeSort) 후 정렬(merge)한다
 
 ## 코드
-```javascript
-function mergeSort(arr) {
-  if (arr.length <= 1) return arr;
+```java
+public class MergeSorter {
 
-  const mid = Math.floor(arr.length / 2);
-  const left = arr.slice(0, mid);
-  const right = arr.slice(mid);
-  
-  return merge(mergeSort(left), mergeSort(right));
-}
-
-function merge(left, right) {
-  const result = [];
-  
-  while(left.length && right.length) {
-    if(left[0] < right[0]) {
-      result.push(left.shift());
-    } else {
-      result.push(right.shift());
+    public static void mergeSort(int[] arr) {
+        sort(arr, 0, arr.length);
     }
-  }
-  while(left.length) {
-    result.push(left.shift());
-  }
-  while(right.length) {
-    result.push(right.shift());
-  }
 
-  return result;
+    private static void sort(int[] arr, int low, int high) {
+        if (high - low < 2) {
+            return;
+        }
+
+        int mid = (low + high) / 2;
+        sort(arr, 0, mid);
+        sort(arr, mid, high);
+        merge(arr, low, mid, high);
+    }
+
+    private static void merge(int[] arr, int low, int mid, int high) {
+        int[] temp = new int[high - low];
+        int t = 0, l = low, h = mid;
+
+        while (l < mid && h < high) {
+            if (arr[l] < arr[h]) {
+                temp[t++] = arr[l++];
+            } else {
+                temp[t++] = arr[h++];
+            }
+        }
+
+        while (l < mid) {
+            temp[t++] = arr[l++];
+        }
+
+        while (h < high) {
+            temp[t++] = arr[h++];
+        }
+
+        for (int i = low; i < high; i++) {
+            arr[i] = temp[i - low];
+        }
+    }
 }
-
-const arr = [3, 5, 2, 8, 9, 1, 9, 39, 28];
-console.log(mergeSort(arr)); // [1, 2, 3, 5, 8, 9, 9, 28, 39]
 ```
