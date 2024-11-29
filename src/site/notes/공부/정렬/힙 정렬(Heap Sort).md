@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/공부/정렬/힙 정렬(Heap Sort)/","dgPassFrontmatter":true}
 ---
 
-![heapsort.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/heapsort.gif)
-
 [[공부/자료구조/트리/최대 힙(Max Heap)\|최대 힙(Max Heap)]]혹은 [[공부/자료구조/트리/최소 힙(Min Heap)\|최소 힙(Min Heap)]]을 구성하여 정렬하는 방식이다
 
 1) 입력으로 들어오는 배열로 [[공부/자료구조/트리/힙(Heap)\|힙(Heap)]] 트리를 만든다
