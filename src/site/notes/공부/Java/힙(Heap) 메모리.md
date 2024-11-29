@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/힙(Heap) 메모리/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/힙(Heap) 메모리/","dgPassFrontmatter":true}
 ---
+
 
 **동적으로 할당되고 해제**할 수 있는 메모리 영역
 new 로 할당할 수 있다
 
 JVM 옵션에서 초기 힙 크기, 최대 힙 크기를  설정할 수 있다
-==런타임==에 크기가 결정된다. Java에서는 [[공부/JAVA/가비지 콜렉터(Garbage Collector, GC)\|가비지 컬렉터(Garbage Collector, GC)]]가 힙 영역의 메모리를 관리한다.
+==런타임==에 크기가 결정된다. Java에서는 [[공부/Java/가비지 콜렉터(Garbage Collector, GC)\|가비지 컬렉터(Garbage Collector, GC)]]가 힙 영역의 메모리를 관리한다.
 
 #### 구조
 - Young Generation : 새로 생성된 객체와 Minor GC 후 살아남은 객체들이 존재
