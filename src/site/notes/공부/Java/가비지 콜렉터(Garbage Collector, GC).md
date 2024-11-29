@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/가비지 콜렉터(Garbage Collector, GC)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/가비지 콜렉터(Garbage Collector, GC)/","dgPassFrontmatter":true}
 ---
 
 
 Java에서 사용되는 **자동 메모리 관리 시스템**
-[[공부/JAVA/힙(Heap) 메모리\|힙(Heap) 메모리]] 영역의 메모리를 관리한다
+[[공부/Java/힙(Heap) 메모리\|힙(Heap) 메모리]] 영역의 메모리를 관리한다
 
 #### 목적
 더 이상 사용되지 않는 메모리를 **자동으로 식별하고 해제**한다
 ==메모리 누수를 방지==하고 개발자의 ==메모리 관리 부담==을 줄인다
 
 #### 작동 원리
-루트 세트(Root Set)에서 시작하여 [[공부/JAVA/객체 그래프\|객체 그래프]]를 순회한다
+루트 세트(Root Set)에서 시작하여 [[공부/Java/객체 그래프\|객체 그래프]]를 순회한다
 도달 가능한 객체는 ==살아있는 것으로 표시==한다
 도달할 수 없는 객체는 ==가비지로 간주하고 수거==한다
 
