@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/공부/정렬/버킷 정렬(Bucket Sort)/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20240809171842.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240809171842.png)
+![bucketsort.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/bucketsort.png)
 
 정렬되지 않은 자료를 *버킷*이라는 단위 기억 장소에 여러 그룹으로 정렬하고,
 버킷 안의 요소들을 개별적으로 정렬한 후 다시 합치는 정렬 방식
