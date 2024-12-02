@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/String Constant Pool/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/String Constant Pool/","dgPassFrontmatter":true}
 ---
 
 문자열 리터럴을 저장하는 독립된 영역
 
 String Pool 이라고도 부른다
-[[공부/JAVA/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]]의 Perm/Metaspace 영역에 존재하며 일반적으로 GC의 대상이 되지는 않는다
+[[공부/Java/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]]의 Perm/Metaspace 영역에 존재하며 일반적으로 GC의 대상이 되지는 않는다
 
 String은 불변 객체이기 때문에 문자열 생성 시 String Constant Pool에 저장된 리터럴을 재사용할 수 있다
 

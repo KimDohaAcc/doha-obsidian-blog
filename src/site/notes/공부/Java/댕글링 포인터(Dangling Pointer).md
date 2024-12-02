@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/댕글링 포인터(Dangling Pointer)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/댕글링 포인터(Dangling Pointer)/","dgPassFrontmatter":true}
 ---
+
 
 **이미 해제된 메모리를 가리키는 포인터**를 의미
 
@@ -11,7 +12,7 @@
 보안 취약점의 원인이 될 수 있다
 
 #### 가비지 컬렉터의 해결 방식
-[[공부/JAVA/가비지 컬렉터(Garbage Collector, GC)\|가비지 컬렉터(Garbage Collector, GC)]]는 자동으로 사용하지 않는 메모리를 식별하고 해제한다
+[[공부/Java/가비지 콜렉터(Garbage Collector, GC)\|가비지 컬렉터(Garbage Collector, GC)]]는 자동으로 사용하지 않는 메모리를 식별하고 해제한다
 또한, 객체가 여전히 참조되고 있다면 메모리를 해제하지 않는다
 
 ==해제된 메모리에 대한 접근을 방지==한다. 예를 들어 객체 참조가 null일 경우 NullPointerException을 발생시키는 등 접근을 방지함으로써 ==안정성과 보안을 향상==한다

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/Enum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Enum/","dgPassFrontmatter":true}
 ---
+
 
 상수의 그룹을 나타낼 때 사용
 JDK 1.5 이상의 버전에서만 사용 가능하다

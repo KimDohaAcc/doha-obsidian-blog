@@ -16,4 +16,4 @@ Map<Integer, Member> memberIdMap = members.stream()
 .collect(Collectors.toMap(Member::getId, Member::getName));
 `````
 
-valueMapper의 인자로 [[공부/JAVA/Stream/Function.identity()\|Function.identity()]]를 사용하기도 한다
+valueMapper의 인자로 [[공부/Java/Stream/Function.identity()\|Function.identity()]]를 사용하기도 한다

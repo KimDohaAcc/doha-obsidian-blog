@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/Wrapper Class/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Wrapper Class/","dgPassFrontmatter":true}
 ---
 
 기본형 변수를 ==객체로 다루는 클래스==
-[[공부/JAVA/변수(variable)/변수의 타입\|변수의 타입]] 중 primitive type 변수를 객체로 다뤄야 하는 상황에 사용할 수 있다
+[[공부/Java/변수(variable)/변수의 타입\|변수의 타입]] 중 primitive type 변수를 객체로 다뤄야 하는 상황에 사용할 수 있다
 
 8개의 기본형과 마찬가지로 8개의 Wrapper Class가 존재한다
 
@@ -34,4 +34,4 @@ equals로는 객체의 값을 비교할 수 있으며, toString은 주솟값이 
 
 ##### 문자열 -> wrapper class 변환 방법
 
-[[공부/JAVA/parse, valueOf\|parse, valueOf]] 중 **valueOf**를 사용해 문자열을 wrapper class로 변환할 수 있다
+[[공부/Java/parse, valueOf\|parse, valueOf]] 중 **valueOf**를 사용해 문자열을 wrapper class로 변환할 수 있다

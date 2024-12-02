@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/JVM(Java Virtual Machine)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/JVM(Java Virtual Machine)/","dgPassFrontmatter":true}
 ---
 
-한마디로 정리하면 '[[공부/JAVA/자바(Java Programming Language)\|자바(Java Programming Language)]]를 실행하기 위한 가상 기계(컴퓨터)' 라고 할 수 있다
+한마디로 정리하면 '[[공부/Java/자바(Java Programming Language)\|자바(Java Programming Language)]]를 실행하기 위한 가상 기계(컴퓨터)' 라고 할 수 있다
 
 #### 가상 기계(Virtual machine)
 넓은 의미에서 소프트웨어로 구현된 하드웨어를 뜻한다. 예시로는 TV와 비디오를 소프트웨어화 한 윈도우 미디어 플레이어 등이 있다.

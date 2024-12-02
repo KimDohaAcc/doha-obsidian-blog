@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/Runtime Constant Pool/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Runtime Constant Pool/","dgPassFrontmatter":true}
 ---
 
 상수 풀이라고도 부른다
-Java 8 이전에는 [[공부/JAVA/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]]- Perm 영역에 저장되었고, 이후부터는 JVM - Metaspace 영역에 저장된다
+Java 8 이전에는 [[공부/Java/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]]- Perm 영역에 저장되었고, 이후부터는 JVM - Metaspace 영역에 저장된다
 
-[[공부/JAVA/Constant Pool(Class file Constant Pool)\|Constant Pool(Class file Constant Pool)]]이 런타임 시 이 영역으로 저장된다
+[[공부/Java/Constant Pool(Class file Constant Pool)\|Constant Pool(Class file Constant Pool)]]이 런타임 시 이 영역으로 저장된다
 
 주로 *클래스/인터페이스의 상수 정보*(리터럴 상수, 타입, 필드, 메소드)를 저정한다
 
@@ -13,8 +13,8 @@ Java 8 이전에는 [[공부/JAVA/JVM(Java Virtual Machine)\|JVM(Java Virtual Ma
 
 ### Perm(Permanent Generation) -> Metaspace
 
-Perm : [[공부/JAVA/힙(Heap) 메모리\|힙(Heap) 메모리]]영역의 일부
-Metaspace : [[공부/JAVA/네이티브 메모리(Native Memory)\|네이티브 메모리(Native Memory)]](OS에서 관리하는 메모리)
+Perm : [[공부/Java/힙(Heap) 메모리\|힙(Heap) 메모리]]영역의 일부
+Metaspace : [[공부/Java/네이티브 메모리(Native Memory)\|네이티브 메모리(Native Memory)]](OS에서 관리하는 메모리)
 
 Perm 영역에 데이터가 저장될 때는 클래스, Metadata 로딩 과정에서 메모리 누수가 발생했다
 또한 Perm 영역의 크기를 고정적으로 설정해야 해 메모리 부족으로 Out Of Memory Error가 발생하는 일이 있었다
@@ -47,7 +47,7 @@ Metaspace는 클래스로더 단위로 메모리를 관리한다. Metaspace는 �
 
 ###### Metaspace에서의 GC?
 
-Metaspace는 [[공부/JAVA/가비지 콜렉터(Garbage Collector, GC)\|가비지 콜렉터(Garbage Collector, GC)]] 기능을 가지고 있어서, 용량이 가득 찼을 때 더 이상 사용하지 않는 클래스 메터데이터들을 제거한다.
+Metaspace는 [[공부/Java/가비지 콜렉터(Garbage Collector, GC)\|가비지 콜렉터(Garbage Collector, GC)]] 기능을 가지고 있어서, 용량이 가득 찼을 때 더 이상 사용하지 않는 클래스 메터데이터들을 제거한다.
 
 이때 GC의 대상이 되는 메타데이터는, 자신을 로드한 클래스로더가 힙 메모리에서 GC된 것들이다.
 즉, 자신을 로드한 클래스로더가 힙에 살아있으면 GC 되지 않는다. 이 때문에 클래스로더 메모리 누수 문제가 발생할 수 있다.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/자바(Java Programming Language)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/자바(Java Programming Language)/","dgPassFrontmatter":true}
 ---
 
 자바는 썬 마이크로시스템즈(Sun Microsystems)에서 개발하여 1996년 1월에 공식적으로 발표한 *객체지향 프로그래밍 언어*이다
@@ -19,7 +19,7 @@
 자바는 [[공부/Language/객체 지향 언어(Object Oriented Programming Language)\|객체 지향 언어(Object Oriented Programming Language)]] 중 하나이다
 
 ==자동 메모리 관리(Garbage Collection)==
-[[공부/JAVA/가비지 컬렉터(Garbage Collector, GC)\|가비지 컬렉터(Garbage Collector, GC)]]가 자동적으로 메모리를 관리해주기 때문에 프로그래머는 따로 메모리를 관리할 필요가 없다
+[[공부/Java/가비지 콜렉터(Garbage Collector, GC)\|가비지 콜렉터(Garbage Collector, GC)]]가 자동적으로 메모리를 관리해주기 때문에 프로그래머는 따로 메모리를 관리할 필요가 없다
 
 ==멀티쓰레드 지원==
 자바에서 개발되는 멀티쓰레드 프로그램은 운영체제에 관계 없이 구현 가능하다

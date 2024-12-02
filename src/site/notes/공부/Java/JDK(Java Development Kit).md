@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/JDK(Java Development Kit)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/JDK(Java Development Kit)/","dgPassFrontmatter":true}
 ---
 
 자바 프로그래밍을 위해서는 JDK를 설치해야 한다
-JDK는 [[공부/JAVA/JRE(Java Runtime Environment)\|JRE(Java Runtime Environment)]] + 개발에 필요한 실행 파일을 포함하고 있다
+JDK는 [[공부/Java/JRE(Java Runtime Environment)\|JRE(Java Runtime Environment)]] + 개발에 필요한 실행 파일을 포함하고 있다
 
 ### java/jdk ver/bin
 JDK의 bin 디렉토리에 있는 주요 실행파일은 다음과 같다

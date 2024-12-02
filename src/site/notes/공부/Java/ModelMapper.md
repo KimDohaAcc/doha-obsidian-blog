@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/공부/JAVA/ModelMapper/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/ModelMapper/","dgPassFrontmatter":true}
 ---
+
 
 서로 다른 클래스의 값을 한 번에 복사할 수 있게 도와주는 라이브러리
 
