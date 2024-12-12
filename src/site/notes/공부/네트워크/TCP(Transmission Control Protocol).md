@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/네트워크/TCP(Transmission Control Protocol)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/TCP(Transmission Control Protocol)/","dgPassFrontmatter":true}
 ---
 
 전송 제어 프로토콜이다
 
 #### 하는 일
 
-1) 연결 지향 - [[공부/SW/네트워크/TCP 3-way Handshake\|TCP 3-way Handshake]](가상 연결)
+1) 연결 지향 - [[공부/네트워크/TCP 3-way Handshake\|TCP 3-way Handshake]](가상 연결)
 2) 데이터 전달 보증
 3) 순서 보장
 
