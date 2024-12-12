@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/네트워크/UDP(User Datagram Protocol)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/UDP(User Datagram Protocol)/","dgPassFrontmatter":true}
 ---
 
 사용자 데이터그램 프로토콜이라고 한다
 
 기능이 거의 없다
 
-[[공부/SW/네트워크/TCP(Transmission Control Protocol)\|TCP(Transmission Control Protocol)]]와 다르게 [[공부/SW/네트워크/TCP 3-way Handshake\|TCP 3-way Handshake]]도 없고, 데이터 전달 보증도 없고, 순서 보장도 없다
+[[공부/네트워크/TCP(Transmission Control Protocol)\|TCP(Transmission Control Protocol)]]와 다르게 [[공부/네트워크/TCP 3-way Handshake\|TCP 3-way Handshake]]도 없고, 데이터 전달 보증도 없고, 순서 보장도 없다
 
-IP와 거의 같으며 여기에 [[공부/SW/네트워크/PORT\|PORT]]와 체크섬 정도만 추가되는 것이다
+IP와 거의 같으며 여기에 [[공부/네트워크/PORT\|PORT]]와 체크섬 정도만 추가되는 것이다
 
 #### 사용 이유
 
