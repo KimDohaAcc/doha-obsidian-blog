@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20240126103028.png](/img/user/첨부파일/Pasted image 20240126103028.png)
+![two_pointer_image.png](/img/user/첨부파일/two_pointer_image.png)
 
 **1차원 배열**에서 각자 다른 원소를 가리키고 있는 **2개의 포인터**를 원하는 값을 찾을 때까지 탐색하는 알고리즘
 

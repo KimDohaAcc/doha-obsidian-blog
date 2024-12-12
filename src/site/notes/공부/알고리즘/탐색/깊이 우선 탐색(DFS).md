@@ -35,4 +35,4 @@
 
 #### DFS 알고리즘 탐색 과정
 
-![Pasted image 20230914151647.png](/img/user/첨부파일/Pasted image 20230914151647.png)
+![dfs_image.png](/img/user/첨부파일/dfs_image.png)

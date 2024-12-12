@@ -29,7 +29,7 @@ Queue에 저장된 노드가 없을 때까지
 
 #### BFS 알고리즘 탐색 과정
 
-![Pasted image 20230913175238.png](/img/user/첨부파일/Pasted image 20230913175238.png)
+![bfs_image.png](/img/user/첨부파일/bfs_image.png)
 
 #### 그래프 BFS
 ![Pasted image 20231024164529.png](/img/user/첨부파일/Pasted image 20231024164529.png)
