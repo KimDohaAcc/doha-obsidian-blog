@@ -15,7 +15,7 @@
 플랫폼 독립성을 제공하고, 실행 속도를 향상시키며, 코드 최적화를 가능하게 한다
 
 #### 사용처
-[[공부/JAVA/자바(Java Programming Language)\|자바(Java Programming Language)]]의 [[`.class`]]
+[[공부/Java/자바(Java Programming Language)\|자바(Java Programming Language)]]의 [[`.class`]]
 Python의 .pyc
 
 #### 사용 예시
@@ -27,7 +27,7 @@ public class HelloWorld { public static void main(String[] args) { System.out.pr
 이 코드를 컴파일하면 HelloWorld.class 파일이 생성되며, 바이트 코드를 포함하고 있다
 
 `javap -c HelloWorld.class` 명령어로 확인할 수 있다
-[[공부/JAVA/JDK(Java Development Kit)\|JDK(Java Development Kit)]] 중 javap.exe 는 클래스 파일을 원래 소스로 변환하는 역어셈블러다.
+[[공부/Java/JDK(Java Development Kit)\|JDK(Java Development Kit)]] 중 javap.exe 는 클래스 파일을 원래 소스로 변환하는 역어셈블러다.
 
 ```bytecode
 public class HelloWorld {
