@@ -5,7 +5,7 @@
 실행 중인 프로그램이 자기 자신을 검사하고 수정할 수 있게 해주는 능력.
 코드가 자기 자신을 들여다보고 조작할 수 있게 해주는 기능이다.
 
-주로 [[공부/JAVA/자바(Java Programming Language)\|자바(Java Programming Language)]], C# 같은 객체 지향 프로그래밍 언어에서 많이  사용된다
+주로 [[공부/Java/자바(Java Programming Language)\|자바(Java Programming Language)]], C# 같은 객체 지향 프로그래밍 언어에서 많이  사용된다
 
 ###### 특징
 
