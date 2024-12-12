@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/네트워크/URI(Uniform Resource Identifier)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/URI(Uniform Resource Identifier)/","dgPassFrontmatter":true}
 ---
 
 리소스를 식별하는 통합된 방법이라고 할 수 있다
 
-URI는 로케이터(Locator)m 이름(Name) 또는 둘 다로 분류될 수 있다
-즉, [[공부/SW/네트워크/URL(Uniform Resource Locator)\|URL(Uniform Resource Locator)]] 과 [[공부/SW/네트워크/URN(Uniform Resource Name)\|URN(Uniform Resource Name)]]을 포함하는 개념이다
+URI는 로케이터(Locator) / 이름(Name) 또는 둘 다로 분류될 수 있다
+즉, [[공부/네트워크/URL(Uniform Resource Locator)\|URL(Uniform Resource Locator)]] 과 [[공부/네트워크/URN(Uniform Resource Name)\|URN(Uniform Resource Name)]]을 포함하는 개념이다
 
 #### URI
 Uniform : 리소스를 식별하는 통일된 방식
