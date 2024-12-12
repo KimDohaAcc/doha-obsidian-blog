@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/자료형/바이어스(Bias)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료형/바이어스(Bias)/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,5 +13,5 @@ IEEE 754 표준에서는 지수를 표현할 때 '바이어스 표현법'을 사
 
 ##### float vs double
 
-[[공부/SW/자료형/float\|float]]의 경우 지수 표현 비트가 8비트이기 때문에 바이어스가 127(2^7-1)이며,
-[[공부/SW/자료형/double\|double]]의 경우 지수 표현 비트가 11비트이기 때문에 지수의 범위가 -1022~1023이므로 바이어스는 1023(2^10)-1이다
+[[공부/자료형/float\|float]]의 경우 지수 표현 비트가 8비트이기 때문에 바이어스가 127(2^7-1)이며,
+[[공부/자료형/double\|double]]의 경우 지수 표현 비트가 11비트이기 때문에 지수의 범위가 -1022~1023이므로 바이어스는 1023(2^10)-1이다

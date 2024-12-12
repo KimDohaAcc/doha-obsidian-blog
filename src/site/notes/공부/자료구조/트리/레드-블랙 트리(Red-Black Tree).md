@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20240302182951.png](/img/user/Pasted image 20240302182951.png)
+![red_black.png](/img/user/첨부파일/red_black.png)
 
 [[공부/자료구조/트리/이진 트리(Binary Tree)\|이진 트리]]의 문제점을 보완한 [[공부/자료구조/트리/트리(Tree)\|트리(Tree)]]
 

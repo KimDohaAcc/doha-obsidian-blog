@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/자료형/float/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료형/float/","dgPassFrontmatter":true}
 ---
 
 실수를 표현하기 위해 사용하는 자료형

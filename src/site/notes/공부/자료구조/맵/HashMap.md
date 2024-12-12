@@ -11,7 +11,7 @@ HashMap은 [[공부/SW/해시 함수\|해시 함수]]를 통해 key와 value가 
 #### 구성
 HashMap은 내부적으로 Entry<K,V>[] Entry Array로 구성되어 있다. 즉 ==Array의 index==를 hash 함수를 통해 계산한다
 
-![Pasted image 20240302181830.png](/img/user/첨부파일/Pasted image 20240302181830.png)
+![hashmap_image.png](/img/user/첨부파일/hashmap_image.png)
 
 이처럼 Entry로 저장이 되는데, 내부적인 해시값에 의해 어떤 bucket에 담길지 결정된다
 #### 시간복잡도
