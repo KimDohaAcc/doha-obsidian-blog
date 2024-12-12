@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/공부/알고리즘/분할 정복(Divide and Conquer)/","dgPassFrontmatter":true}
 ---
 
+
 [[공부/알고리즘/DP(Dynamic Programming)\|DP(Dynamic Programming)]]와 분할 정복은 모두 [[공부/알고리즘/최적 부분 구조\|최적 부분 구조]]를 가질 때 사용할 수 있다.
 
 DP와 분할정복의 차이점은 ==부분 문제의 중복==
@@ -15,7 +16,7 @@ DP 문제에서는 각 부분 문제들이 서로 영향을 미치며, 부분 �
 3. 통합 : 필요하다면 해결된 해답을 모은다
 
 #### 예시
-[[공부/SW/정렬/퀵 정렬\|퀵 정렬]]
+[[공부/정렬/퀵 정렬(Quick Sort)\|퀵 정렬(Quick Sort)]]
 거듭제곱
 이진검색
 병합 정렬
