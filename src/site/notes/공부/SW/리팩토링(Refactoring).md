@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/리팩토링(Refactoring)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 기존의 코드를 외부의 동작 방식에는 변화 없이,
 ==내부 구조를 변경해서 재구성==하는 작업 또는 기술
 
