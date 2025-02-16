@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/버블 정렬(Bubble Sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ![bubblesort.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/bubblesort.gif)
 
 첫 번째 원소부터 인접한 원소와 비교하며 **자리를 바꾸면서** ==맨 끝부터== 정렬하는 방식
