@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-permalink: /공부/웹소켓/STOMP(Simple Text Oriented Messaging Protocol)/
-dgPassFrontmatter: true
+{"dg-publish":true,"permalink":"/공부/웹소켓/STOMP(Simple Text Oriented Messaging Protocol)/","dgPassFrontmatter":true}
 ---
+
 
 메세징 전송을 효율적으로 하기 위한 프로토콜
 WebSocket 위에서 동작하는 프로토콜로써 클라이언트와 서버가 전송할 메세지의 유형, 형식, 내용을 정의하는 매커니즘이다
