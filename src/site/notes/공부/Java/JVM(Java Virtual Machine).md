@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/JVM(Java Virtual Machine)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 한마디로 정리하면 '[[공부/Java/자바(Java Programming Language)\|자바(Java Programming Language)]]를 실행하기 위한 가상 기계(컴퓨터)' 라고 할 수 있다
 
 #### 가상 기계(Virtual machine)
