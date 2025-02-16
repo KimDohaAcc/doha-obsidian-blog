@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/웹/Nginx/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 **비동기 이벤트 기반(Event-Driven) 아키텍처**의 웹 서버 소프트웨어
 
 ### 특징
