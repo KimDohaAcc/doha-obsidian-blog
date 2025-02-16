@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/네트워크/HTTP 메시지(HTTP Request, Response Message)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 # Request Message
 
 ![Pasted image 20240902141338.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240902141338.png)
