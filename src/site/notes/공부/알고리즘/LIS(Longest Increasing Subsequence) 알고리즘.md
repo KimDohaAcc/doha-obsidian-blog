@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/LIS(Longest Increasing Subsequence) 알고리즘/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ==최장 증가 부분 수열==을 구하는 알고리즘
 
 { 6, **2**, **5**, 1, **7**, 4, **8**, 3} 이라는 배열이 있다면, LIS는 {2, 5, 7, 8} 이 된다.
