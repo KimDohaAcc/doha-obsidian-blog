@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/공부/SW/해싱(Hashing)/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20240302181110.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240302181110.png)
+
+![Pasted image 20240302181110.png](/img/user/첨부파일/Pasted image 20240302181110.png)
 
 해시 함수에 ==문자열 입력값을 넣어서 특정한 값으로 추출==하는 것을 의미
 
