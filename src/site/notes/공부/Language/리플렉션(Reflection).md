@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Language/리플렉션(Reflection)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 실행 중인 프로그램이 자기 자신을 검사하고 수정할 수 있게 해주는 능력.
 코드가 자기 자신을 들여다보고 조작할 수 있게 해주는 기능이다.
 
