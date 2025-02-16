@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/StringBuilder/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/JAVA/StringBuilder/","dgPassFrontmatter":true}
 ---
-
 
 String : **변경 불가능한** 문자열 생성(불변 객체)
 만일 더하기 연산을 한다면 새로운 String이 생성된다
