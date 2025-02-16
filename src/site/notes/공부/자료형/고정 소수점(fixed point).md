@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료형/고정 소수점(fixed point)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 소수점이 고정되어 있다고 간주하고 표현하는 방법
 
 ##### 예시
