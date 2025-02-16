@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/안정 정렬(Stable Sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 중복된 값을 입력 순서와 동일하게 정렬하는 특성
 
 ![Pasted image 20240806162834.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240806162834.png)
