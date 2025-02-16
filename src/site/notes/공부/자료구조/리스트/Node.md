@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/리스트/Node/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/자료구조/리스트/Node/","dgPassFrontmatter":true}
 ---
-
 
 [[공부/자료구조/리스트/LinkedList\|LinkedList]]에서 하나의 원소에 필요한 데이터를 갖고 있는 자료 단위
 
