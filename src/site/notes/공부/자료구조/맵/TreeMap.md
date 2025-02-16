@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/맵/TreeMap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/자료구조/맵/TreeMap/","dgPassFrontmatter":true}
 ---
-
 
 [[공부/자료구조/트리/이진 트리(Binary Tree)\|이진 트리]]를 기반으로 한 Map 컬렉션
 
