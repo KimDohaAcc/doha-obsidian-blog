@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/공부/객체 지향 프로그래밍/추상화(Abstraction)/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /공부/객체 지향 프로그래밍/추상화(Abstraction)/
+dgPassFrontmatter: true
 ---
-
 
 [[공부/객체 지향 프로그래밍/객체(Object)\|객체(Object)]]의 ==불필요한 정보를 숨기고== 객체의 ==본질적인 속성과 기능만을 드러내는== 과정을 의미
 
@@ -10,4 +11,4 @@
 
 자바에서 추상화를 구현할 수 있는 문법 요소로는 **추상 클래스와 인터페이스**가 있다
 
-추상화는 "무엇을 하는가"에 초점이 있다며ㄴ, [[공부/객체 지향 프로그래밍/캡슐화(Encapsulation)\|캡슐화(Encapsulation)]]는 "어떻게 구현하는가"에 초점이 있다
+추상화는 "무엇을 하는가"에 초점이 있다면, [[공부/객체 지향 프로그래밍/캡슐화(Encapsulation)\|캡슐화(Encapsulation)]]는 "어떻게 구현하는가"에 초점이 있다
