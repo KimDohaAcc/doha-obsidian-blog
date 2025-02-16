@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/Closest Pair/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ![Pasted image 20240812111140.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240812111140.png)
 N개의 점들 중 ==가장 가까운 쌍==을 찾는 알고리즘
 
