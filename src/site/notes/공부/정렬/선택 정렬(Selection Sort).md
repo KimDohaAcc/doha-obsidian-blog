@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/선택 정렬(Selection Sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ![image 2.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/image%202.gif)
 배열에서 가장 작은 값을 찾아 첫 번째 원소와 교환한 후, 그 다음으로 작은 값을 두 번째 원소와 교환하는, ==n번째 작은 값을 선택해 n번째 원소와 교환==하는 방식의 정렬
 
