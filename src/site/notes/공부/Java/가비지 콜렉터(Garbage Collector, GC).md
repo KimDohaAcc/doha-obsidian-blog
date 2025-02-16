@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/가비지 콜렉터(Garbage Collector, GC)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 
 Java에서 사용되는 **자동 메모리 관리 시스템**
 [[공부/Java/힙(Heap) 메모리\|힙(Heap) 메모리]] 영역의 메모리를 관리한다
