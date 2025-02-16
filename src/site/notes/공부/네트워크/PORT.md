@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/네트워크/PORT/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 하나의 IP에서 프로세스를 구분해주는 것
 
 IP만으로 통신을 하려고 하면 여러 애플리케이션을 실행할 때 구분할 수가 없다
