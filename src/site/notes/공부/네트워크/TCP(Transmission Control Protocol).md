@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/네트워크/TCP(Transmission Control Protocol)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 전송 제어 프로토콜이다
 
 #### 하는 일
