@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/웹소켓/Websocket/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/웹소켓/Websocket/","dgPassFrontmatter":true}
 ---
-
 
 웹소켓은 [[공부/웹/HTTP(HyperText Transfer Protocol)\|HTTP(HyperText Transfer Protocol)]]와 구분되는 **통신 프로토콜**이다. HTTP와 웹소켓은 모두 OSI 참조 모델의 7계층에 위치해있고, TCP에 의존한다.
 
