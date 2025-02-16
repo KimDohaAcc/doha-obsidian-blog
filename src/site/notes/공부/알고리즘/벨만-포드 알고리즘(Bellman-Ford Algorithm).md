@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/공부/알고리즘/벨만-포드 알고리즘(Bellman-Ford Algorithm)/","dgPassFrontmatter":true}
 ---
 
-
 한 노드에서 다른 노드까지의 **최단 거리**를 구하는 알고리즘이며, [[공부/알고리즘/다익스트라(Dijkstra) 알고리즘\|다익스트라(Dijkstra) 알고리즘]] 알고리즘과의 차이는 **간선의 가중치가 음수**일 때도 최단 거리를 구할 수 있다는 점이다.
 
 ## 벨만-포드 vs 다익스트라
