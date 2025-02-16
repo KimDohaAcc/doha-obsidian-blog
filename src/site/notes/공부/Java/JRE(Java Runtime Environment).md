@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/JRE(Java Runtime Environment)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 [[공부/Java/자바(Java Programming Language)\|자바(Java Programming Language)]]실행 환경.
 자바로 작성된 응용프로그램이 실행되기 위한 최소 환경
 
