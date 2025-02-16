@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료형/double/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 실수를 표현하기 위해 사용하는 자료형
 double precision이라고도 한다
 
