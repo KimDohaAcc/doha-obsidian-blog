@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/데이터 표현/Overflow/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 이진수 덧셈 결과가 ==비트의 개수로 표현할 수 있는 범위를 벗어났을 경우==를 뜻한다
 
 예를 들어, 4비트 덧셈에서 1001 + 1000 의  경우 답은 10001이 되지만, 4자리 비트이기 때문에 오버플로우 된다
