@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring Container/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring IoC Container/","dgPassFrontmatter":true}
 ---
-
 ![Pasted image 20241125143430.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020241125143430.png)
 
 스프링 컨테이너 또는 [[공부/Spring/스프링 기초/ApplicationContext\|ApplicationContext]]라고 불리는 ==스프링 런타임 엔진==이다.
