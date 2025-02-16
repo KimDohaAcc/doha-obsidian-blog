@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/프로젝트/AWS/EC2 https 적용/","dgPassFrontmatter":true}
 ---
 
+
 EC2 인스턴스  개설 
 도메인 구매(gabia에서 사도 되고 AWS에서 구매해도 됨)
 #### Route 53
