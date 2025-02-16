@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/버킷 정렬(Bucket Sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ![bucketsort.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/bucketsort.png)
 
 정렬되지 않은 자료를 *버킷*이라는 단위 기억 장소에 여러 그룹으로 정렬하고,
