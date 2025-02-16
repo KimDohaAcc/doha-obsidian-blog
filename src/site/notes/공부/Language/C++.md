@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Language/C++/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 [[공부/Language/객체 지향 언어(Object Oriented Programming Language)\|객체 지향 언어(Object Oriented Programming Language)]] 중 하나로, C언어를 기반으로 다양한 추가 기능과 개선된 특징을 제공하는 언어
 
 #### 역사
