@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/Queue/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/자료구조/Queue/","dgPassFrontmatter":true}
 ---
-
 
 ### First In First Out
 선입선출
