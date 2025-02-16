@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/공부/JPA/BaseTimeEntity.java/","dgPassFrontmatter":true}
 ---
 
-
 ````java
 @Getter 
 @MappedSuperclass 
