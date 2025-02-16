@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/댕글링 포인터(Dangling Pointer)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 
 **이미 해제된 메모리를 가리키는 포인터**를 의미
 
