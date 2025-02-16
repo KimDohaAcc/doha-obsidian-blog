@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘 문제 풀이/BOJ_1149_RGB거리/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 [[공부/알고리즘/DP(Dynamic Programming)\|DP(Dynamic Programming)]] 유형 중 ==최소비용 경로 문제==에 해당한다
 
 집은 R, G, B 3가지 색으로 칠해질 수 있으며, 최소 비용으로 집을 칠해야 한다
@@ -40,7 +39,7 @@
 import sys  
   
 N = int(sys.stdin.readline())  
-paint = [[0, 0, 0]] + [list(map(int, sys.stdin.readline().split())) for _ in range(N)]  
+paint = [[0, 0, 0\|0, 0, 0]] + [list(map(int, sys.stdin.readline().split())) for _ in range(N)]  
 MAXIMUM = 10000001  
 RED = 0  
 GREEN = 1  
