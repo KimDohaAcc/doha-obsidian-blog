@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/병합 정렬(Merge sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ![image.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/image.gif)
 
 [[공부/알고리즘/분할 정복(Divide and Conquer)\|분할 정복(Divide and Conquer)]]방식을 사용해 ==배열을 반==으로 나눈 후, 각 부분을 ==재귀적으로 정렬==하고 마지막에 ==병합==하는 방식의 정렬 알고리즘
