@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/트리/최소 스패닝 트리(MST)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/자료구조/트리/최소 스패닝 트리(MST)/","dgPassFrontmatter":true}
 ---
-
 
 ![mst.png](/img/user/첨부파일/mst.png)[[공부/자료구조/트리/신장트리\|신장트리]] 중에서 사용된 간선들의 가중치 합이 최소인 트리
 
