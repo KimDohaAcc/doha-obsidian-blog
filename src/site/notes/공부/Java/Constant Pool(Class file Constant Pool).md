@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/Constant Pool(Class file Constant Pool)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 컴파일 시 ==클래스 파일 내부==에 존재하는 영역
 클래스로더에 의해 [[공부/Java/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]]에 로드될 때 메모리에 로드한다
 
