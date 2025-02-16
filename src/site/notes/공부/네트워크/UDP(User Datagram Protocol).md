@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/네트워크/UDP(User Datagram Protocol)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 사용자 데이터그램 프로토콜이라고 한다
 
 기능이 거의 없다
