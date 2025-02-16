@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/DAO(Data Access Object)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 DB 데이터에 접근하기 위한 객체
 
 Spring에서는 *Repository 인터페이스*를 통해 DAO 기능을 구현하는 경우가 많다
