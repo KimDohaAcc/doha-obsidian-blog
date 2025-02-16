@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/MSD(Most Significant Digit)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 높은 자릿수부터 정렬을 진행해 나가는 방식
 
 주로 재귀적으로 구현된다.
