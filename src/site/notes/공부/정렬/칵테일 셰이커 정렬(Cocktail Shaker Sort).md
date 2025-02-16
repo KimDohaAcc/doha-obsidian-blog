@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/칵테일 셰이커 정렬(Cocktail Shaker Sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 [[공부/정렬/버블 정렬(Bubble Sort)\|버블 정렬(Bubble Sort)]]을 개선한 양방향 버블 정렬
 
 홀수 번째 턴에는 ==가장 작은 요소==를 맨 앞으로,
