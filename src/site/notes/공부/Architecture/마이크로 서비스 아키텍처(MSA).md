@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Architecture/마이크로 서비스 아키텍처(MSA)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 근래의 웹 기반 분산 시스템의 디자인에 많이 반영되고 있는 아키텍처 스타일
 대용량 웹 서비스가 많아짐에 따라 정의된 아키텍처이며, 그 근간은 [[공부/Architecture/SOA(Service Oriented Architecture)\|SOA(Service Oriented Architecture)]]에 두고 있다.
 
@@ -34,7 +33,7 @@ SOA가 엔터프라이즈 시스템을 중심으로 고안된 아키텍처라면
 2) 운영할 시스템의 개수가 많고 서비스별로 다른 기술을 사용한다면 필요한 기술 수도 늘어난다
 
 ##### 서비스 간 트랜잭션 처리
-[[공부/Architecture/모노리틱 아키텍처(Monolithic Architecture)\|모노리틱 아키텍처(Monolithic Architecture)]]에서는 트랜잭션이 문제가 있으면 쉽게 데이터베이스의 기능을 이용해서 롤백할 수 있었다. 그런데 API 기반의 여러 서비스를 하나의 트랜잭션으로 묶는 것이 불가능하므로 MSA에선 이렇게 할 수가 없다.
+[[공부/Architecture/모놀리식 아키텍처(Monolithic Architecture)\|모놀리식 아키텍처(Monolithic Architecture)]]에서는 트랜잭션이 문제가 있으면 쉽게 데이터베이스의 기능을 이용해서 롤백할 수 있었다. 그런데 API 기반의 여러 서비스를 하나의 트랜잭션으로 묶는 것이 불가능하므로 MSA에선 이렇게 할 수가 없다.
 
 이를 위한 해결 방법은
 1) 금융, 제조처럼 트랜잭션 보장이 중요하다면 **MSA 를 쓰지 않는 것** 
