@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/계수 정렬(Counting Sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ![Pasted image 20240809153333.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240809153333.png)
 
 요소 값들끼리 서로 ==비교하지 않고== 정렬하는 알고리즘
