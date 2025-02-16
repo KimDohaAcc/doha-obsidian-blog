@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/공부/알고리즘/탐색/이분 탐색(Binary Search)/","dgPassFrontmatter":true}
 ---
 
-![binary-and-linear-search-animations.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/binary-and-linear-search-animations.gif)
+![binary-and-linear-search-animations.gif](/img/user/첨부파일/binary-and-linear-search-animations.gif)
 
 up down 게임 같이 답을 찾는 탐색법
 
