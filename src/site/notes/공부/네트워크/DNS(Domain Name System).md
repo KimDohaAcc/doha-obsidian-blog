@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/네트워크/DNS(Domain Name System)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 도메인 네임 시스템으로, 도메인 명을 IP 주소로 변환해준다
 
 IP는 기억하기 어렵고, 또 IP주소가 변경될 경우 다시 파악해야 하는 번거로움이 있는데
