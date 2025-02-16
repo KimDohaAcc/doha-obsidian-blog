@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Architecture/SOA(Service Oriented Architecture)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 1990년에 정의되어 2008년대에 유행했던 아키텍처 스타일.
 2010년대에 들어서는 **Open API의 등장과 함께 경량화**되어 Open API 기반의 플랫폼에 많은 영향을 주고 있다
 
