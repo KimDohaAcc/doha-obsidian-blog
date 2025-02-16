@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/트리/트라이(Trie)/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /공부/자료구조/트리/트라이(Trie)/
+dgPassFrontmatter: true
 ---
-
 
 ![Pasted image 20240302172247.png](/img/user/첨부파일/Pasted image 20240302172247.png)
 문자를 저장하고 효율적으로 탐색하기 위한 [[공부/자료구조/트리/트리(Tree)\|트리(Tree)]] 형태의 자료구조
