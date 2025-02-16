@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/좌표 압축(Coordinate Compression)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 수의 값과 상관 없이 **대소 관계**만 알면 될 때 이용하는 알고리즘
 
 [[공부/자료구조/맵/HashMap\|HashMap]]이나  [[공부/알고리즘/탐색/이분 탐색(Binary Search)\|이분 탐색(Binary Search)]]을 사용한다
