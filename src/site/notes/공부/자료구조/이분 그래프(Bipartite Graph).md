@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/이분 그래프(Bipartite Graph)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/자료구조/이분 그래프(Bipartite Graph)/","dgPassFrontmatter":true}
 ---
-
 
 ![bipartite-graph1.gif](/img/user/첨부파일/bipartite-graph1.gif)
 인접한 정점끼리 서로 다른 색으로 칠해서 **모든 정점을 두 가지 색으로만** 칠할 수 있는 그래프
