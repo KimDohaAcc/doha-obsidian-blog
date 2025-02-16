@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/Number Class/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 숫자를 멤버변수로 갖는 클래스의 조상 클래스
 
 ![Pasted image 20240821133337.jpg](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240821133337.jpg)
