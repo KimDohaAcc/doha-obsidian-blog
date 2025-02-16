@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/Wrapper Class/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 기본형 변수를 ==객체로 다루는 클래스==
 [[공부/Java/변수(variable)/변수의 타입\|변수의 타입]] 중 primitive type 변수를 객체로 다뤄야 하는 상황에 사용할 수 있다
 
