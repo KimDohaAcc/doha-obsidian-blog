@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/그리디(Greedy) 알고리즘/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 각 단계에서 국소적으로 최적인 선택을 하는 알고리즘
 
 그리디 알고리즘은 대부분 국소 최적화가 전체 최적화를 이룬다는 것이 수학적으로 증명되어 있다
