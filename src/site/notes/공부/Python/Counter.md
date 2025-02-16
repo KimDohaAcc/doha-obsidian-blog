@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Python/Counter/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 collectrions 모듈의 Counter 클래스는 개수를 세는 ==계수기 도구==이다
 자료구조는 아니다
 
