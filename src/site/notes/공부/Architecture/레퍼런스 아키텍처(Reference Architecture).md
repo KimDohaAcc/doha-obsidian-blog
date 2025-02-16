@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Architecture/레퍼런스 아키텍처(Reference Architecture)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 아키텍처 설계를 할 때 참고할 수 있는 아키텍처
 
 #### 공통 아키텍처(Common Architecture)
