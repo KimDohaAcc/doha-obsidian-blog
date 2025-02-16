@@ -15,7 +15,7 @@ Go언어로 작성된 리눅스 컨테이너 기반 **오픈소스 가상화 플
 
 ### VM vs Docker
 
-![Pasted image 20240221162811.jpg](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240221162811.jpg)
+![Pasted image 20240221162811.jpg](/img/user/첨부파일/Pasted image 20240221162811.jpg)
 
 ###### 가상머신
 VMware, VirtualBox 등 기존의 가상화 방식은 주로 **OS를 가상화**했다
