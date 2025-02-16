@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/트리/힙(Heap)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/자료구조/트리/힙(Heap)/","dgPassFrontmatter":true}
 ---
-
 
 데이터에서 최댓값과 최솟값을 빠르게 찾기 위해 고안된 [[공부/자료구조/트리/완전 이진 트리(Complete Binary Tree)\|완전 이진 트리(Complete Binary Tree)]]
 
