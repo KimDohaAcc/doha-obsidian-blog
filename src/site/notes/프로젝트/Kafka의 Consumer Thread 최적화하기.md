@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/프로젝트/Kafka의 Consumer Thread 최적화하기/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /프로젝트/Kafka 성능 개선/
+dgPassFrontmatter: true
 ---
-
 
 메모리 제약 조건 하에서 Kafka의 처리 성능을 개선한 경험을 공유하고자 한다.
 
