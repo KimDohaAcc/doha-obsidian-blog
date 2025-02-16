@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/parse, valueOf/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 #### parse
 
 `타입.parse타입(String s)`의 형식을 갖는다
