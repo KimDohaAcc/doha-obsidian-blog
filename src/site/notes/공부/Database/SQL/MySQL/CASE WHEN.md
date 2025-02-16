@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Database/SQL/MySQL/CASE WHEN/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 MySQL에서 CASE문은 프로그래밍 언어의 switch문과 비슷하다
 
 ### 사용법
