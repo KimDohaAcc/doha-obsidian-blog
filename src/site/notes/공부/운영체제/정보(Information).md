@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/운영체제/정보(Information)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 Claude Shannon이 1930년대에 정보에 대해서 정의함
 
 >[!info] 정보량 수식
