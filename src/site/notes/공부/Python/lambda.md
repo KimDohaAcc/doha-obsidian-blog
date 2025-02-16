@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Python/lambda/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 익명 함수(anonymous function)이라고도 부른다
 말 그대로 이름이 없는 함수로, 일반적으로 함수를 한 번만 사용하거나 인자로 전달해야 하는 경우 유용하게 사용된다
 
