@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/공부/객체 지향 프로그래밍/상속(Inheritance)/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /공부/객체 지향 프로그래밍/상속(Inheritance)/
+dgPassFrontmatter: true
 ---
-
 
 **기존의 클래스를 재활용**하여 새로운 클래스를 작성하는 기술
 
