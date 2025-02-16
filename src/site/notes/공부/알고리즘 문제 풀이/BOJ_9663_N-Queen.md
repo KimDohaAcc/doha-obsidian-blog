@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘 문제 풀이/BOJ_9663_N-Queen/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 [[공부/알고리즘/백트래킹\|백트래킹]]을 사용해서 N x N 체스판에 퀸 N개를 놓는 문제
 2차원 배열로 풀면 경우의 수가 너무 많다
 그림을 그려보면 1차원 배열로 풀 수 있다는 걸 느낄 수 있다
