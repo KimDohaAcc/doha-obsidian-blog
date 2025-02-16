@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/프로젝트/AWS/EC2 배포/","dgPassFrontmatter":true}
 ---
 
+
 #### 인스턴스 생성
 네트워크 설정 HTTP, HTTPS 트래픽 허용
 키페어 생성
