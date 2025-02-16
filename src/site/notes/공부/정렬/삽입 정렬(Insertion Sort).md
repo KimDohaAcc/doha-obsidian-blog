@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/삽입 정렬(Insertion Sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ![image 1.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/image%201.gif)
 
 [[공부/정렬/버블 정렬(Bubble Sort)\|버블 정렬(Bubble Sort)]]의 비효율성을 개선하기 위해 등장한 정렬이다.
