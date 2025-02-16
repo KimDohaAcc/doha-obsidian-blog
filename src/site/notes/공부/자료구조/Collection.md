@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/Collection/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/자료구조/Collection/","dgPassFrontmatter":true}
 ---
-
 
 데이터를 모아서 관리할 수 있는 클래스
 
