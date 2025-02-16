@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/공부/웹/WAS(Web Application Server)/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /공부/웹/WAS(Web Application Server)/
+dgPassFrontmatter: true
 ---
-
 
 **웹 애플리케이션을 실행**시켜 필요한 기능을 수행하고, 그 결과를 **웹 서버에 전달**하는 **일종의 미들웨어**
 
