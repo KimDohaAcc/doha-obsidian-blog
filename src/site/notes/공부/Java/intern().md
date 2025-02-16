@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/intern()/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 문자열을 [[공부/Java/String Constant Pool\|String Constant Pool]]에 넣어주는 메소드
 
 리터럴로 선언된 문자열은 런타임 시 스캔 대상이 되어 String Constant Pool에 저장되지만,
