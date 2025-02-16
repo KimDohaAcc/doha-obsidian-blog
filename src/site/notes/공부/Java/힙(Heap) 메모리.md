@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/힙(Heap) 메모리/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 
 **동적으로 할당되고 해제**할 수 있는 메모리 영역
 new 로 할당할 수 있다
