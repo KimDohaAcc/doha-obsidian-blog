@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/네트워크/URI(Uniform Resource Identifier)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 리소스를 식별하는 통합된 방법이라고 할 수 있다
 
 URI는 로케이터(Locator) / 이름(Name) 또는 둘 다로 분류될 수 있다
