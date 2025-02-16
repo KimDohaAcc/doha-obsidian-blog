@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/퀵 정렬(Quick Sort)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 ![quick.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/quick.gif)
 [[공부/알고리즘/분할 정복(Divide and Conquer)\|분할 정복(Divide and Conquer)]] 방법을 통한 정렬
 
