@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Jenkins/Jenkins/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 소프트웨어 개발에서 지속적 통합(Continuous Integration, CI)과 지속적 배포(Continuous Deployment & Continuous Delivery, CD)를 가능하게 해주는 서버
 
 배포에 이르기까지 노력을 최소한으로 단축시켜준다
