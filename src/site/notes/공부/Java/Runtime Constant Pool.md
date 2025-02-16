@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/Runtime Constant Pool/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 상수 풀이라고도 부른다
 Java 8 이전에는 [[공부/Java/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]]- Perm 영역에 저장되었고, 이후부터는 JVM - Metaspace 영역에 저장된다
 
