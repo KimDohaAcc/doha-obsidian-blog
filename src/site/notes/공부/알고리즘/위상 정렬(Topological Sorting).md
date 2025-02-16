@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/위상 정렬(Topological Sorting)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 정렬 알고리즘의 일종
 
 ###### 위상(Topology)
