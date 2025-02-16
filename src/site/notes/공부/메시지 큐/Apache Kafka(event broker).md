@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/메시지 큐/Apache Kafka(event broker)/","dgPassFrontmatter":true}
+dg-publish: true
 ---
-
 
 ![kafka_image.jpg](/img/user/첨부파일/kafka_image.jpg)
 
