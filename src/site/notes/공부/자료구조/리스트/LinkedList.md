@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/리스트/LinkedList/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/자료구조/리스트/LinkedList/","dgPassFrontmatter":true}
 ---
-
 
 LinkedList는 ArrayList와는 달리 List 인터페이스를 구현한 AbstrackList를 상속하지 않고, **AbstrackSequentialList**를 상속하고 있음
 
