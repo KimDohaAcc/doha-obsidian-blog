@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-permalink: /프로젝트/Kafka 성능 개선/
+permalink: /프로젝트/Kafka의 Consumer Thread 최적화하기.md/
 dgPassFrontmatter: true
 ---
 
