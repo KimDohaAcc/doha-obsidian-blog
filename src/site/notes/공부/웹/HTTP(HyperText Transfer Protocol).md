@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-permalink: /공부/웹/HTTP/
+permalink: /공부/웹/HTTP(HyperText Transfer Protocol).md/
 dgPassFrontmatter: true
 ---
 
