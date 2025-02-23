@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///priority-queue/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/자료구조/Priority Queue/","dgPassFrontmatter":true}
 ---
 

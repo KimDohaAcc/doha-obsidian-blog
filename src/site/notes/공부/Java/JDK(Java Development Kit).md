@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/jdk-java-development-kit/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 자바 프로그래밍을 위해서는 JDK를 설치해야 한다
@@ -24,4 +29,3 @@ JDK의 bin 디렉토리에 있는 주요 실행파일은 다음과 같다
 
 *jar.exe*
 압축 프로그램으로, 클래스 파일과 프로그램의 실행에 관련된 파일을 하나의 jar파일로 압축하거나 압축 해제한다
-

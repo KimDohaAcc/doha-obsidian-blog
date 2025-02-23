@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///heap-sort/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 ![heapsort.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/heapsort.gif)

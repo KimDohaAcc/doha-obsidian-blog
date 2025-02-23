@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///stateless/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 서버가 클라이언트의 상태를 보존하지 않는다는 의미

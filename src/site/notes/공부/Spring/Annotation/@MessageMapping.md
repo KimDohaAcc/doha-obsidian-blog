@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//spring/annotation/message-mapping/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/Spring/Annotation/@MessageMapping/","dgPassFrontmatter":true}
 ---
 

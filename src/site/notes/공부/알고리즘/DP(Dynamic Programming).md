@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///dp-dynamic-programming/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/알고리즘/DP(Dynamic Programming)/","dgPassFrontmatter":true}
 ---
 
@@ -46,4 +51,4 @@ print(dp[n])
 #### DP 유형 파악 방법
 1. 그리디, 시뮬레이션, 완전탐색 등의 알고리즘으로 풀 수 없다고 생각이 들면 DP를 사용해보자
 2. 일단 비효율적인 재귀로 프로그램을 작성한 뒤에, 메모이제이션을 적용할 수 있으면 코드를 개선하는 방법도 좋다
-3. 최적화(최대, 최소값) 또는 경우의 수를 구할 때 사용한다 
+3. 최적화(최대, 최소값) 또는 경우의 수를 구할 때 사용한다

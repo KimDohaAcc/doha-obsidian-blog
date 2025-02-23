@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/annotation/generated-value/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/Annotation/@GeneratedValue/","dgPassFrontmatter":true}
 ---
 

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///stable-sort/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 중복된 값을 입력 순서와 동일하게 정렬하는 특성

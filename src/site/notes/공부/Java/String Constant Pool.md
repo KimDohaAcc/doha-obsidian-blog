@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/string-constant-pool/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 문자열 리터럴을 저장하는 독립된 영역
@@ -36,4 +41,3 @@ System.out.println(str == str3);	// false
 System.out.println(str.equals(str3));	// true
 ```
 ![Pasted image 20240821100807.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240821100807.png)
-

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///operating-system/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
   [[공부/운영체제/컴퓨터(Computer)\|컴퓨터(Computer)]]라는 하드웨어를 운영하는 소프트웨어

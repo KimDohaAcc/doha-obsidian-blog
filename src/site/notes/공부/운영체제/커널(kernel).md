@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///kernel/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 커널은 2개 타입의 프로그램에 대한 인터페이스를 제공한다

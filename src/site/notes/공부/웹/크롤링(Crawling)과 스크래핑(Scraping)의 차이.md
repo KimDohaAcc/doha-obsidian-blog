@@ -2,6 +2,7 @@
 {"dg-publish":true,"tags":["크롤링","스크래핑"],"permalink":"///crawling-scraping/","dgPassFrontmatter":true}
 ---
 
+
 ### 크롤링(Crawling)
 웹사이트를 자동으로 탐색하며 링크를 따라가면서 웹 페이지의 정보를 수집하는 과정
 

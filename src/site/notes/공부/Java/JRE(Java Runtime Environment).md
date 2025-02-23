@@ -1,8 +1,12 @@
 ---
+{"dg-publish":true,"permalink":"//java/jre-java-runtime-environment/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 [[공부/Java/자바(Java Programming Language)\|자바(Java Programming Language)]]실행 환경.
 자바로 작성된 응용프로그램이 실행되기 위한 최소 환경
 
 JRE는 [[공부/Java/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]]과 클래스 라이브러리(Java API)를 포함하고 있다
-

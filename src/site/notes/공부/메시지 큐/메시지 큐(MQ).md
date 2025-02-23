@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///mq/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 permalink: /공부/메시지 큐/메시지 큐(MQ)/
 dgPassFrontmatter: true

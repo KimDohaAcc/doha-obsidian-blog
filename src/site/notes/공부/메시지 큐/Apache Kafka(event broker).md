@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///apache-kafka-event-broker/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 
@@ -44,4 +49,4 @@ RabbitMQ와 ActiveMQ는 브로커가 컨슈머로 메시지를 Push 하는 방�
 - **레코드 (record)**: 파티션에 저장되는 데이터
 - **프로듀서 (producer)**: 카프카에 요청하여 토픽에 레코드를 추가하는 클라이언트. 카프카에 요청하는 애플리케이션이다.
 - **컨슈머 (consumer)**: 하나 이상의 파티션과 토픽으로부터 ==레코드를 읽어오는 클라이언트==. 
-- **컨슈머 그룹 (consumer group)**: 동일한 컨슈머 인스턴스를 여러개 생성하여 컨슈머 그룹을 구성할 수 있다. 
+- **컨슈머 그룹 (consumer group)**: 동일한 컨슈머 인스턴스를 여러개 생성하여 컨슈머 그룹을 구성할 수 있다.

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//architecture/scale-out/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 서버를 여러 대 추가하여 시스템을 확장하는 것

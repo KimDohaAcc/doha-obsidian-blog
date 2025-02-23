@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"//git/detached-head/","dgPassFrontmatter":true}
 ---
 
+
 [[공부/Git/HEAD\|HEAD]]가 특정 브랜치가 아닌 특정 **커밋**을 직접 가리키는 상태
 
 #### 진입

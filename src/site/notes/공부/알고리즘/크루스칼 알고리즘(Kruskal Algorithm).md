@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///kruskal-algorithm/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/알고리즘/크루스칼 알고리즘(Kruskal Algorithm)/","dgPassFrontmatter":true}
 ---
 

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/orm-object-relational-mapping/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 객체와 관계형 데이터베이스의 데이터를 자동으로 매핑해주는 기술
@@ -42,4 +47,3 @@ Node.js
 
 Java
 - JPA
-

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///input-stream/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/입출력/입력스트림(Input Stream)/","dgPassFrontmatter":true}
 ---
 

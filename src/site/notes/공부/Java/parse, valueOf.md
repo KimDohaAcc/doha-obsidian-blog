@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/parse-value-of/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 #### parse

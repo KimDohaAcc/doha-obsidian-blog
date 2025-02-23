@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//database/sql/my-sql/conv/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 수의 진수를 바꾸는 함수

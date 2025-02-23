@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//docker/docker-compose/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/Docker/Docker-Compose/","dgPassFrontmatter":true}
 ---
 

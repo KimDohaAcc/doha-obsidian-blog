@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///topological-sorting/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 정렬 알고리즘의 일종

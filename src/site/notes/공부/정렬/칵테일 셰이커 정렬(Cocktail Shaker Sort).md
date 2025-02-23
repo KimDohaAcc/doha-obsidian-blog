@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///cocktail-shaker-sort/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 [[공부/정렬/버블 정렬(Bubble Sort)\|버블 정렬(Bubble Sort)]]을 개선한 양방향 버블 정렬

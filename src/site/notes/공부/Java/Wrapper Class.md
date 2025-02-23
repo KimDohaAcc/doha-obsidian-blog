@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/wrapper-class/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 기본형 변수를 ==객체로 다루는 클래스==

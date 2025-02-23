@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-permalink: /공부/객체 지향 프로그래밍/객체 지향 프로그래밍(OOP)/
-dgPassFrontmatter: true
+{"dg-publish":true,"permalink":"///oop/","dgPassFrontmatter":true}
 ---
+
 
 ==Object Oriented Programming : OOP==
 

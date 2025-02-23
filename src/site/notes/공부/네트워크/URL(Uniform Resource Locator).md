@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///url-uniform-resource-locator/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 리소스의 위치를 의미한다
@@ -25,4 +30,4 @@ name=ferret
 
 ###### fragment
 nose
-서버로 전송되는 정보는 아니고, 내부 북마크라고 생각 
+서버로 전송되는 정보는 아니고, 내부 북마크라고 생각

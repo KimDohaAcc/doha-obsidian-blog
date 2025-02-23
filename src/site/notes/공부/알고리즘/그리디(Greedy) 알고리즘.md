@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///greedy/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 각 단계에서 국소적으로 최적인 선택을 하는 알고리즘
@@ -40,4 +45,3 @@ dg-publish: true
 ###### 다익스트라 알고리즘
 [[공부/알고리즘/다익스트라(Dijkstra) 알고리즘\|다익스트라(Dijkstra) 알고리즘]]에도 그리디가 사용된다
 매 단계에서 가장 가까운 미방문 정점을 선택한다
-

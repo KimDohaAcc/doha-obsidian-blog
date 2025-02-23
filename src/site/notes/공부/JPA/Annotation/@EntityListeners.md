@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/annotation/entity-listeners/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/Annotation/@EntityListeners/","dgPassFrontmatter":true}
 ---
 

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/annotation/join-column/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/Annotation/@JoinColumn/","dgPassFrontmatter":true}
 ---
 

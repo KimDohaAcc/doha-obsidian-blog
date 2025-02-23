@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//architecture/monolithic-architecture/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 기존의 전통적인 웹 시스템 개발 스타일

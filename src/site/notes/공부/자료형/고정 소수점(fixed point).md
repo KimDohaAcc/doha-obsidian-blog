@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///fixed-point/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 소수점이 고정되어 있다고 간주하고 표현하는 방법

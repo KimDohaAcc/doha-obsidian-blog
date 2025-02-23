@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Docker/Docker/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//docker/docker/","dgPassFrontmatter":true}
 ---
+
 
 ### 개념
 Go언어로 작성된 리눅스 컨테이너 기반 **오픈소스 가상화 플랫폼**으로, 응용 프로그램과 그 종속성을 격리된 환경인 ==컨테이너==로 패키징하여 실행하는 기술

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///bias/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 

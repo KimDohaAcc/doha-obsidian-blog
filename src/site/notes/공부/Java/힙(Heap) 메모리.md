@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/heap/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 

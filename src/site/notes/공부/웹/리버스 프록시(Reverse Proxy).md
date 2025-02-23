@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///reverse-proxy/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 클라이언트의 요청을 바로 서버로 전달하지 않고, 중개자 역할을 하는 것

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//python/counter/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 collectrions 모듈의 Counter 클래스는 개수를 세는 ==계수기 도구==이다

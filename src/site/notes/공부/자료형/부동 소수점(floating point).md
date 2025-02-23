@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///floating-point/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 소수점이 고정되어 있지 않고 좌우로 움직일 수 있다는 뜻의 표현 방식

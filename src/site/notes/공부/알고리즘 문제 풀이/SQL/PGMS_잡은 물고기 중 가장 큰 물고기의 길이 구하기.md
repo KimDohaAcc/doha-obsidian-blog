@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///sql/pgms/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 ```MYSQL

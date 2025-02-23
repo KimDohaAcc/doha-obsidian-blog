@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jenkins/plugin/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/Jenkins/유용한 Plugin/","dgPassFrontmatter":true}
 ---
 

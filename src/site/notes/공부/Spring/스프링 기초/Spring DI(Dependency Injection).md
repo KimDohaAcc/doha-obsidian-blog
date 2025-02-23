@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//spring//spring-di-dependency-injection/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring DI(Dependency Injection)/","dgPassFrontmatter":true}
 ---
 

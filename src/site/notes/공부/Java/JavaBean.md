@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/java-bean/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 아래 두 가지 관례를 따라 만들어진 오브젝트를 자바빈, 혹은 빈이라고 부른다.

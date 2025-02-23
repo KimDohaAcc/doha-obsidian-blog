@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///lsd-least-significant-digit/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 낮은 자릿수부터 정렬을 진행해 나가는 방식

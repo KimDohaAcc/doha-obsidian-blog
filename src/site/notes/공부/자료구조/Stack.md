@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///stack/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 permalink: /공부/자료구조/Stack/
 dgPassFrontmatter: true

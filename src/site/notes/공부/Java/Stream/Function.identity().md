@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/stream/function-identity/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/Stream/Function.identity()/","dgPassFrontmatter":true}
 ---
 

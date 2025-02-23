@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///information/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 Claude Shannon이 1930년대에 정보에 대해서 정의함

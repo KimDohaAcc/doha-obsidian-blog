@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//architecture/scale-up/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 기존 서버의 사양을 업그레이드 해 시스템을 확장하는 것

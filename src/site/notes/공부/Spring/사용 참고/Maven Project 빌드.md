@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//spring//maven-project/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/Spring/사용 참고/Maven Project 빌드/","dgPassFrontmatter":true}
 ---
 

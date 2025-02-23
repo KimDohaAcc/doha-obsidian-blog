@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/stream/collector/grouping-by/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/Stream/Collector/Grouping By/","dgPassFrontmatter":true}
 ---
 

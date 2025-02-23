@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/dangling-pointer/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 

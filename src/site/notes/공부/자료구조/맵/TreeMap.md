@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"////tree-map/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/자료구조/맵/TreeMap/","dgPassFrontmatter":true}
 ---
 

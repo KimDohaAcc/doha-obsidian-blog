@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//architecture/msa/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 근래의 웹 기반 분산 시스템의 디자인에 많이 반영되고 있는 아키텍처 스타일
@@ -41,4 +46,3 @@ SOA가 엔터프라이즈 시스템을 중심으로 고안된 아키텍처라면
 2) 트랜잭션 실패 시 이를 애플리케이션으로 처리해주는 **보상 트랜잭션**(Compensation Transaction)으로 에러 처리 로직을 구현하는 것 
    
 3) 트랜잭션을 묶어야 하는 두 개의 시스템을 네이티브 프로토콜을 이용해서 구현하고 API로 노출하는 방식인 **복합 서비스**(COmposite Service)를 만들어서 활용하는 것이 있다
-

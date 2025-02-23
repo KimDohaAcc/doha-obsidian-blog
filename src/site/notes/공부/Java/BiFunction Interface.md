@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/bi-function-interface/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/BiFunction Interface/","dgPassFrontmatter":true}
 ---
 

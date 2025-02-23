@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-permalink: /공부/객체 지향 프로그래밍/추상화(Abstraction)/
-dgPassFrontmatter: true
+{"dg-publish":true,"permalink":"///abstraction/","dgPassFrontmatter":true}
 ---
+
 
 [[공부/객체 지향 프로그래밍/객체(Object)\|객체(Object)]]의 ==불필요한 정보를 숨기고== 객체의 ==본질적인 속성과 기능만을 드러내는== 과정을 의미
 

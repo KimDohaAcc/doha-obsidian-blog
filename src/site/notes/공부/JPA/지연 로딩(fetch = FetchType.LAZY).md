@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/fetch-fetch-type-lazy/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/지연 로딩(fetch = FetchType.LAZY)/","dgPassFrontmatter":true}
 ---
 

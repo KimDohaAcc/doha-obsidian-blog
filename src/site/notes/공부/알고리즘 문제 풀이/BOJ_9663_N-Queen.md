@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///boj-9663-n-queen/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 [[공부/알고리즘/백트래킹\|백트래킹]]을 사용해서 N x N 체스판에 퀸 N개를 놓는 문제

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"//git/head/","dgPassFrontmatter":true}
 ---
 
+
 현재 체크아웃된 ==브랜치를 가리키는 포인터==
 
 즉, 현재 작업 중인 커밋을 가리키는 **참조(Reference)**

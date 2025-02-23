@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/runtime-constant-pool/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 상수 풀이라고도 부른다

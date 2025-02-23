@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/garbage-collector-gc/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 

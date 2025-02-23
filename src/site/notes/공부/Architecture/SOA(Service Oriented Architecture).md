@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//architecture/soa-service-oriented-architecture/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 1990년에 정의되어 2008년대에 유행했던 아키텍처 스타일.

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"///web-server/","dgPassFrontmatter":true}
 ---
 
+
 인터넷을 기반으로 클라이언트에게 웹 서비스를 제공하는 컴퓨터 혹은 프로세스
 
 ![Pasted image 20241031131607.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020241031131607.png)

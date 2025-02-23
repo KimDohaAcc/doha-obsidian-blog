@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///forward-proxy/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 클라이언트의 요청을 직접 서버로 전달하지 않고, ==프록시 서버를 거쳐서 전달하는 것==

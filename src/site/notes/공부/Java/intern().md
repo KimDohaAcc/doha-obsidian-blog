@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/intern/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 문자열을 [[공부/Java/String Constant Pool\|String Constant Pool]]에 넣어주는 메소드

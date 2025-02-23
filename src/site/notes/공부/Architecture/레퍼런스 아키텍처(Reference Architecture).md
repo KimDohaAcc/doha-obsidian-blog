@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//architecture/reference-architecture/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 아키텍처 설계를 할 때 참고할 수 있는 아키텍처

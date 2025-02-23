@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///unstable-sort/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 [[공부/정렬/안정 정렬(Stable Sort)\|안정 정렬(Stable Sort)]]과 반대로 중복된 값이 입력 순서와 동일하지 않게 정렬되는 특성이다

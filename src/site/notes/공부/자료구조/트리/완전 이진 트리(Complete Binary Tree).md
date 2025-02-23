@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"////complete-binary-tree/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 

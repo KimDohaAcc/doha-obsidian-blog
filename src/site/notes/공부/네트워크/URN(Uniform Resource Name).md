@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///urn-uniform-resource-name/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 리소스의 이름을 의미한다

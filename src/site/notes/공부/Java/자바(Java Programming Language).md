@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/java-programming-language/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 자바는 썬 마이크로시스템즈(Sun Microsystems)에서 개발하여 1996년 1월에 공식적으로 발표한 *객체지향 프로그래밍 언어*이다

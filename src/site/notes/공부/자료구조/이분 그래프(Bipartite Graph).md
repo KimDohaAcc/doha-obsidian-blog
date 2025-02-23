@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///bipartite-graph/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/자료구조/이분 그래프(Bipartite Graph)/","dgPassFrontmatter":true}
 ---
 
@@ -13,4 +18,3 @@ BFS, DFS로 탐색하면서 정점을 방문할 때마다 두 가지 색 중 하
 탐색을 진행할 때 자신과 인접한 정점의 색이 자신과 동일하면 이분 그래프가 아니다.
 BFS의 경우 정점을 방문하다가 만약 같은 레벨에서 정점을 다른 색으로 칠해야 한다면 무조건 이분 그래프가 아니다.
 모든 정점을 다 방문했는데 위와 같은 경우가 없다면 이분 그래프이다.
-   

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/base-time-entity-java/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/BaseTimeEntity.java/","dgPassFrontmatter":true}
 ---
 

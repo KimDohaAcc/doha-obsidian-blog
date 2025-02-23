@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///tcp-transmission-control-protocol/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 전송 제어 프로토콜이다

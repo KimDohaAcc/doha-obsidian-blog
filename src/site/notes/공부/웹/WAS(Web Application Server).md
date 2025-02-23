@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///was-web-application-server/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 permalink: /공부/웹/WAS(Web Application Server)/
 dgPassFrontmatter: true

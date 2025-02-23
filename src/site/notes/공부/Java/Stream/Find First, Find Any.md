@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/stream/find-first-find-any/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/Stream/Find First, Find Any/","dgPassFrontmatter":true}
 ---
 

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///prim-s-algorithm/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/알고리즘/프림 알고리즘(Prim's Algorithm)/","dgPassFrontmatter":true}
 ---
 

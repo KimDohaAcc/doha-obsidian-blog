@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/persistence-context/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/Persistence Context/","dgPassFrontmatter":true}
 ---
 

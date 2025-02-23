@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/jpa-java-persistence-api/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 EJB 3.0에서 Hibernate를 기반으로 만든 자바 [[공부/JPA/ORM(Object Relational Mapping)\|ORM(Object Relational Mapping)]] 기술 표준

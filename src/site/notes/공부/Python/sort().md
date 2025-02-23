@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//python/sort/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
  리스트 내장 함수로, 내부 원소를 정렬한다

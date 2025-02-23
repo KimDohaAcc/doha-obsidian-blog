@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"////red-black-tree/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 permalink: /공부/자료구조/트리/레드-블랙 트리(Red-Black Tree)/
 dgPassFrontmatter: true

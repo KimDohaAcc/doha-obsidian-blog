@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///boj-1149-rgb/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 [[공부/알고리즘/DP(Dynamic Programming)\|DP(Dynamic Programming)]] 유형 중 ==최소비용 경로 문제==에 해당한다

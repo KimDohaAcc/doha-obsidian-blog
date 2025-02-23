@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-permalink: /공부/객체 지향 프로그래밍/캡슐화(Encapsulation)/
-dgPassFrontmatter: true
+{"dg-publish":true,"permalink":"///encapsulation/","dgPassFrontmatter":true}
 ---
+
 
 객체의 ==상태(속성)와 행동(메소드)을 하나의 단위==로 묶고 ==외부에서 직접 접근하는 것을 제한==하는 방법
 

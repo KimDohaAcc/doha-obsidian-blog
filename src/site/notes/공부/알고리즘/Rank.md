@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///rank/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/알고리즘/Rank/","dgPassFrontmatter":true}
 ---
 

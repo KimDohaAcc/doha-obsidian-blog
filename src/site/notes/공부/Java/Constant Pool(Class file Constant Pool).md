@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/constant-pool-class-file-constant-pool/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 컴파일 시 ==클래스 파일 내부==에 존재하는 영역

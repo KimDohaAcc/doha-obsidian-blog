@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//architecture/api-gateway/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 프록시 서버처럼 API 앞에서 모든 API에 대한 엔드포인트를 통합하고 추가적인 기능을 제공하는 미들웨어

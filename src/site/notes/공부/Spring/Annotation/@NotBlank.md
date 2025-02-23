@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//spring/annotation/not-blank/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/Spring/Annotation/@NotBlank/","dgPassFrontmatter":true}
 ---
 

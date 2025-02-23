@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///divide-and-conquer/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/알고리즘/분할 정복(Divide and Conquer)/","dgPassFrontmatter":true}
 ---
 

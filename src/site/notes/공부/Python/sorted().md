@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//python/sorted/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 기본 정렬 함수

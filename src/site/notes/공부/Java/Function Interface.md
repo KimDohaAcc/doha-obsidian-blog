@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/function-interface/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/Function Interface/","dgPassFrontmatter":true}
 ---
 

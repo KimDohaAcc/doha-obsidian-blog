@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/native-memory/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 [[공부/Java/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]] 힙 외부에 있는 메모리

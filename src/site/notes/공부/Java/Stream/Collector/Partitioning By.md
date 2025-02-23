@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/stream/collector/partitioning-by/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/Stream/Collector/Partitioning By/","dgPassFrontmatter":true}
 ---
 

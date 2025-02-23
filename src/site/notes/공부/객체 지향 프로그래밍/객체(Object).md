@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///object/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 permalink: /공부/객체 지향 프로그래밍/객체(Object)/
 dgPassFrontmatter: true

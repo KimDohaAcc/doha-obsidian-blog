@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"//git/git/","dgPassFrontmatter":true}
 ---
 
+
 Git은 [[공부/Git/분산 버전 관리 시스템(DVCS)\|분산 버전 관리 시스템(DVCS)]]의 일종
 프로젝트 변경 이력을 추적하고, 협업할 수 있도록 도와주는 시스템
 

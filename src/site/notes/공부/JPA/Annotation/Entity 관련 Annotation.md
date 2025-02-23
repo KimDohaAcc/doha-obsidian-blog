@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/annotation/entity-annotation/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/Annotation/Entity 관련 Annotation/","dgPassFrontmatter":true}
 ---
 

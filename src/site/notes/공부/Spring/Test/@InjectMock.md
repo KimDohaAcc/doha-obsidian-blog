@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//spring/test/inject-mock/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/Spring/Test/@InjectMock/","dgPassFrontmatter":true}
 ---
 

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///udp-user-datagram-protocol/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 사용자 데이터그램 프로토콜이라고 한다

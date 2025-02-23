@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"////max-tree/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 

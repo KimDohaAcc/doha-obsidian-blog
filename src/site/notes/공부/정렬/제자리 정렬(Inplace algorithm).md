@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///inplace-algorithm/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 추가적인 메모리 공간을 많이 필요로 하지 않거나, 전혀 필요하지 않은 정렬

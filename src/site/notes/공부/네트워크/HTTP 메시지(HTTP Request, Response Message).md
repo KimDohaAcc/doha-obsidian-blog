@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///http-http-request-response-message/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 # Request Message

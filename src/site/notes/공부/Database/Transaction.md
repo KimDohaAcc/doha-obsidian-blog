@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Database/Transaction/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//database/transaction/","dgPassFrontmatter":true}
 ---
+
 
 ### 트랜잭션(Transaction)이란?
 

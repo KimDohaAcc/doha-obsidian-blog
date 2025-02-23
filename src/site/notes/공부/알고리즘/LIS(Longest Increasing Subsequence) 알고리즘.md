@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///lis-longest-increasing-subsequence/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 ==최장 증가 부분 수열==을 구하는 알고리즘

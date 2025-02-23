@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/stream/all-match-any-match/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/Stream/All Match, Any Match/","dgPassFrontmatter":true}
 ---
 

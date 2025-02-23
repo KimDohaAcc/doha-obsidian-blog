@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///stream/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/입출력/Stream/","dgPassFrontmatter":true}
 ---
 

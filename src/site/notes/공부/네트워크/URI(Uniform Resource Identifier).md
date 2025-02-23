@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///uri-uniform-resource-identifier/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 리소스를 식별하는 통합된 방법이라고 할 수 있다

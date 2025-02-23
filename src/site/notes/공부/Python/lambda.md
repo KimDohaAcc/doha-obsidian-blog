@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//python/lambda/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 익명 함수(anonymous function)이라고도 부른다

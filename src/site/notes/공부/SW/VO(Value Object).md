@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"//sw/vo-value-object/","dgPassFrontmatter":true}
 ---
 
+
 데이터의 불변성을 보장하고 비지니스 로직에서 사용되는 데이터 객체
 
 [[공부/SW/DTO(Data Transfer Object)\|DTO(Data Transfer Object)]]와 유사하지만 setter를 가지지 않고 *read-only*특징을 가진다

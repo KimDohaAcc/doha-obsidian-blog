@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//opentelemetry-custom-java-agent/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/프로젝트/Opentelemetry Custom JavaAgent/","dgPassFrontmatter":true}
 ---
 

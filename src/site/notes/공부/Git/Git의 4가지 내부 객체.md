@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"//git/git-4/","dgPassFrontmatter":true}
 ---
 
+
 [[공부/Git/Git\|Git]]은 저장소 내 데이터를 관리하기 위해 4가지 객체(object)를 사용
 
 1. 블롭(Blob, Binary Large Object) : 파일의 내용을 저장

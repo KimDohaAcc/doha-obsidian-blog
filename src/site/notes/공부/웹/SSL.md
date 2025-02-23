@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///ssl/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/웹/SSL/","dgPassFrontmatter":true}
 ---
 

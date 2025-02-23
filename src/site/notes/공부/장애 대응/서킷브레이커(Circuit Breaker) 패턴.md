@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///circuit-breaker/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 장애 발생 지점을 감지하고 실패하는 요청을 계속적으로 보내지 않도록 **방지**하는 패턴

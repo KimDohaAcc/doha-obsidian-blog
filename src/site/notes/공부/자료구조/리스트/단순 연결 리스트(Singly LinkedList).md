@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"////singly-linked-list/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/자료구조/리스트/단순 연결 리스트(Singly LinkedList)/","dgPassFrontmatter":true}
 ---
 

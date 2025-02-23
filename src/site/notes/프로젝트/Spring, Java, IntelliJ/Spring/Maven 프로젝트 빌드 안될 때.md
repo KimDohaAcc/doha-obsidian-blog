@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//spring-java-intelli-j/spring/maven/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/프로젝트/Spring, Java, IntelliJ/Spring/Maven 프로젝트 빌드 안될 때/","dgPassFrontmatter":true}
 ---
 

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/annotation/enumerated/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/Annotation/@Enumerated/","dgPassFrontmatter":true}
 ---
 

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/string-builder/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/StringBuilder/","dgPassFrontmatter":true}
 ---
 

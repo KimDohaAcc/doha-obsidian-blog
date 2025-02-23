@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/switch/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JAVA/switch/","dgPassFrontmatter":true}
 ---
 

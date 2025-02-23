@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/entity-manager/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/JPA/EntityManager/","dgPassFrontmatter":true}
 ---
 

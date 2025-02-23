@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"////dag-directed-acyclic-graph/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 사이클이 없는 방향 그래프

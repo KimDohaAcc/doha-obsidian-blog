@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jpa/annotation/transient/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 엔티티 객체의 데이터와 테이블의 컬럼과 매핑하는 관계를 **제외**하기 위해 사용하는 어노테이션
@@ -22,4 +27,3 @@ public class Member{
 ```
 
 비밀번호 재입력 필드처럼 굳이  테이블에 컬럼으로 구성해서 관리할 필요가 없다면 @Transient 어노테이션을 사용한다
-

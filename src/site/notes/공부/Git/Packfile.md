@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"//git/packfile/","dgPassFrontmatter":true}
 ---
 
+
 저장소의 데이터를 더 효율적으로 저장하고 전송하기 위한 ==압축된 데이터 파일==
 
 [[공부/Git/Git의 4가지 내부 객체\|Git의 4가지 내부 객체]]를 하나의 **압축된 바이너리 파일**로 묶어 저장

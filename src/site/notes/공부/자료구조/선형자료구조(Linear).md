@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///linear/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/자료구조/선형자료구조(Linear)/","dgPassFrontmatter":true}
 ---
 

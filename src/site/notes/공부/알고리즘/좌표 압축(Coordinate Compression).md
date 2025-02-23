@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///coordinate-compression/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 수의 값과 상관 없이 **대소 관계**만 알면 될 때 이용하는 알고리즘

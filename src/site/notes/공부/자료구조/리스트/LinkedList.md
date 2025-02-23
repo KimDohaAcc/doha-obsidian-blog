@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"////linked-list/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/SW/자료구조/리스트/LinkedList/","dgPassFrontmatter":true}
 ---
 

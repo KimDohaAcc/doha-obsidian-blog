@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"///dns-domain-name-system/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 도메인 네임 시스템으로, 도메인 명을 IP 주소로 변환해준다

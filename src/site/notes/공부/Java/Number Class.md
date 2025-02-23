@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//java/number-class/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 숫자를 멤버변수로 갖는 클래스의 조상 클래스

@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//spring/spring-framework/","dgPassFrontmatter":true}
+---
+
+
+---
 {"dg-publish":true,"permalink":"/공부/Spring/Spring Framework/","dgPassFrontmatter":true}
 ---
 

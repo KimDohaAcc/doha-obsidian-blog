@@ -1,4 +1,9 @@
 ---
+{"dg-publish":true,"permalink":"//jenkins/jenkins/","dgPassFrontmatter":true}
+---
+
+
+---
 dg-publish: true
 ---
 소프트웨어 개발에서 지속적 통합(Continuous Integration, CI)과 지속적 배포(Continuous Deployment & Continuous Delivery, CD)를 가능하게 해주는 서버
