@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Git/Git/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//git/git/","dgPassFrontmatter":true}
 ---
 
 Git은 [[공부/Git/분산 버전 관리 시스템(DVCS)\|분산 버전 관리 시스템(DVCS)]]의 일종

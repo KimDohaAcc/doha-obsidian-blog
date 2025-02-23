@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/해싱(Hashing)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//sw/hashing/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/웹/웹 서버(Web Server)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"///web-server/","dgPassFrontmatter":true}
 ---
 
 인터넷을 기반으로 클라이언트에게 웹 서비스를 제공하는 컴퓨터 혹은 프로세스

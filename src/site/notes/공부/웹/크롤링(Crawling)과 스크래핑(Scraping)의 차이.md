@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["크롤링","스크래핑"],"permalink":"/공부/웹/크롤링(Crawling)과 스크래핑(Scraping)의 차이/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["크롤링","스크래핑"],"permalink":"///crawling-scraping/","dgPassFrontmatter":true}
 ---
 
 ### 크롤링(Crawling)

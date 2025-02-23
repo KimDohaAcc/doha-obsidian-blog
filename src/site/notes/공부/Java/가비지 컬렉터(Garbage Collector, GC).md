@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/가비지 컬렉터(Garbage Collector, GC)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//java/garbage-collector-gc/","dgPassFrontmatter":true}
 ---
 
 Java에서 사용되는 **자동 메모리 관리 시스템**

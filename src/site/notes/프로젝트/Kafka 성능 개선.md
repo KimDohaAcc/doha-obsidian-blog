@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/프로젝트/Kafka 성능 개선/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//kafka/","dgPassFrontmatter":true}
 ---
 
 기존에는 단일 파티션에 단일 컨슈머를 두고 있어 1초에 약 400개의 메시지 밖에 처리할 수 없었습니다.

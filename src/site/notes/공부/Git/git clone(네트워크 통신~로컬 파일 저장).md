@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Git/git clone(네트워크 통신~로컬 파일 저장)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//git/git-clone/","dgPassFrontmatter":true}
 ---
 
 ```bash

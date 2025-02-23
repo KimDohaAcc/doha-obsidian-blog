@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Git/Packfile/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//git/packfile/","dgPassFrontmatter":true}
 ---
 
 저장소의 데이터를 더 효율적으로 저장하고 전송하기 위한 ==압축된 데이터 파일==

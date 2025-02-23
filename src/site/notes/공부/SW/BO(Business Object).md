@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"//sw/bo-business-object/","dgPassFrontmatter":true}
 ---
+
 비지니스 로직을 처리하는 객체
 
 주로 비지니스 규칙 구현, 데이터 처리, 연산 수행에 사용된다

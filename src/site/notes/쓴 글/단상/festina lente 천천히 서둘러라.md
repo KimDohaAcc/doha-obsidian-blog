@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/쓴 글/단상/festina lente 천천히 서둘러라/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"///festina-lente/","dgPassFrontmatter":true}
 ---
 
 존경하는 교수님과 면담을 하던 중 미래 계획 얘기가 나왔다. 교수님께서는 내 말을 집중해서 들어주셨다. 아니, 집중을 넘어 한 마디를 놓치지 않고 다 듣고 계셨다. 나라는 사람이 교수님의 노트에 날 것으로 쓰이고 있는 기분이었다.  

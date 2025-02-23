@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/프로젝트/Git/프로젝트 별 commit 계정 설정/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//git/commit/","dgPassFrontmatter":true}
 ---
 
 

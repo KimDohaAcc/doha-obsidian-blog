@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/기타/Observerbility/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"///observerbility/","dgPassFrontmatter":true}
 ---
 
 **관찰가능성**이라는 의미

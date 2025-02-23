@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Git/HEAD/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//git/head/","dgPassFrontmatter":true}
 ---
 
 현재 체크아웃된 ==브랜치를 가리키는 포인터==

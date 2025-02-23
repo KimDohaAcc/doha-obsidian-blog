@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/프로젝트/AWS/EC2 https 적용/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//aws/ec-2-https/","dgPassFrontmatter":true}
 ---
 
 

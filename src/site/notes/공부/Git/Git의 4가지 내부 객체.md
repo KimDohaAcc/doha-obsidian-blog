@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Git/Git의 4가지 내부 객체/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//git/git-4/","dgPassFrontmatter":true}
 ---
 
 [[공부/Git/Git\|Git]]은 저장소 내 데이터를 관리하기 위해 4가지 객체(object)를 사용

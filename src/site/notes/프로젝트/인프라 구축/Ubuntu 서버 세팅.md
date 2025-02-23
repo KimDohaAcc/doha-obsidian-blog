@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/프로젝트/인프라 구축/Ubuntu 서버 세팅/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"///ubuntu/","dgPassFrontmatter":true}
 ---
 
 
