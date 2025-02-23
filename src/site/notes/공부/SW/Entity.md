@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"//sw/entity/","dgPassFrontmatter":true}
 ---
+
 Database의 테이블에 해당하며, 주로 하나의 테이블에 하나의 entity를 정의한다
 테이블과 최대한 동일하게 클래스를 생성하고, 주로 테이블이 가지는 column들을 필드로 가진다
 

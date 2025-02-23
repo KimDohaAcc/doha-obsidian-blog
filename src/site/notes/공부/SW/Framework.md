@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/Framework/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//sw/framework/","dgPassFrontmatter":true}
 ---
+
 
 #### 정의
 sw 특정 문제를 해결하기 위해서 상호 협력하는 클래스와 인터페이스 집합

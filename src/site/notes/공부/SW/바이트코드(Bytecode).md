@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"//sw/bytecode/","dgPassFrontmatter":true}
 ---
+
 프로그래밍 언어와 기계어 사이의 ==중간 단계 코드==
 특정 하드웨어가 아닌 **가상 컴퓨터**에서 돌아가 실행 프로그램을 위한 **이진 표현법**이다
 

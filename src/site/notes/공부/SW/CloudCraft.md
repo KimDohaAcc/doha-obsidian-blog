@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/CloudCraft/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//sw/cloud-craft/","dgPassFrontmatter":true}
 ---
+
 
 **클라우드 인프라 디자인 웹 사이트**
 아마존과 애저 클라우드를 아키텍처를 설계하고 관리하는 솔루션

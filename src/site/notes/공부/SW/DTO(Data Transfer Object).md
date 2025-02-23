@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"//sw/dto-data-transfer-object/","dgPassFrontmatter":true}
 ---
+
 계층(Controller, View, Business Layer) 데이터 교환을 위한 객체
 
 ==로직을 처리하는 메소드를 가지지 않는==, 순수한 데이터 객체로
