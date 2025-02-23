@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///https/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/웹/HTTPS/","dgPassFrontmatter":true}
 ---
 
 

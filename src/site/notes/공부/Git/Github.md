@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//git/github/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Git/Github/","dgPassFrontmatter":true}
 ---
 
 

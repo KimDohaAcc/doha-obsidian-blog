@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////dfs/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/깊이 우선 탐색(DFS)/","dgPassFrontmatter":true}
 ---
 
 

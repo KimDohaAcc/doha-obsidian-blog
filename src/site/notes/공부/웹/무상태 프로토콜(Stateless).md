@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///stateless/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/웹/무상태 프로토콜(Stateless)/","dgPassFrontmatter":true}
 ---
 
 

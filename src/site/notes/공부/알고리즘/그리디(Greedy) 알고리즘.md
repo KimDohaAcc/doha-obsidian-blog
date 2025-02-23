@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///greedy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/그리디(Greedy) 알고리즘/","dgPassFrontmatter":true}
 ---
 
 

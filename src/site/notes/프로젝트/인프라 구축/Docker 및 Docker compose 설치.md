@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///docker-docker-compose/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/인프라 구축/Docker 및 Docker compose 설치/","dgPassFrontmatter":true}
 ---
 
 

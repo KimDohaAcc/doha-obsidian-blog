@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//spring/test/extend-with/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/Test/@ExtendWith/","dgPassFrontmatter":true}
 ---
 
 

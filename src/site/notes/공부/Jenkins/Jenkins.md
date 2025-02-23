@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jenkins/jenkins/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Jenkins/Jenkins/","dgPassFrontmatter":true}
 ---
 
 

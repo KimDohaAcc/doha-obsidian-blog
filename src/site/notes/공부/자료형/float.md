@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///float/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료형/float/","dgPassFrontmatter":true}
 ---
 
 

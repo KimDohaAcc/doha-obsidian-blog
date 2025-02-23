@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///tcp-3-way-handshake/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/TCP 3-way Handshake/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///handshaking/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/Handshaking/","dgPassFrontmatter":true}
 ---
 
 

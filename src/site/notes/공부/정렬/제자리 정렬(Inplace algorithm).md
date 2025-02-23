@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///inplace-algorithm/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/제자리 정렬(Inplace algorithm)/","dgPassFrontmatter":true}
 ---
 
 

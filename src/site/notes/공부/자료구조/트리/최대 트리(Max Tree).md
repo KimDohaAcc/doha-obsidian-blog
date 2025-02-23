@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////max-tree/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/최대 트리(Max Tree)/","dgPassFrontmatter":true}
 ---
 
 

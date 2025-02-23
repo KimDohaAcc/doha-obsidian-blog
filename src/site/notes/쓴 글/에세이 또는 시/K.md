@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///k/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/쓴 글/에세이 또는 시/K/","dgPassFrontmatter":true}
 ---
 
 

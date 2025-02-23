@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///coordinate-compression/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/좌표 압축(Coordinate Compression)/","dgPassFrontmatter":true}
 ---
 
 

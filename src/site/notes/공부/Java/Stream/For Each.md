@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/stream/for-each/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Stream/For Each/","dgPassFrontmatter":true}
 ---
 
 

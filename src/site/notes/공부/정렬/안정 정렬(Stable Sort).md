@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///stable-sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/안정 정렬(Stable Sort)/","dgPassFrontmatter":true}
 ---
 
 

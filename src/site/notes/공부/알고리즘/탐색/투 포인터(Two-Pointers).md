@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////two-pointers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/투 포인터(Two-Pointers)/","dgPassFrontmatter":true}
 ---
 
 

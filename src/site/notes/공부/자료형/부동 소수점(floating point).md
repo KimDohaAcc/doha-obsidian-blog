@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///floating-point/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료형/부동 소수점(floating point)/","dgPassFrontmatter":true}
 ---
 
 

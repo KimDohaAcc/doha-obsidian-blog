@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///port/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/PORT/","dgPassFrontmatter":true}
 ---
 
 

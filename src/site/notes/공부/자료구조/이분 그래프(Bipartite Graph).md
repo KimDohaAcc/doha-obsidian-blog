@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///bipartite-graph/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/이분 그래프(Bipartite Graph)/","dgPassFrontmatter":true}
 ---
 
 

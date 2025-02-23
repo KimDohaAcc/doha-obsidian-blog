@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//ubuntu/portainer-io/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Ubuntu/Portainer.io/","dgPassFrontmatter":true}
 ---
 
 

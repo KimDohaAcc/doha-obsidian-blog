@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////binary-search/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/이분 탐색(Binary Search)/","dgPassFrontmatter":true}
 ---
 
 

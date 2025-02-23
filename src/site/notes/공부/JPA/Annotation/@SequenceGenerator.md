@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jpa/annotation/sequence-generator/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@SequenceGenerator/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//ubuntu/nginx-proxy-manager/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Ubuntu/Nginx Proxy Manager/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//architecture/scale-out/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Architecture/스케일 아웃(Scale-Out)/","dgPassFrontmatter":true}
 ---
 
 

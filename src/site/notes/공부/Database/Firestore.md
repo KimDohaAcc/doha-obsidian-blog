@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//database/firestore/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Database/Firestore/","dgPassFrontmatter":true}
 ---
 
 

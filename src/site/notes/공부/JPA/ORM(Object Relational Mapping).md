@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jpa/orm-object-relational-mapping/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/JPA/ORM(Object Relational Mapping)/","dgPassFrontmatter":true}
 ---
 
 

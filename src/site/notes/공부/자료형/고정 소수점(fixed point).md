@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///fixed-point/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료형/고정 소수점(fixed point)/","dgPassFrontmatter":true}
 ---
 
 

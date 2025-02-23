@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////dag-directed-acyclic-graph/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/비순환 방향 그래프(DAG-Directed Acyclic Graph)/","dgPassFrontmatter":true}
 ---
 
 

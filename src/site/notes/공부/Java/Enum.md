@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/enum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Enum/","dgPassFrontmatter":true}
 ---
 
 

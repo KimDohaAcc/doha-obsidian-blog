@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//spring/annotation/not-null/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/Annotation/@NotNull/","dgPassFrontmatter":true}
 ---
 
 

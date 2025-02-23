@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///http-hyper-text-transfer-protocol/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/웹/HTTP(HyperText Transfer Protocol)/","dgPassFrontmatter":true}
 ---
 
 

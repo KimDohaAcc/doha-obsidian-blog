@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//spring//bean-scope/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Bean Scope/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/model-mapper/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/ModelMapper/","dgPassFrontmatter":true}
 ---
 
 

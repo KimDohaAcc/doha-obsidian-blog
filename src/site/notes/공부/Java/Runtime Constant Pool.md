@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/runtime-constant-pool/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Runtime Constant Pool/","dgPassFrontmatter":true}
 ---
 
 

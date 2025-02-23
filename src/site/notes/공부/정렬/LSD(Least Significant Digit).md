@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///lsd-least-significant-digit/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/LSD(Least Significant Digit)/","dgPassFrontmatter":true}
 ---
 
 

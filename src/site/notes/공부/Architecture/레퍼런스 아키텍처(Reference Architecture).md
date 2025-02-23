@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//architecture/reference-architecture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Architecture/레퍼런스 아키텍처(Reference Architecture)/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jpa/annotation/no-args-constructor/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@NoArgsConstructor/","dgPassFrontmatter":true}
 ---
 
 

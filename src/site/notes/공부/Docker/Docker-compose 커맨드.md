@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//docker/docker-compose/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Docker/Docker-compose 커맨드/","dgPassFrontmatter":true}
 ---
 
 

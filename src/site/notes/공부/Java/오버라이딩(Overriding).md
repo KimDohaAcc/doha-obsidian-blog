@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/overriding/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/오버라이딩(Overriding)/","dgPassFrontmatter":true}
 ---
 
 

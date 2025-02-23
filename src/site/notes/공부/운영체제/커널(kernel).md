@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///kernel/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/운영체제/커널(kernel)/","dgPassFrontmatter":true}
 ---
 
 

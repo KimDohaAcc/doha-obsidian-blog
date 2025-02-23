@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//ubuntu/sudo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/Ubuntu/sudo/","dgPassFrontmatter":true}
 ---
 
 

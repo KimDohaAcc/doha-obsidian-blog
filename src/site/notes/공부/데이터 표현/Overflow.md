@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///overflow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/데이터 표현/Overflow/","dgPassFrontmatter":true}
 ---
 
 

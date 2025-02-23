@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//architecture/api-gateway/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Architecture/API Gateway/","dgPassFrontmatter":true}
 ---
 
 

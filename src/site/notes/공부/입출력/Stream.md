@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///stream/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/입출력/Stream/","dgPassFrontmatter":true}
 ---
 
 

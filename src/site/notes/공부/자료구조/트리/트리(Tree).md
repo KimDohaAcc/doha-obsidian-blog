@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////tree/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/트리(Tree)/","dgPassFrontmatter":true}
 ---
 
 

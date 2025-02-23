@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/stream/filter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Stream/Filter/","dgPassFrontmatter":true}
 ---
 
 

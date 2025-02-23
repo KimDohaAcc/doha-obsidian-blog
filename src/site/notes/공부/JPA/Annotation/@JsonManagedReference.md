@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jpa/annotation/json-managed-reference/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@JsonManagedReference/","dgPassFrontmatter":true}
 ---
 
 

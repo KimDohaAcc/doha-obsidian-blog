@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///url-uniform-resource-locator/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/URL(Uniform Resource Locator)/","dgPassFrontmatter":true}
 ---
 
 

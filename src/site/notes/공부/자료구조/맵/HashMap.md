@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////hash-map/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/맵/HashMap/","dgPassFrontmatter":true}
 ---
 
 

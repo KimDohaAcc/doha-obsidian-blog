@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////bfs/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/너비 우선 탐색(BFS)/","dgPassFrontmatter":true}
 ---
 
 

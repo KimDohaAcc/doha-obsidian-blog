@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///topological-sorting/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/위상 정렬(Topological Sorting)/","dgPassFrontmatter":true}
 ---
 
 

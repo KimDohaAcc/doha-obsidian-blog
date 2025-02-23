@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jpa/entity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/JPA/Entity/","dgPassFrontmatter":true}
 ---
 
 

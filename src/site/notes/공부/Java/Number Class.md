@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/number-class/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Number Class/","dgPassFrontmatter":true}
 ---
 
 

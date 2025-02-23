@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///sql/pgms/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘 문제 풀이/SQL/PGMS_잡은 물고기 중 가장 큰 물고기의 길이 구하기/","dgPassFrontmatter":true}
 ---
 
 

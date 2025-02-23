@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///udp-user-datagram-protocol/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/UDP(User Datagram Protocol)/","dgPassFrontmatter":true}
 ---
 
 

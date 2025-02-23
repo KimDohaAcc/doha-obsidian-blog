@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//spring//rest-template/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/RestTemplate/","dgPassFrontmatter":true}
 ---
 
 

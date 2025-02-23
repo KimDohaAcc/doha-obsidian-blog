@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//database/sql/my-sql/case-when/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Database/SQL/MySQL/CASE WHEN/","dgPassFrontmatter":true}
 ---
 
 

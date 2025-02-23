@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//git/detached-head/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Git/Detached HEAD/","dgPassFrontmatter":true}
 ---
 
 

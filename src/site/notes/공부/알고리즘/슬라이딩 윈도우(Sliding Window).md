@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///sliding-window/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/슬라이딩 윈도우(Sliding Window)/","dgPassFrontmatter":true}
 ---
 
 

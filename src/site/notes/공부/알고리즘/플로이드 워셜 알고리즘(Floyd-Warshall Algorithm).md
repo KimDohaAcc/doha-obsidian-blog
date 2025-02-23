@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///floyd-warshall-algorithm/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/플로이드 워셜 알고리즘(Floyd-Warshall Algorithm)/","dgPassFrontmatter":true}
 ---
 
 

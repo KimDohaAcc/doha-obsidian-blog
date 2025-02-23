@@ -1,5 +1,5 @@
 ---
-{"permalink":"///unstable-sort/","dg-publish":true,"dgPassFrontmatter":true}
+{"permalink":"/공부/정렬/불안정 정렬(Unstable Sort)/","dg-publish":true,"dgPassFrontmatter":true}
 ---
 
 

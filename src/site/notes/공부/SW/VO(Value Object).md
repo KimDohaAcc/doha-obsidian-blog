@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//sw/vo-value-object/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/VO(Value Object)/","dgPassFrontmatter":true}
 ---
 
 

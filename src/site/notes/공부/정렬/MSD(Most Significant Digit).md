@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///msd-most-significant-digit/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/MSD(Most Significant Digit)/","dgPassFrontmatter":true}
 ---
 
 

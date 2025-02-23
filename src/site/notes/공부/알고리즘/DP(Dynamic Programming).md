@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///dp-dynamic-programming/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/DP(Dynamic Programming)/","dgPassFrontmatter":true}
 ---
 
 

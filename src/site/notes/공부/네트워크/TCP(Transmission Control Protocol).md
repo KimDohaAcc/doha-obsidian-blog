@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///tcp-transmission-control-protocol/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/TCP(Transmission Control Protocol)/","dgPassFrontmatter":true}
 ---
 
 

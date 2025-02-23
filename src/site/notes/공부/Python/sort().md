@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//python/sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Python/sort()/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///encapsulation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/객체 지향 프로그래밍/캡슐화(Encapsulation)/","dgPassFrontmatter":true}
 ---
 
 

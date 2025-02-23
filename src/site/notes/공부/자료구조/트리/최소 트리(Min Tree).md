@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////min-tree/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/최소 트리(Min Tree)/","dgPassFrontmatter":true}
 ---
 
 

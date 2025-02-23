@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///boj-1149-rgb/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘 문제 풀이/BOJ_1149_RGB거리/","dgPassFrontmatter":true}
 ---
 
 

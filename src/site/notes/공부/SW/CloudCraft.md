@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//sw/cloud-craft/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/CloudCraft/","dgPassFrontmatter":true}
 ---
 
 

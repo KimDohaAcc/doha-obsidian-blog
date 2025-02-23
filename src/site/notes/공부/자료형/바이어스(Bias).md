@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///bias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료형/바이어스(Bias)/","dgPassFrontmatter":true}
 ---
 
 

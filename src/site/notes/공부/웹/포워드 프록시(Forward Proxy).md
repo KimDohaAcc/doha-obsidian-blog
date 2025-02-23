@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///forward-proxy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/웹/포워드 프록시(Forward Proxy)/","dgPassFrontmatter":true}
 ---
 
 

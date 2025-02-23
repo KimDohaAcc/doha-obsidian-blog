@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/java-bean/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/JavaBean/","dgPassFrontmatter":true}
 ---
 
 

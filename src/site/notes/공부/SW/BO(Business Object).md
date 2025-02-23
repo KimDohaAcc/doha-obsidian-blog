@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//sw/bo-business-object/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/BO(Business Object)/","dgPassFrontmatter":true}
 ---
 
 

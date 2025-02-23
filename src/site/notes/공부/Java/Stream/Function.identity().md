@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/stream/function-identity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Stream/Function.identity()/","dgPassFrontmatter":true}
 ---
 
 

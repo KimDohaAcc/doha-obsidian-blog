@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//database/sql/sql/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Database/SQL/SQL/","dgPassFrontmatter":true}
 ---
 
 

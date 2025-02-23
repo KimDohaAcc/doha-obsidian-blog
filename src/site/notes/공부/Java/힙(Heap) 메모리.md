@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/heap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/힙(Heap) 메모리/","dgPassFrontmatter":true}
 ---
 
 

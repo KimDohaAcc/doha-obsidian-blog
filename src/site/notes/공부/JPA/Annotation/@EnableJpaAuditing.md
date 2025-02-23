@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jpa/annotation/enable-jpa-auditing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@EnableJpaAuditing/","dgPassFrontmatter":true}
 ---
 
 

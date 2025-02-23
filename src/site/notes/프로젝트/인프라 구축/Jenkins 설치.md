@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///jenkins/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/인프라 구축/Jenkins 설치/","dgPassFrontmatter":true}
 ---
 
 

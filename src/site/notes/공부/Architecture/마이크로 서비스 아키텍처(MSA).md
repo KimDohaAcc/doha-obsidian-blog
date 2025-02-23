@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//architecture/msa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Architecture/마이크로 서비스 아키텍처(MSA)/","dgPassFrontmatter":true}
 ---
 
 

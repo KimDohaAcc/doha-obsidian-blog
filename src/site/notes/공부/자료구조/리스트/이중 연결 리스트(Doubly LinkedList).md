@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////doubly-linked-list/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/리스트/이중 연결 리스트(Doubly LinkedList)/","dgPassFrontmatter":true}
 ---
 
 

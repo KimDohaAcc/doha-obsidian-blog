@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//spring/test/mockito/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/Test/Mockito/","dgPassFrontmatter":true}
 ---
 
 

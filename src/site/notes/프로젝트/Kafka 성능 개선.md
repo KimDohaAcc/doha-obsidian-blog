@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//kafka/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/Kafka 성능 개선/","dgPassFrontmatter":true}
 ---
 
 

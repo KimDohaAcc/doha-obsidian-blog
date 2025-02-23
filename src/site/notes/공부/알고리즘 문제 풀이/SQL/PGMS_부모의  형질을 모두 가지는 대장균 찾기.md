@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///sql/pgms/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘 문제 풀이/SQL/PGMS_부모의  형질을 모두 가지는 대장균 찾기/","dgPassFrontmatter":true}
 ---
 
 

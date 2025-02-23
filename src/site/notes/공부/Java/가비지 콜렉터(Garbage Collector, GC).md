@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/garbage-collector-gc/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/가비지 콜렉터(Garbage Collector, GC)/","dgPassFrontmatter":true}
 ---
 
 

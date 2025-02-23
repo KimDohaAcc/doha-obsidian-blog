@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///mom-message-oriented-middleware/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/메시지 큐/MOM(message oriented middleware)/","dgPassFrontmatter":true}
 ---
 
 

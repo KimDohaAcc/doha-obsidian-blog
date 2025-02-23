@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///web-server/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/웹/웹 서버(Web Server)/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jpa/jpa-java-persistence-api/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/JPA/JPA(Java Persistence API)/","dgPassFrontmatter":true}
 ---
 
 

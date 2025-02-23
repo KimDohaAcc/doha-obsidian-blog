@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//spring//spring-container/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring Container/","dgPassFrontmatter":true}
 ---
 
 

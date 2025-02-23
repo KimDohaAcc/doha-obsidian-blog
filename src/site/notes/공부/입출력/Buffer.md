@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///buffer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/입출력/Buffer/","dgPassFrontmatter":true}
 ---
 
 

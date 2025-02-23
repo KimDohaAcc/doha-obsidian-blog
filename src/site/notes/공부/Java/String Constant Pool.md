@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/string-constant-pool/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/String Constant Pool/","dgPassFrontmatter":true}
 ---
 
 

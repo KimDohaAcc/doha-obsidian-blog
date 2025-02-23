@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////max-heap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/최대 힙(Max Heap)/","dgPassFrontmatter":true}
 ---
 
 

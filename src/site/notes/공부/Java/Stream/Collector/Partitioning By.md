@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/stream/collector/partitioning-by/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Stream/Collector/Partitioning By/","dgPassFrontmatter":true}
 ---
 
 

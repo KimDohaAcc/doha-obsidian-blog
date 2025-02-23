@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//git/packfile/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Git/Packfile/","dgPassFrontmatter":true}
 ---
 
 

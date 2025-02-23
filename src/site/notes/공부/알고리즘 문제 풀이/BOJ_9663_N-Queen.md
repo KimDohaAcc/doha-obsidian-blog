@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///boj-9663-n-queen/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘 문제 풀이/BOJ_9663_N-Queen/","dgPassFrontmatter":true}
 ---
 
 

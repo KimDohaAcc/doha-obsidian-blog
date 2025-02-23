@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///abstraction/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/객체 지향 프로그래밍/추상화(Abstraction)/","dgPassFrontmatter":true}
 ---
 
 

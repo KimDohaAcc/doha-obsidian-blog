@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///heap-sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/힙 정렬(Heap Sort)/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///bubble-sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/버블 정렬(Bubble Sort)/","dgPassFrontmatter":true}
 ---
 
 

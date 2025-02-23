@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///path-compression/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/Path-Compression/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///apache-kafka-event-broker/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/메시지 큐/Apache Kafka(event broker)/","dgPassFrontmatter":true}
 ---
 
 

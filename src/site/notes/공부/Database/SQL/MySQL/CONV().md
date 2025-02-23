@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//database/sql/my-sql/conv/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Database/SQL/MySQL/CONV()/","dgPassFrontmatter":true}
 ---
 
 

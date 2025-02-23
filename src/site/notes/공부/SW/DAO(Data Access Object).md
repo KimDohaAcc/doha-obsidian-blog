@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//sw/dao-data-access-object/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/DAO(Data Access Object)/","dgPassFrontmatter":true}
 ---
 
 

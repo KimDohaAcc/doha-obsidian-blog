@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//language/c/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Language/C++/","dgPassFrontmatter":true}
 ---
 
 

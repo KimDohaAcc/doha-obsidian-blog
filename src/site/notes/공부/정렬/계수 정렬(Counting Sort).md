@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///counting-sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/계수 정렬(Counting Sort)/","dgPassFrontmatter":true}
 ---
 
 

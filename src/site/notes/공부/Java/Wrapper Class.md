@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//java/wrapper-class/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Wrapper Class/","dgPassFrontmatter":true}
 ---
 
 

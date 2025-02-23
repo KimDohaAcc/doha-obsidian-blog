@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//sw/dev-ops/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/DevOps/","dgPassFrontmatter":true}
 ---
 
 

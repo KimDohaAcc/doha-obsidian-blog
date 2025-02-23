@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///information/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/운영체제/정보(Information)/","dgPassFrontmatter":true}
 ---
 
 

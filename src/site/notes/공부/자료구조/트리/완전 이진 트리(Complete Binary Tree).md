@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////complete-binary-tree/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/완전 이진 트리(Complete Binary Tree)/","dgPassFrontmatter":true}
 ---
 
 

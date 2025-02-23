@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//sw/refactoring/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/리팩토링(Refactoring)/","dgPassFrontmatter":true}
 ---
 
 

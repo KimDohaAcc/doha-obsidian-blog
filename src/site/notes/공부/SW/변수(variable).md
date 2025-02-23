@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//sw/variable/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/변수(variable)/","dgPassFrontmatter":true}
 ---
 
 

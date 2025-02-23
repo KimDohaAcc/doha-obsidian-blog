@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///ti-esti/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/쓴 글/단상/ti esti 그것이 무엇인가/","dgPassFrontmatter":true}
 ---
 
 

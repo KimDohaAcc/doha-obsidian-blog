@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///bellman-ford-algorithm/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/벨만-포드 알고리즘(Bellman-Ford Algorithm)/","dgPassFrontmatter":true}
 ---
 
 

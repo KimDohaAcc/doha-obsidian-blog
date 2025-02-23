@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///websocket/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/웹소켓/Websocket/","dgPassFrontmatter":true}
 ---
 
 

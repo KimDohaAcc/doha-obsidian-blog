@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//spring-java-intelli-j/spring/thymeleaf/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/Spring, Java, IntelliJ/Spring/thymeleaf/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//kafka-consumer-thread/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/Kafka의 Consumer Thread 최적화하기/","dgPassFrontmatter":true}
 ---
 
 

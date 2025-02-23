@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//database/firebase-realtime-database/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Database/Firebase Realtime Database/","dgPassFrontmatter":true}
 ---
 
 

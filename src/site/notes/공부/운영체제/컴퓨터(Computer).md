@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///computer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/운영체제/컴퓨터(Computer)/","dgPassFrontmatter":true}
 ---
 
 

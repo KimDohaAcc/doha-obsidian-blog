@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//python/lambda/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Python/lambda/","dgPassFrontmatter":true}
 ---
 
 

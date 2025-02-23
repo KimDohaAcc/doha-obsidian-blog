@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///recursion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/재귀(Recursion)/","dgPassFrontmatter":true}
 ---
 
 

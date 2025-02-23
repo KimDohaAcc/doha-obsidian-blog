@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//architecture/soa-service-oriented-architecture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Architecture/SOA(Service Oriented Architecture)/","dgPassFrontmatter":true}
 ---
 
 

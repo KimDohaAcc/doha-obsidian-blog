@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////mst/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/최소 스패닝 트리(MST)/","dgPassFrontmatter":true}
 ---
 
 

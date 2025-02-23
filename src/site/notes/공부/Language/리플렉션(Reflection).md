@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//language/reflection/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Language/리플렉션(Reflection)/","dgPassFrontmatter":true}
 ---
 
 

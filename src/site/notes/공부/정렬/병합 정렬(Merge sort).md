@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///merge-sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/병합 정렬(Merge sort)/","dgPassFrontmatter":true}
 ---
 
 

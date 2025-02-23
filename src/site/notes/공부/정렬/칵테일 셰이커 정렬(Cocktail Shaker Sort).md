@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cocktail-shaker-sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/칵테일 셰이커 정렬(Cocktail Shaker Sort)/","dgPassFrontmatter":true}
 ---
 
 
