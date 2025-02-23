@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"////binary-tree/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/이진 트리(Binary Tree)/","dgPassFrontmatter":true}
 ---
 
 
