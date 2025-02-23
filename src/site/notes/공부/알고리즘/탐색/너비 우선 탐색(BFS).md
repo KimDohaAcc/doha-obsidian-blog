@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/너비 우선 탐색(BFS)/","dgPassFrontmatter":true}
----
-
 인접한 노드를 먼저 탐색하는 방법
 
 두 노드 사이의 최단 경로를 탐색할 때 활용하기 좋다.

@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/프로젝트/Ubuntu/sudo/","dgPassFrontmatter":true}
----
-
 ```shell
 sudo apt update && sudo apt upgrade
 ```

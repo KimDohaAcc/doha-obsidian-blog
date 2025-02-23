@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JPA/Persistence Context/","dgPassFrontmatter":true}
----
-
 JPA가 엔티티 객체들을 모아두는 공간
 
 #### 영속성 컨텍스트를 쓰는 이유

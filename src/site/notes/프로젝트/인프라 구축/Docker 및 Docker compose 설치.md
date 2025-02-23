@@ -47,7 +47,6 @@ curl -fsSL <https://download.docker.com/linux/ubuntu/gpg> | sudo apt-key add -
     sudo add-apt-repository "deb [arch=arm64] <https://download.docker.com/linux/ubuntu> $(lsb_release -cs) stable"
     ```
     
-
 ### 패키지 리스트 갱신
 
 ```bash

@@ -13,7 +13,6 @@ int number;
 int a, b;
 ```
 
-
 #### 초기화
 ```java
 number = 10;

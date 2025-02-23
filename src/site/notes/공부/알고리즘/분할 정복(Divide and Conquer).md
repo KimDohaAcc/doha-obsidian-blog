@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/알고리즘/분할 정복(Divide and Conquer)/","dgPassFrontmatter":true}
----
-
 [[공부/알고리즘/DP(Dynamic Programming)\|DP(Dynamic Programming)]]와 분할 정복은 모두 [[공부/알고리즘/최적 부분 구조\|최적 부분 구조]]를 가질 때 사용할 수 있다.
 
 DP와 분할정복의 차이점은 ==부분 문제의 중복==

@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JAVA/Stream/Sorted/","dgPassFrontmatter":true}
----
-
 **데이터가 순서대로 정렬**된 stream을 반환
 데이터의 종류에 따라 Comparator가 필요할 수 있다
 

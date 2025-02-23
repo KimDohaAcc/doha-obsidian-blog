@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/입출력/Buffer/","dgPassFrontmatter":true}
----
-
 프로그래밍에서 Buffer는 CPU와 보조 기억 장치 사이에 사용되는 **임시 저장 공간**을 의미
 
 데이터를 한 곳에서 다른 곳으로 전송하는 동안 일시적으로 그 데이터를 보관하는 메모리의 영역

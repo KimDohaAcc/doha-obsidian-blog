@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring Framework/","dgPassFrontmatter":true}
----
-
 POJO(Plain Old Java Object) 방식의 [[공부/SW/Framework\|Framework]]
 
 [[공부/Java/자바(Java Programming Language)\|자바(Java Programming Language)]] 엔터프라이즈 애플리케이션 개발에 사용되는 애플리케이션 프레임워크이다.

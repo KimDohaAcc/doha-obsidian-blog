@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 정렬 알고리즘의 일종
 
 ###### 위상(Topology)
@@ -104,7 +101,6 @@ print(topological_sort(vertices, edges))
 재귀를 통해 연결된 정점을 따라가다가 더 이상 방문할 노드가 없다면 `T[]`에 추가해주는 방식
 
 ![Pasted image 20241106102509.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020241106102509.png)
-
 
 ```python
 def topological_sort_dfs(vertices, edges):

@@ -3,14 +3,10 @@
 ---
 
 
----
-dg-publish: true
----
 리소스의 위치를 의미한다
 
 위치는 ==변경이 가능==하다
 ##### 예시
-
 
 foo://example.com:8042/over/there?name=ferret#nose
 

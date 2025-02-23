@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 EJB 3.0에서 Hibernate를 기반으로 만든 자바 [[공부/JPA/ORM(Object Relational Mapping)\|ORM(Object Relational Mapping)]] 기술 표준
 
 SQL 작성 없이 객체를 데이터베이스에 직접 저장할 수 있게 도와주며, 애플리케이션과 JDBC 사이에서 동작한다

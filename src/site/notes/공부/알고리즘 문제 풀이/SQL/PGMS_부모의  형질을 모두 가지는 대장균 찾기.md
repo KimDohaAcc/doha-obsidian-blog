@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 ```mysql
 SELECT
 e.ID,

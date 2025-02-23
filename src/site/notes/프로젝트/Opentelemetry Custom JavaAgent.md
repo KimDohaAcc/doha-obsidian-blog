@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/프로젝트/Opentelemetry Custom JavaAgent/","dgPassFrontmatter":true}
----
-
 ## Javaagent란?
 
 JVM에서 동작하는 Java 애플리케이션으로, JVM에 특별한 기능을 추가하거나 동작을 수정할 수 있는 도구이다. JVM에 동적으로 로드되어 실행 중인 Java 애플리케이션에 영향을 줄 수 있다

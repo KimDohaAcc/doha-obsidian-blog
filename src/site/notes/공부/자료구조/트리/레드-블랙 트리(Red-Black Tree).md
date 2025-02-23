@@ -3,11 +3,7 @@
 ---
 
 
----
-dg-publish: true
-permalink: /공부/자료구조/트리/레드-블랙 트리(Red-Black Tree)/
 dgPassFrontmatter: true
----
 
 ![red_black.png](/img/user/첨부파일/red_black.png)
 

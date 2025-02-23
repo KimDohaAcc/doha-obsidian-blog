@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/알고리즘/Path-Compression/","dgPassFrontmatter":true}
----
-
 [[공부/알고리즘/서로소 집합\|서로소 집합]] 최적화 방법 중 하나
 
 Find-set을 행하는 과정에서 만나는 모든 노드들이  직접 root를 가리키도록 포인터를 바꾸어주는 방법

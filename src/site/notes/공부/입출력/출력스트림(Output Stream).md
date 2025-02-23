@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/입출력/출력스트림(Output Stream)/","dgPassFrontmatter":true}
----
-
 # 종류
 
 모두 Outputstream을 상속 받고 있음

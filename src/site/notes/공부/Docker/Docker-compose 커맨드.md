@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/Docker/Docker-compose 커맨드/","dgPassFrontmatter":true}
----
-
 version : docker compose 버전(3, 3.9 이렇게 씀)
 -> 원래 최상단에 쓰이던 건데 **이제 필요 없다고 함! (docker 2.25 이상부터)**
 
@@ -22,7 +18,12 @@ networks : 도커 네트워크를 쓰겠다고 명시
 external : 앞어 networks 를 쓴다고 했으면 external : true 라고 했을 때 기존에 만든 dockernetwork를 그대로 쓴다는 의미 .만약 false 가 되면 네트워크가 하나 만들어짐
 
 | Depth | Command        | 의미 설명                                                            |
-| ----- | -------------- | ---------------------------------------------------------------- |
+| 
+-- | 
+
+-- | 
+
+- |
 | 0     | version: ‘3’   | Docker-compose 3으로 만들어진 문서라는 의미, version: ‘3.9’ 등으로 사용 가능.       |
 | 0     | services:      | 이하 Service ‘목록’이 나올 것임을 명시                                       |
 | 2     | jenkins        | Service를 Docker Engine으로 불러오는데, 관리명칭을 ‘Jenkins’로 함               |

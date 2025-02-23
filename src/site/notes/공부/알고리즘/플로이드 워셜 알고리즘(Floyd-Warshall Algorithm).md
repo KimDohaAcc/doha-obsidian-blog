@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/알고리즘/플로이드 워셜 알고리즘(Floyd-Warshall Algorithm)/","dgPassFrontmatter":true}
----
-
 **모든 지점에서 다른 모든 지점**까지의 **최단 경로**를 구하는 알고리즘으로 [[공부/알고리즘/DP(Dynamic Programming)\|DP(Dynamic Programming)]]알고리즘에 속한다
 
 한 지점에서 다른 특정 지점까지의 최단 경로를 구하는 [[공부/알고리즘/다익스트라(Dijkstra) 알고리즘\|다익스트라(Dijkstra) 알고리즘]]와 구별되며 플로이드 워셜 알고리즘은 **음의 가중치**를 가지는 그래프에서도 쓸 수 있다

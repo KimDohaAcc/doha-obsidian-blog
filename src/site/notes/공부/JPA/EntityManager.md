@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JPA/EntityManager/","dgPassFrontmatter":true}
----
-
 [[공부/JPA/Entity\|Entity]] 객체를 관리하는 역할
 Entity 객체를 [[공부/JPA/Persistence Context\|Persistence Context]]에 넣어두고, 객체의 생사를 관리함
 

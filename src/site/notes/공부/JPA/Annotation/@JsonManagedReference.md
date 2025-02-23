@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@JsonManagedReference/","dgPassFrontmatter":true}
----
-
 [[공부/JPA/Annotation/@JsonBackReference\|@JsonBackReference]]와 함께 사용되며, 엔티티 순환 참조를 방어하기 위한 목적으로 만들어진 [[공부/Spring/스프링 기초/Annotation\|Annotation]]
 
 #### 사용

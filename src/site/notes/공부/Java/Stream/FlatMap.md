@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JAVA/Stream/FlatMap/","dgPassFrontmatter":true}
----
-
 Map + Flatten
 **데이터에 함수를 적용한 후 중첩된 stream을 연결**하여 하나의 stream으로 리턴
 

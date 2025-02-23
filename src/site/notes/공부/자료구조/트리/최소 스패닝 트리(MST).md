@@ -3,14 +3,9 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/자료구조/트리/최소 스패닝 트리(MST)/","dgPassFrontmatter":true}
----
-
 ![mst.png](/img/user/첨부파일/mst.png)[[공부/자료구조/트리/신장트리\|신장트리]] 중에서 사용된 간선들의 가중치 합이 최소인 트리
 
 최소 스패닝 트리를 구현하는 두 가지 유명한 알고리즘으로는 [[공부/알고리즘/크루스칼 알고리즘(Kruskal Algorithm)\|크루스칼 알고리즘(Kruskal Algorithm)]]과 [[공부/알고리즘/프림 알고리즘(Prim's Algorithm)\|프림 알고리즘(Prim's Algorithm)]]이 있다. 크루스칼 알고리즘은 ==간선 위주==로 탐색을 진행하고 프림 알고리즘은 ==정점 위주==로 탐색을 진행한다.
-
 
 MST = Minimun Spanning Tree = 최소 신장 트리
 각 간선의 가중치가 동일하지 않을 때 , 단순히 가장 적은 간선을 사용한다고 해서 최소 비용이 얻어지는 것은 아니다!

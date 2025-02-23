@@ -36,7 +36,6 @@ sudo apt-get -y update && sudo apt-get -y upgrade
     What do you want to do about modified configuration file sshd_config?
     ```
     
-
 ### Swap 영역 할당
 
 - 용량 확인

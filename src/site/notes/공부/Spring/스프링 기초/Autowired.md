@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Autowired/","dgPassFrontmatter":true}
----
-
 #Annotation
 
 의존성 주입을 위한 [[공부/Spring/스프링 기초/Annotation\|Annotation]]

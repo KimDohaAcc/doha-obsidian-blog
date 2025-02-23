@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JAVA/Stream/Collector/collect/","dgPassFrontmatter":true}
----
-
 자주 쓰일법한 유용한 collector를 모아놓은 util class
 #### collect
 주어진 collector를 이용해 Stream안의 데이터를 합친다

@@ -3,16 +3,12 @@
 ---
 
 
----
-dg-publish: true
----
 문자열을 [[공부/Java/String Constant Pool\|String Constant Pool]]에 넣어주는 메소드
 
 리터럴로 선언된 문자열은 런타임 시 스캔 대상이 되어 String Constant Pool에 저장되지만,
 new String("...")으로 선언된 문자열은 상수풀이 아닌 [[공부/Java/힙(Heap) 메모리\|힙(Heap) 메모리]]에 올라가게 된다
 
 *이때 intern() 메소드를 사용하면 강제로 String Constant Pool에 넣어줄 수 있다*
-
 
 이미 해당 문자열이 String Constant Pool에 들어있다면 넣지 않고, 없다면 강제로 저장한다
 return 값은 상수풀에 있는 레퍼런스 값이다

@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/자료구조/맵/TreeMap/","dgPassFrontmatter":true}
----
-
 [[공부/자료구조/트리/이진 트리(Binary Tree)\|이진 트리]]를 기반으로 한 Map 컬렉션
 
 객체를 저장하면 자동으로 정렬되며, **키는 저장과 동시에 자동으로 오름차순 정렬**된다

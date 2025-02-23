@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 문자열 리터럴을 저장하는 독립된 영역
 
 String Pool 이라고도 부른다

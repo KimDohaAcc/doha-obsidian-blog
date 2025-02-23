@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/이분 탐색(Binary Search)/","dgPassFrontmatter":true}
----
-
 ![binary-and-linear-search-animations.gif](/img/user/첨부파일/binary-and-linear-search-animations.gif)
 
 up down 게임 같이 답을 찾는 탐색법
@@ -20,7 +16,6 @@ up down 게임 같이 답을 찾는 탐색법
 변수 3개(start, end, mid)를 사용하여 찾으려는 데이터와 중간 위치에 있는 데이터를 반복적으로 비교해서 원하는 데이터를 찾는다
 
 단계마다 탐색 범위를 반으로 줄이기 떄문에 시간 복잡도는 **O(logN)** 이다
-
 
 #### 예제 코드
 ````java

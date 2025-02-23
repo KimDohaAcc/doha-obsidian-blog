@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/Spring/Spring Framework/","dgPassFrontmatter":true}
----
-
 Java 개발을 편리하게 해주는 오픈소스 프레임워크
 
 스프링 : 여러가지 기술의 모음

@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/자료구조/맵/HashMap/","dgPassFrontmatter":true}
----
-
 [[공부/자료구조/맵/Map\|Map]] 인터페이스를 구현한 대표적인 컬렉션
 이름 그대로 [[공부/SW/해싱(Hashing)\|해싱(Hashing)]] 을 사용하기 때문에 ==많은 양의 데이터를 검색하는 데 있어서 뛰어난 성능==을 보인다
 

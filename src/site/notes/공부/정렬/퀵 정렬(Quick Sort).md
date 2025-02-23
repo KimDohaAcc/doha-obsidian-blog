@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 ![quick.gif](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/quick.gif)
 [[공부/알고리즘/분할 정복(Divide and Conquer)\|분할 정복(Divide and Conquer)]] 방법을 통한 정렬
 
@@ -24,7 +21,6 @@ dg-publish: true
 - 불필요한 데이터 이동을 줄이고 먼 거리의 데이터를 교환한다
 - 정렬된 배열에 대해서는 불균형 분할에 의해 오히려 수행시간이 더 많이 걸린다
 - [[공부/정렬/불안정 정렬(Unstable Sort)\|불안정 정렬(Unstable Sort)]]이다
-
 
 ###### 개선 방법
 pivot 값이 최솟값 혹은 최댓값으로 지정되어(즉, 이미 정렬되어 있으면) 파티션이 나눠지지 않을 때

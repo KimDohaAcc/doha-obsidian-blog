@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/자료구조/ArrayDeque/","dgPassFrontmatter":true}
----
-
 Deque interface의 ==사이즈 조정이 가능한 array의 구현체==
 
  [[공부/자료구조/Stack\|Stack]]으로 쓸 때 Stack 보다는 빠르고, [[공부/자료구조/Queue\|Queue]]로 쓸 때 [[공부/자료구조/리스트/LinkedList\|LinkedList]]보다 빠르다

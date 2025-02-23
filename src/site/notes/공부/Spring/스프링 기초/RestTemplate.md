@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/RestTemplate/","dgPassFrontmatter":true}
----
-
 Spring에서 지원하는 객체로 간편하게 Rest 방식 API를 호출할 수 있는 Spring 내장 클래스입니다.
 
 Spring 3.0부터 지원되었고, json, xml 응답을 모두 받을 수 있습니다.

@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/입출력/Stream/","dgPassFrontmatter":true}
----
-
 연속적인 데이터의 흐름을 물에 비유해서 붙여진 이름
 **단방향통신**이라는 특성을 가지고 있다
 그렇기에 입출력을 동시에 할 수 없으며,

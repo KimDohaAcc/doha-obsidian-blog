@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 [[공부/Java/JVM(Java Virtual Machine)\|JVM(Java Virtual Machine)]] 힙 외부에 있는 메모리
 운영체제가 직접 할당하고 관리한다
 그렇기 때문에 [[공부/Java/가비지 콜렉터(Garbage Collector, GC)\|가비지 콜렉터(Garbage Collector, GC)]] 관리 대상이 아니다

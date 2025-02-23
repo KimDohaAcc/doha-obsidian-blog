@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@SequenceGenerator/","dgPassFrontmatter":true}
----
-
 DB의 시퀀스를 기반으로 엔티티 PK 값을 자동 생성하는 어노테이션
 
 name : 시퀀스 생성기의 이름을 지정

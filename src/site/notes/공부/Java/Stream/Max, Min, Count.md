@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JAVA/Stream/Max, Min, Count/","dgPassFrontmatter":true}
----
-
 #### max
 Stream 안의 데이터 중 최댓값을 반환
 Stream이 비어있다면 빈 Optional을 반환

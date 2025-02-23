@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@EntityListeners/","dgPassFrontmatter":true}
----
-
 이벤트를 관찰하고 있다가, 이벤트가 발생하면 특정 동작을 진행하는 것.
 
 커스텀으로 class를 가져가도 되고,  AuditingEntityListener.class를 써도 된다

@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 ==최장 증가 부분 수열==을 구하는 알고리즘
 
 { 6, **2**, **5**, 1, **7**, 4, **8**, 3} 이라는 배열이 있다면, LIS는 {2, 5, 7, 8} 이 된다.
@@ -57,7 +54,6 @@ for(int i = 0; i < N; i ++) {
 }
 
 System.out.println(length);
-
 
 // binarySearch
 public static int binarySearch(int num, int start, int end, int[] lis) {
@@ -137,7 +133,6 @@ for (int i = N - 1; i >= 0; i--) {
 for (int num : res) {  
 	System.out.print(num + " ");  
 }  
-
 
 // binarySearch
 public static int binarySearch(int[] lis, int start, int end, int target) {  

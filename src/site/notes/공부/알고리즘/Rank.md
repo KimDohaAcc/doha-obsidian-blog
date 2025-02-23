@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/알고리즘/Rank/","dgPassFrontmatter":true}
----
-
 [[공부/알고리즘/서로소 집합\|서로소 집합]]의 최적화 방법 중 하나
 
 노드의 subtree 높이를 rank로 저장

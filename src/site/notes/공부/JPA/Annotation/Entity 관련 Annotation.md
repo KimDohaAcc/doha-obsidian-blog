@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JPA/Annotation/Entity 관련 Annotation/","dgPassFrontmatter":true}
----
-
 **@Id**
 해당 컬럼이 식별키(PK)라는 것을 의미함
 모든 엔티티에 반드시 @Id를 지정해야 함

@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/디자인 패턴/생성 패턴/Singleton/","dgPassFrontmatter":true}
----
-
 객체의 인스턴스를 한개만 생성되게 하는 [[공부/디자인 패턴/생성 패턴/생성 패턴\|생성 패턴]]의 일종
 #### 싱글톤 패턴을 사용하는 이유
 

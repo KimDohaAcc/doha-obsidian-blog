@@ -3,14 +3,9 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/알고리즘/재귀(Recursion)/","dgPassFrontmatter":true}
----
-
 자기 자신을 호출하여 순환 수행되는 것
 
 여러가지 분기가 있을 때 사용하기 좋다
-
 
 >[!example]
 > - Base case : 기저 조건

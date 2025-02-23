@@ -3,10 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
-
 ![kafka_image.jpg](/img/user/첨부파일/kafka_image.jpg)
 
 카프카는 메시지 큐의 역할을 할 수 있는 event broker이다. 이벤트 브로커는 이벤트 프로듀서(Event Producer)로부터 이벤트를 수집하고, 이를 이벤트 컨슈머(Event Consumer)에게 전달하는 미들웨어 역할을 한다.

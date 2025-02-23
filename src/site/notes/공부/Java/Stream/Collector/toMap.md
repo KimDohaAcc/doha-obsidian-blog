@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JAVA/Stream/Collector/toMap/","dgPassFrontmatter":true}
----
-
 `Collectors.toMap(keyMapper func, valueMapper func)`
 Stream 안의 데이터를 map의 형태로 반환해주는 collector
 

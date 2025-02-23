@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 장애 발생 지점을 감지하고 실패하는 요청을 계속적으로 보내지 않도록 **방지**하는 패턴
 
 ![Pasted image 20241029155440.jpg](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020241029155440.jpg)

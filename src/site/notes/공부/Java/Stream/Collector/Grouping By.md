@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JAVA/Stream/Collector/Grouping By/","dgPassFrontmatter":true}
----
-
 Stream 안의 데이터에 classifier를 적용했을 때 **결과값이 같은 값끼리 List로 모아서 Map의 형태로 반환**해주는 collector
 
 이때 key는 classifier의 결과값, value는 데이터들이다

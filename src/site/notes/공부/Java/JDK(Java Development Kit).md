@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 자바 프로그래밍을 위해서는 JDK를 설치해야 한다
 JDK는 [[공부/Java/JRE(Java Runtime Environment)\|JRE(Java Runtime Environment)]] + 개발에 필요한 실행 파일을 포함하고 있다
 

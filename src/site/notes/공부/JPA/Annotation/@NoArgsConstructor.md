@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@NoArgsConstructor/","dgPassFrontmatter":true}
----
-
 아무 매개변수가 없는 생성자를 생성하는 어노테이션
 
 ````java

@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/Spring/Test/@ExtendWith/","dgPassFrontmatter":true}
----
-
 Junit5의 Test에서 사용
 옵션으로 @ExtendWith(SpringExtension.class)와 @ExtendWith(MockitoExtension.class)가 많이 쓰인다
 

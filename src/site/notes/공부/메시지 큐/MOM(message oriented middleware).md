@@ -3,12 +3,7 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/SW/메시지 큐/MOM(message oriented middleware)/","dgPassFrontmatter":true}
----
-
 비동기 메시지를 사용하는 다른 응용 프로그램 사이의 데이터 송수신을 의미
-
 
 ### 특징
 

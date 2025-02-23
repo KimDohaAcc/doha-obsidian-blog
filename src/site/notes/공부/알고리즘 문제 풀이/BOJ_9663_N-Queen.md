@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 [[공부/알고리즘/백트래킹\|백트래킹]]을 사용해서 N x N 체스판에 퀸 N개를 놓는 문제
 2차원 배열로 풀면 경우의 수가 너무 많다
 그림을 그려보면 1차원 배열로 풀 수 있다는 걸 느낄 수 있다
@@ -36,7 +33,6 @@ dfs 함수를 이용해 각 행에 대해서
 N = int(input())  
 count = 0  
   
-  
 def n_queen(n, queen_list, idx_x, visited_y):  
     if len(queen_list) == n:  
         global count  
@@ -58,7 +54,6 @@ def n_queen(n, queen_list, idx_x, visited_y):
             queen_list.append((idx_x, i))  
             n_queen(n, queen_list, idx_x + 1, visited_y + [i])  
             queen_list.pop()  
-  
   
 n_queen(N, [], 0, [])  
 print(count)

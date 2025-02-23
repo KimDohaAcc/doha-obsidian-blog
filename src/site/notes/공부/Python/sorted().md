@@ -3,9 +3,6 @@
 ---
 
 
----
-dg-publish: true
----
 기본 정렬 함수
 
 sorted는 `sorted(array)`의 형식이고,

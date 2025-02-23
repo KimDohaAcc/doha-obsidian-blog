@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/JPA/Annotation/@GeneratedValue/","dgPassFrontmatter":true}
----
-
 기본키 자동 생성 어노테이션
 
 #### @GeneratedValue(strategy = GenerationType.IDENTITY)

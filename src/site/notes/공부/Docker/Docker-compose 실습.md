@@ -3,10 +3,6 @@
 ---
 
 
----
-{"dg-publish":true,"permalink":"/공부/Docker/Docker-compose 실습/","dgPassFrontmatter":true}
----
-
 ```shell
 curl -fsSL https://get.docker.com -o dockerSetter.sh
 # https://get.docker.com에 있는 shell 스크립트 파일을 dockerSetter.sh 파일에 출력

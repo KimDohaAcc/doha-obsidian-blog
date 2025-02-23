@@ -3,16 +3,12 @@
 ---
 
 
----
-dg-publish: true
----
- 리스트 내장 함수로, 내부 원소를 정렬한다
+리스트 내장 함수로, 내부 원소를 정렬한다
 sort()는 [[공부/Python/sorted()\|sorted()]]와 정렬 방식이 같으며, [[공부/정렬/병합 정렬(Merge sort)\|병합 정렬(Merge sort)]]과 [[공부/정렬/삽입 정렬(Insertion Sort)\|삽입 정렬(Insertion Sort)]]의 아이디어를 더한 하이브리드 방식의 정렬 알고리즘을 사용한다
 
 #### 시간복잡도
 병합 정렬은 [[공부/정렬/퀵 정렬(Quick Sort)\|퀵 정렬(Quick Sort)]]보다 느리지만, 최악의 경우에도 O(NlogN)을 보장하는 특징이 있다.
 따라서 정렬 라이브러리의 시간 복잡도는 최악의 경우에도 ==O(NlogN)==이다
-
 
 >[!note] sort의 프로토타입
 >`<list>.sort(key = <function> , reverse = <bool>)`

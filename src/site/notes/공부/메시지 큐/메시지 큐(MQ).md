@@ -3,11 +3,7 @@
 ---
 
 
----
-dg-publish: true
-permalink: /공부/메시지 큐/메시지 큐(MQ)/
 dgPassFrontmatter: true
----
 
 분산화된 환경에서 발신자와 수신자 간 메시지를 전송하고 수신하는 기술이며, [[공부/메시지 큐/MOM(message oriented middleware)\|MOM(message oriented middleware)]] 구현 방식 중 하나이다
 
@@ -30,7 +26,6 @@ Kafka - 수신자가 가져가야 함(택배 서비스)
 Point To Point  : 한 대의 발신자가 한 대의 수신자에게 메시지를 보내는 방식
 
 Pub/Sub : 발신자가 topic에 메세지를 전송하면 토픽을 구독하고 있는 수신자 모두 메시지를 수신하는 방식. ==전송 대상이 다수==
-
 
 #### 대표적인 종류
 [[공부/메시지 큐/Apache Kafka(event broker)\|Kafka(event broker)]]
