@@ -61,7 +61,7 @@ public static int binarySearch(int num, int start, int end, int[] lis) {
 		int mid = start + (end - start) / 2;
 
 		// 타깃이 기준보다 크다면
-		if (lis[mid] < num) start = mid = 1;
+		if (lis[mid] < num) start = mid + 1;
 		// 타깃이 기준보다 작거나 같다면
 		else end = mid;
 	}
