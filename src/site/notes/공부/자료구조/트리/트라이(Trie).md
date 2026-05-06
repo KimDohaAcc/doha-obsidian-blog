@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/트리/트라이(Trie)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/트라이(Trie)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/자료구조/트리/트라이(trie)"}}
 ---
 
 
 dgPassFrontmatter: true
 
-![Pasted image 20240302172247.png](/img/user/첨부파일/Pasted image 20240302172247.png)
+![Pasted image 20240302172247.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240302172247.png)
 문자를 저장하고 효율적으로 탐색하기 위한 [[공부/자료구조/트리/트리(Tree)\|트리(Tree)]] 형태의 자료구조
 
 위의 예시는 문자열 집합 **{"rebro", "replay", "hi" , "high", "algo"}** 를 트라이로 구현한 것이다. **빨간색으로 나타낸 노드는 문자열의 끝**을 의미한다

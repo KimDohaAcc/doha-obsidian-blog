@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/선형자료구조(Linear)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/선형자료구조(Linear)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/자료구조/선형자료구조(linear)"}}
 ---
 
 

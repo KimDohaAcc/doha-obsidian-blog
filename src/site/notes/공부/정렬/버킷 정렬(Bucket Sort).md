@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/버킷 정렬(Bucket Sort)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/버킷 정렬(Bucket Sort)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/정렬/버킷-정렬(bucket-sort)"}}
 ---
 
 

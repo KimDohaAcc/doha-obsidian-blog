@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Architecture/스케일 업(Scale-Up)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Architecture/스케일 업(Scale-Up)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/architecture/스케일-업(scale-up)"}}
 ---
 
 

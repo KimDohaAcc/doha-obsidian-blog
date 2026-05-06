@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/댕글링 포인터(Dangling Pointer)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/댕글링 포인터(Dangling Pointer)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/댕글링-포인터(dangling-pointer)"}}
 ---
 
 

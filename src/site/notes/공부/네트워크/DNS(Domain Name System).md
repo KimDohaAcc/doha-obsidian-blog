@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/네트워크/DNS(Domain Name System)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/DNS(Domain Name System)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/dns(domain-name-system)"}}
 ---
 
 

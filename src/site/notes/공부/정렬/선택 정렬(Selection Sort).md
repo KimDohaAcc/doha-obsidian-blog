@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/선택 정렬(Selection Sort)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/선택 정렬(Selection Sort)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/정렬/선택-정렬(selection-sort)"}}
 ---
 
 

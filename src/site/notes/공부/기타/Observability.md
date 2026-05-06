@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/기타/Observability/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/기타/Observability/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/기타/observability"}}
 ---
 
 

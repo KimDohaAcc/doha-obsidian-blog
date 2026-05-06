@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/디자인 패턴/생성 패턴/Prototype/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/디자인 패턴/생성 패턴/Prototype/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/디자인-패턴/생성-패턴/prototype"}}
 ---
 
 

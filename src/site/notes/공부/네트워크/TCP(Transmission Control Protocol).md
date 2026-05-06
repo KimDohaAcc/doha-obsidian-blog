@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/공부/네트워크/TCP(Transmission Control Protocol)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/TCP(Transmission Control Protocol)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/tcp(transmission-control-protocol)"}}
 ---
 
 
 전송 제어 프로토콜
 
-TCP는 IP 위에서 동작하는 프로토콜로, 데이터의 전달을 보증하고 보낸 순서대로 받게 해준다
+IP 위에서 동작하는 프로토콜로, 데이터의 전달을 보증하고 보낸 순서대로 받게 해준다
 
 #### 하는 일
 

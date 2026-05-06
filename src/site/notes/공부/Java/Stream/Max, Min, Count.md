@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/Stream/Max, Min, Count/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Stream/Max, Min, Count/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/stream/max,-min,-count"}}
 ---
 
 

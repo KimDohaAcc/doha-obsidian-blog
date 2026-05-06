@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/Spring Framework/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/Spring Framework/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/spring/spring-framework"}}
 ---
 
 

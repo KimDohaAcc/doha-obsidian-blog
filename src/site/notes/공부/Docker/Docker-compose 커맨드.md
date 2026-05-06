@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Docker/Docker-compose 커맨드/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Docker/Docker-compose 커맨드/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/docker/docker-compose-커맨드"}}
 ---
 
 

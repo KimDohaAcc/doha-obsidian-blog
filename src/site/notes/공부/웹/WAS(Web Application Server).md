@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/웹/WAS(Web Application Server)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/웹/WAS(Web Application Server)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/웹/was(web-application-server)"}}
 ---
 
 

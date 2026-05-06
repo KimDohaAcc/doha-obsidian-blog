@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/프로젝트/AWS/EC2 배포/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/AWS/EC2 배포/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/프로젝트/aws/ec2-배포"}}
 ---
 
 

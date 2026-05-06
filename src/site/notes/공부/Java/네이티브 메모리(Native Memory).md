@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/네이티브 메모리(Native Memory)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/네이티브 메모리(Native Memory)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/네이티브-메모리(native-memory)"}}
 ---
 
 

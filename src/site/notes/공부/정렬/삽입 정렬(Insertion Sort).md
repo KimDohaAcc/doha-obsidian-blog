@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/삽입 정렬(Insertion Sort)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/삽입 정렬(Insertion Sort)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/정렬/삽입-정렬(insertion-sort)"}}
 ---
 
 

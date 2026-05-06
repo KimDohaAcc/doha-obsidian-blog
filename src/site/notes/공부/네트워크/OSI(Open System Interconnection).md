@@ -1,5 +1,5 @@
 ---
-{"permalink":"/공부/네트워크/OSI(Open System Interconnection)/","dg-publish":true,"dgPassFrontmatter":true}
+{"permalink":"/공부/네트워크/OSI(Open System Interconnection)/","dg-publish":true,"dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/OSI(Open System Interconnection)"}}
 ---
 
 동일한 통신 수단을 가진 컴퓨터끼리만 통신하는 폐쇠형 시스템이 아닌,

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Database/SQL/MySQL/IFNULL()/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Database/SQL/MySQL/IFNULL()/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/database/sql/mysql/ifnull()"}}
 ---
 
 

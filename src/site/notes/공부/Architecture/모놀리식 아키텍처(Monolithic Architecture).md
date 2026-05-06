@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Architecture/모놀리식 아키텍처(Monolithic Architecture)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Architecture/모놀리식 아키텍처(Monolithic Architecture)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/architecture/모놀리식-아키텍처(monolithic-architecture)"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/너비 우선 탐색(BFS)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/너비 우선 탐색(BFS)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/알고리즘/탐색/너비-우선-탐색(bfs)"}}
 ---
 
 
@@ -29,12 +29,12 @@ Queue에 저장된 노드가 없을 때까지
 
 #### BFS 알고리즘 탐색 과정
 
-![bfs_image.png](/img/user/첨부파일/bfs_image.png)
+![bfs_image.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/bfs_image.png)
 
 #### 그래프 BFS
-![Pasted image 20231024164529.png](/img/user/첨부파일/Pasted image 20231024164529.png)
+![Pasted image 20231024164529.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020231024164529.png)
 방문 체크를 한다! 해당 노드로 진입할 수 있는 경로가 1개 이상일 수 있기 때문에.
 #### 트리 BFS
-![Pasted image 20231024164547.png](/img/user/첨부파일/Pasted image 20231024164547.png)
+![Pasted image 20231024164547.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020231024164547.png)
 방문 체크를 하지 않는다
 왜? 루트 노드에서 시작하여 모든 간선이 **부모 -> 자식**으로 가고, 자식으로 진입할 수 있는 또 다른 부모(경로)가 없기 때문이다.

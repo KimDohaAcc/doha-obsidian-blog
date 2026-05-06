@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/Constant Pool(Class file Constant Pool)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Constant Pool(Class file Constant Pool)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/constant-pool(class-file-constant-pool)"}}
 ---
 
 

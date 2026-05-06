@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Git/Git의 4가지 내부 객체/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Git/Git의 4가지 내부 객체/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/git/git의-4가지-내부-객체"}}
 ---
 
 

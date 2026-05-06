@@ -1,5 +1,5 @@
 ---
-{"permalink":"/공부/네트워크/인터네트워킹(Internetworking)/","dg-publish":true,"dgPassFrontmatter":true}
+{"permalink":"/공부/네트워크/인터네트워킹(Internetworking)/","dg-publish":true,"dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/인터네트워킹(Internetworking)"}}
 ---
 
 네트워크와 네트워크를 연결해 의미 있는 데이터를 전달하기 위한 네트워킹

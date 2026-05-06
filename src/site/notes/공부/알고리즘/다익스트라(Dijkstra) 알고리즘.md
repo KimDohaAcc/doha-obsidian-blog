@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/다익스트라(Dijkstra) 알고리즘/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/다익스트라(Dijkstra) 알고리즘/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/알고리즘/다익스트라(dijkstra)-알고리즘"}}
 ---
 
 

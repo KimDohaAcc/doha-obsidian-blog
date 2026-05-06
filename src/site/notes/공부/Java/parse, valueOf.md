@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/parse, valueOf/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/parse, valueOf/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/parse,-valueof"}}
 ---
 
 

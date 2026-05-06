@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/프로젝트/Spring, Java, IntelliJ/Spring/Lombok 세팅/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/Spring, Java, IntelliJ/Spring/Lombok 세팅/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/프로젝트/spring,-java,-intellij/spring/lombok-세팅"}}
 ---
 
 

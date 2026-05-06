@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/쓴 글/단상/festina lente 천천히 서둘러라/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/쓴 글/단상/festina lente 천천히 서둘러라/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/쓴-글/단상/festina-lente-천천히-서둘러라"}}
 ---
 
 

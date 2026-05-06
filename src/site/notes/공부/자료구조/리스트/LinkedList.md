@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/리스트/LinkedList/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/리스트/LinkedList/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/자료구조/리스트/linkedlist"}}
 ---
 
 
@@ -14,7 +14,7 @@ LinkedList는 ArrayList와는 달리 List 인터페이스를 구현한 AbstrackL
 ArrayList는 데이터들이 순서대로 있는 배열의 형식을 취하고 있다면,
 LinkedList는 자료의 주소값으로 서로 연결되어 있는 구조이다
 
-![linkedList_image.png](/img/user/첨부파일/linkedList_image.png)
+![linkedList_image.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/linkedList_image.png)
 
 ##### 장점
 ArrayList는 사이즈가 고정되어 있기 때문에 자료 삽입 시 사이즈를 늘려주는 연산이 추가되어야 하고, 자료 삭제 시 빈 인덱스를 채우는 연산이 추가되어야 하는 반면

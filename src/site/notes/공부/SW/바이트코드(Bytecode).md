@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/바이트코드(Bytecode)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/바이트코드(Bytecode)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/sw/바이트코드(bytecode)"}}
 ---
 
 

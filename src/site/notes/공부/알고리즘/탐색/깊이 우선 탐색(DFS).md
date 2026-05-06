@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/깊이 우선 탐색(DFS)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/깊이 우선 탐색(DFS)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/알고리즘/탐색/깊이-우선-탐색(dfs)"}}
 ---
 
 
@@ -34,4 +34,4 @@
 
 #### DFS 알고리즘 탐색 과정
 
-![dfs_image.png](/img/user/첨부파일/dfs_image.png)
+![dfs_image.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/dfs_image.png)

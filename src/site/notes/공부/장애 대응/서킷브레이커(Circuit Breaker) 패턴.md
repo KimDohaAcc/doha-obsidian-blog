@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/장애 대응/서킷브레이커(Circuit Breaker) 패턴/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/장애 대응/서킷브레이커(Circuit Breaker) 패턴/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/장애-대응/서킷브레이커(circuit-breaker)-패턴"}}
 ---
 
 

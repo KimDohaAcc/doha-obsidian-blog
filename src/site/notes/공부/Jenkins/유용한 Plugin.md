@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Jenkins/유용한 Plugin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Jenkins/유용한 Plugin/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/jenkins/유용한-plugin"}}
 ---
 
 

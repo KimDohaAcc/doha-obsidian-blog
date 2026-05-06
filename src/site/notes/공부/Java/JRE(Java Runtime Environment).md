@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/JRE(Java Runtime Environment)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/JRE(Java Runtime Environment)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/jre(java-runtime-environment)"}}
 ---
 
 

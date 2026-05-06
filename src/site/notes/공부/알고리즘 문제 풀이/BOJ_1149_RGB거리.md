@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘 문제 풀이/BOJ_1149_RGB거리/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘 문제 풀이/BOJ_1149_RGB거리/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/알고리즘-문제-풀이/boj_1149_rgb거리"}}
 ---
 
 
@@ -39,7 +39,7 @@
 import sys  
   
 N = int(sys.stdin.readline())  
-paint = [[0, 0, 0\|0, 0, 0]] + [list(map(int, sys.stdin.readline().split())) for _ in range(N)]  
+paint = [[0, 0, 0]] + [list(map(int, sys.stdin.readline().split())) for _ in range(N)]  
 MAXIMUM = 10000001  
 RED = 0  
 GREEN = 1  

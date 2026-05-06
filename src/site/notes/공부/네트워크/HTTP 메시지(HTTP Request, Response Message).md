@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/네트워크/HTTP 메시지(HTTP Request, Response Message)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/HTTP 메시지(HTTP Request, Response Message)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/http-메시지(http-request,-response-message)"}}
 ---
 
 

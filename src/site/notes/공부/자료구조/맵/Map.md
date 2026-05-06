@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/맵/Map/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/맵/Map/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/자료구조/맵/map"}}
 ---
 
 

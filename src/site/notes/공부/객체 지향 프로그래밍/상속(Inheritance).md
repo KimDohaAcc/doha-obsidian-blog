@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/객체 지향 프로그래밍/상속(Inheritance)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/객체 지향 프로그래밍/상속(Inheritance)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/객체-지향-프로그래밍/상속(inheritance)"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Python/sort()/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Python/sort()/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/python/sort()"}}
 ---
 
 
@@ -38,7 +38,7 @@ sorted_list = sorted(my_list, key=lambda x : (len(x), x))
 
 ##### 이중 리스트 정렬
 ```python
-array = [[50, "apple"], [30, "banana"] , [400, "melon"\|50, "apple"], [30, "banana"] , [400, "melon"]]
+array = [[50, "apple"], [30, "banana"] , [400, "melon"]]
 array.sort(key=lambda x : x[0])
 arrays.rot(key=lambda x : (x[0], -x[1]))
 ```

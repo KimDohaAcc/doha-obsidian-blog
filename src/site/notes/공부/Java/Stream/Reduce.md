@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/Stream/Reduce/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Stream/Reduce/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/stream/reduce"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/LIS(Longest Increasing Subsequence) 알고리즘/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/LIS(Longest Increasing Subsequence) 알고리즘/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/알고리즘/lis(longest-increasing-subsequence)-알고리즘"}}
 ---
 
 

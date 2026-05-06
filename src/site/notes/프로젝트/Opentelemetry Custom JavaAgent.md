@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/프로젝트/Opentelemetry Custom JavaAgent/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/프로젝트/Opentelemetry Custom JavaAgent/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/프로젝트/opentelemetry-custom-javaagent"}}
 ---
 
 

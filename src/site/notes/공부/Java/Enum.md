@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/Enum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/Enum/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/enum"}}
 ---
 
 
@@ -13,4 +13,4 @@ public enum Role {
 }
 ````
 
-**[[공부/JPA/Annotation/@Enumerated\|@Enumerated]]** 어노테이션을 이용하면 EnumType을 사용할 수 있다
+**[[공부/ORM/JPA/Annotation/@Enumerated\|@Enumerated]]** 어노테이션을 이용하면 EnumType을 사용할 수 있다

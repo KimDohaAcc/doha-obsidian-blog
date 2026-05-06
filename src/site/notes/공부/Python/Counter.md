@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Python/Counter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Python/Counter/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/python/counter"}}
 ---
 
 

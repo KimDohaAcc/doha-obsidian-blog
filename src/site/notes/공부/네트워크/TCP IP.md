@@ -1,5 +1,5 @@
 ---
-{"permalink":"/공부/네트워크/TCP IP/","dg-publish":true,"dgPassFrontmatter":true}
+{"permalink":"/공부/네트워크/TCP IP/","dg-publish":true,"dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/TCP IP"}}
 ---
 
 

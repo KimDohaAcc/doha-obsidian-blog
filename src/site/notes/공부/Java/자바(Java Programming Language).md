@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/자바(Java Programming Language)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/자바(Java Programming Language)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/자바(java-programming-language)"}}
 ---
 
 

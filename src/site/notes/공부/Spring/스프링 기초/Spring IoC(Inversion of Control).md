@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring IoC(Inversion of Control)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Spring/스프링 기초/Spring IoC(Inversion of Control)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/spring/스프링-기초/spring-ioc(inversion-of-control)"}}
 ---
 
 

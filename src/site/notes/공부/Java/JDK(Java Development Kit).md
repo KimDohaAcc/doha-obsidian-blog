@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/Java/JDK(Java Development Kit)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/Java/JDK(Java Development Kit)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/java/jdk(java-development-kit)"}}
 ---
 
 

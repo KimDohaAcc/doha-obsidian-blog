@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/네트워크/로드밸런싱(Load Balancing)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/로드밸런싱(Load Balancing)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/로드밸런싱(load-balancing)"}}
 ---
 
 

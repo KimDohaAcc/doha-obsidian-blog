@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/네트워크/URI(Uniform Resource Identifier)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/네트워크/URI(Uniform Resource Identifier)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/uri(uniform-resource-identifier)"}}
 ---
 
 

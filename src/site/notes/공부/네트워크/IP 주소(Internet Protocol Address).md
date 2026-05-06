@@ -1,5 +1,5 @@
 ---
-{"permalink":"/공부/네트워크/IP 주소(Internet Protocol Address)/","dg-publish":true,"dgPassFrontmatter":true}
+{"permalink":"/공부/네트워크/IP 주소(Internet Protocol Address)/","dg-publish":true,"dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/IP 주소(Internet Protocol Address)"}}
 ---
 
 인트라네트워크상에서 패킷을 송수신하기 위한, 출발지와 목적지를 구분하는 식별자

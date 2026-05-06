@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/입출력/출력스트림(Output Stream)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/입출력/출력스트림(Output Stream)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/입출력/출력스트림(output-stream)"}}
 ---
 
 

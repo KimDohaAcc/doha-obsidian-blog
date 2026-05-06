@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/트리/레드-블랙 트리(Red-Black Tree)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/레드-블랙 트리(Red-Black Tree)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/자료구조/트리/레드-블랙-트리(red-black-tree)"}}
 ---
 
 
 dgPassFrontmatter: true
 
-![red_black.png](/img/user/첨부파일/red_black.png)
+![red_black.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/red_black.png)
 
 [[공부/자료구조/트리/이진 트리(Binary Tree)\|이진 트리]]의 문제점을 보완한 [[공부/자료구조/트리/트리(Tree)\|트리(Tree)]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/정렬/퀵 정렬(Quick Sort)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/정렬/퀵 정렬(Quick Sort)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/정렬/퀵-정렬(quick-sort)"}}
 ---
 
 

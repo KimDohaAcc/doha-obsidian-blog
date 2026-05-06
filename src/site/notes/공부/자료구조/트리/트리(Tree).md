@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/공부/자료구조/트리/트리(Tree)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/자료구조/트리/트리(Tree)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/자료구조/트리/트리(tree)"}}
 ---
 
 
-![treetree.png](/img/user/첨부파일/treetree.png)
+![treetree.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/treetree.png)
 
 ![Pasted image 20240809151423.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240809151423.png)
 

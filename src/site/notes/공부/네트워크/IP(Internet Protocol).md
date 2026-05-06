@@ -1,5 +1,5 @@
 ---
-{"permalink":"/공부/네트워크/IP(Internet Protocol)/","dg-publish":true,"dgPassFrontmatter":true}
+{"permalink":"/공부/네트워크/IP(Internet Protocol)/","dg-publish":true,"dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/네트워크/IP(Internet Protocol)"}}
 ---
 
 패킷 통신 방식의 인터넷 프로토콜

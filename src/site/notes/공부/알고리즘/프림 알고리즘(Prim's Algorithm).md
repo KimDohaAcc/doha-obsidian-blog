@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/프림 알고리즘(Prim's Algorithm)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/프림 알고리즘(Prim's Algorithm)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/알고리즘/프림-알고리즘(prim's-algorithm)"}}
 ---
 
 
@@ -14,27 +14,27 @@
 2. 선택한 정점으로부터 아직 방문하지 않은 정점까지의 간선을 추가한다. [[공부/자료구조/Priority Queue\|Priority Queue]]로 구현하면 간편하다.
 3. 비용의 오름차순으로 정렬된 정점과 이어진 미방문 정점을 탐색한다.
 
-![prim_image.png](/img/user/첨부파일/prim_image.png)
+![prim_image.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/prim_image.png)
 
 위 그래프의 최소 신장 트리를 프림 알고리즘으로 구해보자. 시작 정점은 A라 한다.
 
-![prim2_image.png](/img/user/첨부파일/prim2_image.png)
+![prim2_image.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/prim2_image.png)
 
 A와 인접한 노드 B, C 중 C가 가장 가중치가 낮은 간선으로 연결되어 있으니 C를 집합에 넣고 비용에 AC 가중치를 더한다.
 
-![prim3_image.png](/img/user/첨부파일/prim3_image.png)
+![prim3_image.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/prim3_image.png)
 
 AC와 인접한 노드들 중 가장 낮은 가중치로 연결된 정점은 B다. 집합에 B를 넣고 CB 가중치를 더한다.
 
-![prim4_image.png](/img/user/첨부파일/prim4_image.png)
+![prim4_image.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/prim4_image.png)
 
 A, C, B와 인접한 노드들 중 가장 낮은 가중치로 연결된 정점은 D다. 집합에 D를 넣고 CD 가중치를 더한다.
 
-![prim5_iamge.png](/img/user/첨부파일/prim5_iamge.png)
+![prim5_iamge.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/prim5_iamge.png)
 
 A, C, B, D와 인접한 노드들 중 가장 낮은 가중치로 연결된 정점은 E다. 집합에 E를 넣고 DE 가중치를 더한다.
 
-![prim6_iamge.png](/img/user/첨부파일/prim6_iamge.png)
+![prim6_iamge.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/prim6_iamge.png)
 
 A, C, B, D, E와 인접한 노드들 중 가장 낮은 가중치로 연결된 정점 F를 집합에 넣고 DF 가중치를 더한다. 트리의 집합에 속한 원소의 개수가 N이 되었으므로 탐색을 중단한다. 탐색 결과 최소 신장 트리 구축의 비용은 13으로 확인되었다.
 ### 구현

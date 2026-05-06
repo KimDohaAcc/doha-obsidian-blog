@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/공부/SW/DTO(Data Transfer Object)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/SW/DTO(Data Transfer Object)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/sw/dto(data-transfer-object)"}}
 ---
 
 

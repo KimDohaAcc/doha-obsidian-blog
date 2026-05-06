@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/투 포인터(Two-Pointers)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/공부/알고리즘/탐색/투 포인터(Two-Pointers)/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/공부/알고리즘/탐색/투-포인터(two-pointers)"}}
 ---
 
 
-![two_pointer_image.png](/img/user/첨부파일/two_pointer_image.png)
+![two_pointer_image.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/two_pointer_image.png)
 
 **1차원 배열**에서 각자 다른 원소를 가리키고 있는 **2개의 포인터**를 원하는 값을 찾을 때까지 탐색하는 알고리즘
 
